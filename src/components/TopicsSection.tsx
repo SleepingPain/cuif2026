@@ -119,6 +119,26 @@ export function TopicsSection() {
           </p>
         </div>
 
+        {/* 도시 비주얼 3종 — fal gpt-image-2 생성 (크림 톤) */}
+        <div className="grid md:grid-cols-3 gap-6 mb-10">
+          {[
+            { img: '/images/city_dongducheon.jpg', name: 'Mission 01 · 동두천', sub: '보상·공여지·청년 회귀' },
+            { img: '/images/city_yeoncheon.jpg', name: 'Mission 02 · 연천 ★', sub: '교육으로 다시 사는 지역' },
+            { img: '/images/city_pocheon.jpg', name: 'Mission 03 · 포천', sub: '청년·교육·미래 자원' },
+          ].map((city) => (
+            <div key={city.name} className="relative rounded-lg overflow-hidden shadow-sm">
+              <img src={city.img} alt={city.name} className="w-full h-44 object-cover" />
+              <div
+                className="absolute inset-0 flex flex-col justify-end p-4"
+                style={{ backgroundImage: 'linear-gradient(180deg, rgba(24,23,21,0) 40%, rgba(24,23,21,0.72) 100%)' }}
+              >
+                <p className="text-white" style={{ fontWeight: 600 }}>{city.name}</p>
+                <p className="text-sm" style={{ color: 'rgba(255,255,255,0.75)' }}>{city.sub}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           {topics.map((topic) => (
             <Card 

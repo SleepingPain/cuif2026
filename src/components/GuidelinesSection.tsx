@@ -121,6 +121,24 @@ export function GuidelinesSection() {
           </div>
         </div>
 
+        {/* 아이디어 → 정책 일러스트 (fal gpt-image-2) */}
+        <div className="mb-20 max-w-5xl mx-auto">
+          <div className="relative rounded-lg overflow-hidden shadow-sm">
+            <img
+              src="/images/idea_policy.jpg"
+              alt="아이디어 전구가 도시 설계도로 이어지는 일러스트"
+              className="w-full object-cover"
+              style={{ maxHeight: '340px', objectPosition: 'center 40%' }}
+            />
+            <p
+              className="absolute bottom-0 left-0 right-0 p-3 text-center text-sm text-white"
+              style={{ backgroundImage: 'linear-gradient(180deg, rgba(24,23,21,0) 0%, rgba(24,23,21,0.66) 100%)' }}
+            >
+              여러분의 아이디어가, 우리 지역을 바꾸는 정책이 됩니다
+            </p>
+          </div>
+        </div>
+
         {/* Timeline */}
         <div className="mb-20">
           <h3 className="text-2xl mb-8 text-center">대회 일정</h3>

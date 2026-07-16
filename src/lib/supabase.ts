@@ -374,39 +374,55 @@ export const videoService = {
   }
 }
 
-// 더미 갤러리 이미지 데이터 (Supabase 연결이 없을 때 사용)
+// 더미 갤러리 이미지 데이터 (Supabase 연결이 없을 때 사용) — 2025 실제 행사 사진 + 2026 브랜드 일러스트
 const dummyGalleryImages: GalleryImage[] = [
   {
     id: 1,
-    image_url: 'https://ohfkqbgpjtqhcddgbzoa.supabase.co/storage/v1/object/public/PHOTO%20DB/CUIF%20all.jpg',
-    title: 'CUIF 전체',
+    image_url: '/images/gallery_2025_awards.jpg',
+    title: '2025 CUIF+ 본선 시상식 — 대상·최우수상',
     display_order: 1,
-    created_at: '2025-09-15T10:00:00Z',
-    updated_at: '2025-09-15T10:00:00Z'
+    created_at: '2026-07-16T10:00:00Z',
+    updated_at: '2026-07-16T10:00:00Z'
   },
   {
     id: 2,
-    image_url: 'https://ohfkqbgpjtqhcddgbzoa.supabase.co/storage/v1/object/public/PHOTO%20DB/CUIF%20DB.jpg',
-    title: 'CUIF DB',
+    image_url: '/images/gallery_2025_final.jpg',
+    title: '2025 CUIF+ 본선 발표 현장',
     display_order: 2,
-    created_at: '2025-09-15T10:00:00Z',
-    updated_at: '2025-09-15T10:00:00Z'
+    created_at: '2026-07-16T10:00:00Z',
+    updated_at: '2026-07-16T10:00:00Z'
   },
   {
     id: 3,
-    image_url: 'https://ohfkqbgpjtqhcddgbzoa.supabase.co/storage/v1/object/public/PHOTO%20DB/CUIF%20HS.jpg',
-    title: 'CUIF HS',
+    image_url: '/images/gallery_2025_activity.jpg',
+    title: '팀 활동 · 현장 실행',
     display_order: 3,
-    created_at: '2025-09-15T10:00:00Z',
-    updated_at: '2025-09-15T10:00:00Z'
+    created_at: '2026-07-16T10:00:00Z',
+    updated_at: '2026-07-16T10:00:00Z'
   },
   {
     id: 4,
-    image_url: 'https://ohfkqbgpjtqhcddgbzoa.supabase.co/storage/v1/object/public/PHOTO%20DB/CUIF%20MJ.jpg',
-    title: 'CUIF MJ',
+    image_url: '/images/gallery_2025_dongducheon.jpg',
+    title: '동두천시 정책 전달',
     display_order: 4,
-    created_at: '2025-09-15T10:00:00Z',
-    updated_at: '2025-09-15T10:00:00Z'
+    created_at: '2026-07-16T10:00:00Z',
+    updated_at: '2026-07-16T10:00:00Z'
+  },
+  {
+    id: 5,
+    image_url: '/images/network_7univ.jpg',
+    title: '2026 — 경기북부 7개 대학 연합',
+    display_order: 5,
+    created_at: '2026-07-16T10:00:00Z',
+    updated_at: '2026-07-16T10:00:00Z'
+  },
+  {
+    id: 6,
+    image_url: '/images/hero_2026.jpg',
+    title: '2026 CUIF+',
+    display_order: 6,
+    created_at: '2026-07-16T10:00:00Z',
+    updated_at: '2026-07-16T10:00:00Z'
   }
 ];
 

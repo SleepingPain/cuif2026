@@ -41,6 +41,16 @@ export function BiggerStageSection() {
           </p>
         </div>
 
+        {/* 페스티벌 무대 일러스트 (fal gpt-image-2) */}
+        <div className="max-w-4xl mx-auto mb-10 rounded-lg overflow-hidden">
+          <img
+            src="/images/festival_stage.jpg"
+            alt="관객이 환호하는 아이디어 페스티벌 무대"
+            className="w-full object-cover"
+            style={{ maxHeight: '360px', objectPosition: 'center 30%' }}
+          />
+        </div>
+
         <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
           {stages.map((stage) => (
             <Card
