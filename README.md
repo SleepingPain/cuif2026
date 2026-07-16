@@ -1,7 +1,7 @@
 
-# CUIF PLUS 2025
+# 2026 CUIF+ — 경기북부 대학생 정책 아이디어 페스티벌
 
-This is a code bundle for CUIF PLUS 2025. The original project is available at https://www.figma.com/design/JGNCV5u8EYZYT66KDOJ2xE/CUIF-PLUS-2025.
+This is a code bundle for 2026 CUIF+ (originally CUIF PLUS 2025). The original project is available at https://www.figma.com/design/JGNCV5u8EYZYT66KDOJ2xE/CUIF-PLUS-2025.
 
 ## 환경 설정
 

@@ -52,7 +52,7 @@ export function VideoPage() {
               </Button>
               <div className="flex items-center gap-2">
                 <Lightbulb className="w-6 h-6 text-primary" />
-                <span className="text-lg font-semibold">CUIF+ 2025 영상</span>
+                <span className="text-lg font-semibold">2026 CUIF+ 영상</span>
               </div>
             </div>
           </div>
@@ -69,7 +69,7 @@ export function VideoPage() {
               <h1 className="text-4xl font-bold">영상</h1>
             </div>
             <p className="text-muted-foreground text-lg">
-              CUIF+ 2025 대회와 관련된 모든 영상을 확인하세요
+              2026 CUIF+ 대회와 관련된 모든 영상을 확인하세요
             </p>
           </div>
 

@@ -5,6 +5,7 @@ import { NoticeSection } from '../components/NoticeSection';
 import { TopicsSection } from '../components/TopicsSection';
 import { GuidelinesSection } from '../components/GuidelinesSection';
 import { FAQSection } from '../components/FAQSection';
+import { BiggerStageSection } from '../components/BiggerStageSection';
 import { ContactSection } from '../components/ContactSection';
 import { Lightbulb } from 'lucide-react';
 
@@ -44,6 +45,11 @@ export function HomePage() {
         <FAQSection />
       </section>
 
+      {/* Bigger Stage Section — 2026 신설 */}
+      <section className="snap-start">
+        <BiggerStageSection />
+      </section>
+
       {/* Contact Section */}
       <section className="snap-start">
         <ContactSection />
@@ -56,10 +62,11 @@ export function HomePage() {
             <div className="md:col-span-2">
               <div className="flex items-center gap-2 mb-4">
                 <Lightbulb className="w-8 h-8 text-primary" />
-                <h3 className="text-2xl">CUIF+ 2025</h3>
+                <h3 className="text-2xl">2026 CUIF+</h3>
               </div>
               <p className="text-muted-foreground mb-4 max-w-md">
-                학생들의 창의적이고 혁신적인 아이디어를 발굴하고 실현하여 지역사회 발전에 기여합니다.
+                경기북부 대학생 정책 아이디어 페스티벌.
+                여러분의 시선이, 곧 경기 북부의 미래입니다. 2026 CUIF+에서 만나요.
               </p>
             </div>
             
@@ -87,7 +94,7 @@ export function HomePage() {
           </div>
           
           <div className="border-t mt-8 pt-8 text-center text-muted-foreground">
-            <p>&copy; 2025 CUIF+ 3川지역 정책 아이디어 경진대회. 차의과학대학교 RISE사업단</p>
+            <p>&copy; 2026 CUIF+ 경기북부 대학생 정책 아이디어 페스티벌. 차의과학대학교 RISE사업단</p>
           </div>
         </div>
       </footer>

@@ -1,4 +1,4 @@
--- CUIF+ 2025 공지사항 테이블 생성 SQL
+-- 2026 CUIF+ 공지사항 테이블 생성 SQL
 -- Supabase 대시보드의 SQL Editor에서 실행하세요
 
 -- 공지사항 테이블 생성
@@ -31,13 +31,13 @@ CREATE TRIGGER update_notices_updated_at
 
 -- 샘플 데이터 삽입 (선택사항)
 INSERT INTO notices (title, content, author, is_important) VALUES
-('CUIF+ 2025 대회 개최 안내', 
-'안녕하세요. CUIF+ 2025 3川지역 정책 아이디어 경진대회 개최를 안내드립니다.
+('2026 CUIF+ 개최 안내', 
+'안녕하세요. 2026 CUIF+ 경기북부 대학생 정책 아이디어 페스티벌 개최를 안내드립니다.
 
 이번 대회는 학생들의 창의적이고 혁신적인 아이디어를 발굴하여 지역사회 발전에 기여하고자 합니다.
 
-참가 신청 기간: 2025년 10월 1일 ~ 10월 31일
-대회 일정: 2025년 11월 중
+예선 제안서 제출: 2026년 10월 22일 (목)
+본선 대회: 2026년 11월 5일 (목)
 참가 대상: 대학(원)생 2-7명으로 구성된 팀
 
 많은 관심과 참여 부탁드립니다.', 
@@ -45,9 +45,9 @@ INSERT INTO notices (title, content, author, is_important) VALUES
 true),
 
 ('사전 설명회 개최 안내', 
-'CUIF+ 2025 대회 참가를 희망하는 학생들을 위한 사전 설명회를 개최합니다.
+'2026 CUIF+ 팀 구성이 상시 진행 중입니다. (설명회 6/18 온라인 종료)
 
-일시: 2025년 9월 25일 (수) 오후 2시
+예선 제안서 제출: 2026년 10월 22일 (목)
 장소: 차의과학대학교 본관 대강당
 내용: 대회 개요, 참가 방법, 평가 기준 등
 
@@ -200,7 +200,7 @@ CREATE POLICY "Anyone can read videos" ON videos
 
 -- 샘플 데이터 (선택사항)
 INSERT INTO videos (title, youtube_url) VALUES
-('CUIF+ 2025 대회 소개 영상', 'https://www.youtube.com/embed/Fxjirx90whk'),
+('2026 CUIF+ 소개 영상', 'https://www.youtube.com/embed/Fxjirx90whk'),
 ('사전설명회 영상', 'https://www.youtube.com/embed/example2');
 
 -- ============================================

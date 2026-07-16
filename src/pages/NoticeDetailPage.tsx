@@ -60,7 +60,7 @@ export function NoticeDetailPage() {
                 </Button>
                 <div className="flex items-center gap-2">
                   <Lightbulb className="w-6 h-6 text-primary" />
-                  <span className="text-lg font-semibold">CUIF+ 2025 공지사항</span>
+                  <span className="text-lg font-semibold">2026 CUIF+ 공지사항</span>
                 </div>
               </div>
             </div>
@@ -104,7 +104,7 @@ export function NoticeDetailPage() {
                 </Button>
                 <div className="flex items-center gap-2">
                   <Lightbulb className="w-6 h-6 text-primary" />
-                  <span className="text-lg font-semibold">CUIF+ 2025 공지사항</span>
+                  <span className="text-lg font-semibold">2026 CUIF+ 공지사항</span>
                 </div>
               </div>
             </div>
@@ -149,7 +149,7 @@ export function NoticeDetailPage() {
               </Button>
               <div className="flex items-center gap-2">
                 <Lightbulb className="w-6 h-6 text-primary" />
-                <span className="text-lg font-semibold">CUIF+ 2025 공지사항</span>
+                <span className="text-lg font-semibold">2026 CUIF+ 공지사항</span>
               </div>
             </div>
           </div>

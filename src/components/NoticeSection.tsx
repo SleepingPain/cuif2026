@@ -60,7 +60,7 @@ export function NoticeSection() {
             <h2 className="text-3xl font-bold">공지사항</h2>
           </div>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            CUIF+ 2025 대회와 관련된 중요한 소식들을 확인하세요
+            2026 CUIF+ 대회와 관련된 중요한 소식들을 확인하세요
           </p>
         </div>
 

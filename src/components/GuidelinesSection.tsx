@@ -13,25 +13,40 @@ import {
 } from 'lucide-react';
 
 export function GuidelinesSection() {
+  // 2026 일정 (6/18 설명회 → 11/5 본선)
   const timeline = [
     {
-      date: "~ 2025.10.15 (수) 23:59",
-      title: "참가 신청 마감",
-      description: "팀 구성 및 참가신청서 제출",
+      date: "2026.6.18 (목) · ONLINE",
+      title: "설명회 (완료)",
+      description: "팀 구성 및 활동 시작 — 지금도 팀 구성 상시 진행 중",
+      icon: Users
+    },
+    {
+      date: "2026.10.22 (목)",
+      title: "예선 제안서 제출",
+      description: "팀별 정책·홍보 기획 제안서 제출",
       icon: FileText
     },
     {
-      date: "2025.11.18 (화)",
-      title: "예선 발표",
-      description: "10개 팀 선정 발표",
+      date: "10.23 (금) → 10.26 (월)",
+      title: "예선 심사 · 결과 발표",
+      description: "예선 심사 후 본선 진출팀 발표",
       icon: CheckCircle
     },
     {
-      date: "2025.11.27 (목) 17:00~21:00",
-      title: "최종 발표회",
-      description: "최종 PT 및 시상식 (예정)",
+      date: "2026.11.5 (목) · FINAL",
+      title: "CUIF+ 본선 대회",
+      description: "본선 발표 및 시상",
       icon: Trophy
     }
+  ];
+
+  // 진행 프로세스 4단계 (6월 ~ 11월) — 기획에 그치지 않고 끝까지 실행
+  const processSteps = [
+    { no: "01", title: "문제 발굴", description: "지역 현안 탐색 · 현장 답사 · 인터뷰" },
+    { no: "02", title: "아이디어 제안", description: "창의적 해결책 · 정책/홍보 기획안 수립" },
+    { no: "03", title: "현장 실행", description: "약 4개월간 SNS 채널 운영 · 콘텐츠 제작·배포" },
+    { no: "04", title: "정책 제안", description: "본선 발표 · 지자체 정책 연계" }
   ];
 
   const requirements = [
@@ -39,34 +54,36 @@ export function GuidelinesSection() {
       icon: Users,
       title: "팀 구성 요건",
       content: [
-        "본교 재학생: 최대 5인",
-        "지역 구성원: 최대 2인 (선택사항)",
-        "⚠️ 차의과학대학교 재학생은 거주지와 관계없이 '본교 재학생' 자격으로만 참여 가능"
+        "팀 규모: 3 ~ 5인",
+        "경기북부 7개 대학 재학생 누구나",
+        "친구든 후배든 지역 주민이든, 지금 함께할 팀을 만들어 보세요"
       ]
     },
     {
       icon: CheckCircle,
-      title: "예선 평가 가산점",
+      title: "예선 평가 가산점 2종",
       content: [
-        "학과/학년 융합 구성 시",
-        "지역 구성원 포함 시",
-        "⚠️ 지역 구성원은 추후 재직증명서, 재학증명서 등 서류 제출 필요"
+        "① 1학년 신입생 포함 시 가산점",
+        "② 포천·동두천·연천 지역 시민 포함 시 가산점",
+        "(해당 지역에 살며 문제를 직접 겪는 시민)"
       ]
     },
     {
       icon: Trophy,
       title: "시상 내역",
       content: [
-        "총 상금 1,000만원",
-        "우수 아이디어 정책 연계 기회"
+        "대상 1팀 200만원 · 최우수상 1팀 100만원",
+        "우수상 2팀 각 70만원 · 장려상 2팀 각 50만원",
+        "⚠️ 상금 규모는 협의 중이며 최종 결정 시 변동될 수 있습니다"
       ]
     },
     {
       icon: DollarSign,
       title: "지원 혜택",
       content: [
-        "전문 멘토링 제공",
-        "실제 정책 반영 기회"
+        "모든 참가 팀에 팀 운영비 지원",
+        "연천 과제 선택 팀에는 추가 지원금",
+        "멘토링 · 선배 노하우 영상 · 참가 증명서 · 취업용 포트폴리오"
       ]
     }
   ];
@@ -76,20 +93,38 @@ export function GuidelinesSection() {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <Badge variant="outline" className="mb-4">
-            참가 안내
+            참가 안내 · How It Works
           </Badge>
           <h2 className="text-4xl md:text-5xl mb-6">
-            CUIF+ 2025 참가 방법
+            2026 CUIF+ 참가 방법
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            아래 일정과 요구사항을 확인하고 팀을 구성하여 참가해보세요. 창의적인 아이디어와 열정만 있다면 누구나 참가할 수 있습니다.
+            아래 일정과 요구사항을 확인하고 팀을 구성하여 참가해보세요. 기획에 그치지 않고 끝까지 실행하는 대회입니다.
           </p>
+        </div>
+
+        {/* Process — 4단계 */}
+        <div className="mb-20">
+          <h3 className="text-2xl mb-8 text-center">진행 프로세스 (6월 ~ 11월)</h3>
+          <div className="grid md:grid-cols-4 gap-6 max-w-5xl mx-auto">
+            {processSteps.map((step) => (
+              <Card key={step.no} className="text-center">
+                <CardHeader>
+                  <span className="text-3xl" style={{ color: '#cc785c', opacity: 0.55 }}>{step.no}</span>
+                  <CardTitle className="text-lg">{step.title}</CardTitle>
+                </CardHeader>
+                <CardContent>
+                  <p className="text-muted-foreground text-sm">{step.description}</p>
+                </CardContent>
+              </Card>
+            ))}
+          </div>
         </div>
 
         {/* Timeline */}
         <div className="mb-20">
           <h3 className="text-2xl mb-8 text-center">대회 일정</h3>
-          <div className="grid md:grid-cols-3 gap-6 max-w-4xl mx-auto">
+          <div className="grid md:grid-cols-4 gap-6 max-w-5xl mx-auto">
             {timeline.map((item, index) => (
               <Card key={index} className="relative">
                 <CardHeader className="text-center">
@@ -143,19 +178,19 @@ export function GuidelinesSection() {
         <div className="text-center mt-12">
           <div className="bg-blue-50 border border-blue-200 rounded-lg p-6 max-w-3xl mx-auto mb-6">
             <p className="text-blue-900 mb-2">
-              ‼️ 모든 자세한 내용은 페이지 하단에서 확인이 가능합니다 ‼️
+              지금, 팀을 만들어 도전하세요 — 팀 구성은 상시 진행 중입니다
             </p>
             <p className="text-sm text-blue-800">
-              신청 마감: 2025년 10월 15일(수) 23:59
+              예선 제안서 제출: 2026년 10월 22일(목) · 신청 방법은 공지사항에서 안내됩니다
             </p>
           </div>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button 
+            <Button
               size="lg"
-              onClick={() => window.open('https://forms.gle/LFa9TKvvseD6j3Ab6', '_blank')} className="bg-[rgba(104,0,158,1)]"
+              onClick={() => { window.location.href = '/inform'; }}
             >
               <FileText className="w-5 h-5 mr-2" />
-              구글폼으로 참가 신청하기
+              참가 신청 안내 보기 (공지사항)
             </Button>
           </div>
         </div>

@@ -1,93 +1,92 @@
 import { Card, CardContent, CardHeader, CardTitle } from './ui/card';
 import { Badge } from './ui/badge';
-import { 
-  Shield, 
-  Users, 
-  Trees, 
-  Building2, 
-  Camera, 
+import {
+  Shield,
+  Users,
+  Trees,
+  Building2,
+  Camera,
   GraduationCap,
-  MapPin,
-  Mountain,
-  Factory
+  MapPin
 } from 'lucide-react';
 
 export function TopicsSection() {
+  // 2026 도시별 과제 — 3개 도시 · 총 9개 (Mission 01 동두천 / 02 연천 / 03 포천)
   const topics = [
-    // 포천 (3개)
+    // Mission 01 · 동두천
     {
       id: 1,
-      icon: Building2,
-      title: "구도심 재생",
-      description: "포천 도시재생, 구도심 활성화, 지역공동체 회복을 위한 종합적인 접근이 요구됩니다.",
-      hashtags: "#포천도시재생 #구도심활성화 #지역공동체회복",
-      city: "포천"
+      icon: Shield,
+      title: "국가 차원의 실질적 보상·지원 정책",
+      description: "75년간 미군기지로 감내해 온 지역의 희생에 대한 국가 차원의 실질적 보상·지원 정책을 발굴합니다.",
+      hashtags: "#미군기지75년 #국가보상 #지원정책",
+      city: "동두천"
     },
     {
       id: 2,
-      icon: Camera,
-      title: "관광 활성화",
-      description: "포천 관광 활성화, 체류형 관광도시, 생태문화 브랜드 구축을 통한 지역 발전 방안을 제안합니다.",
-      hashtags: "#포천관광활성화 #체류형관광도시 #생태문화브랜드",
-      city: "포천"
+      icon: MapPin,
+      title: "반환 공여지 활용",
+      description: "반환 공여지 활용을 통해 동두천의 미래 성장 동력을 만듭니다.",
+      hashtags: "#반환공여지 #미래성장동력 #도시발전",
+      city: "동두천"
     },
     {
       id: 3,
-      icon: GraduationCap,
-      title: "미래교육 모델 구축",
-      description: "포천 미래교육, 교육격차 해소, 지역인재 정주를 위한 혁신적 교육 모델이 필요합니다.",
-      hashtags: "#포천미래교육 #교육격차해소 #지역인재정주",
-      city: "포천"
+      icon: Users,
+      title: "다시 돌아오는 동두천",
+      description: "청년이 떠나지 않고 다시 돌아오는 동두천을 만드는 방안을 제안합니다.",
+      hashtags: "#청년유출대응 #청년회귀 #정주여건",
+      city: "동두천"
     },
-    // 동두천 (3개)
+    // Mission 02 · 연천 (★ 추가 지원금 대상)
     {
       id: 4,
-      icon: MapPin,
-      title: "미군 공여지 활용 방안",
-      description: "동두천 공여지 활용, 지역경제 회복, 도시발전 핵심과제 해결을 위한 전략적 방안을 모색합니다.",
-      hashtags: "#동두천공여지활용 #지역경제회복 #도시발전핵심과제",
-      city: "동두천"
+      icon: GraduationCap,
+      title: "소규모 학교의 지속 가능한 운영",
+      description: "소규모 학교의 지속 가능한 운영을 위한 혁신 방안을 찾습니다.",
+      hashtags: "#소규모학교 #지속가능운영 #교육혁신",
+      city: "연천"
     },
     {
       id: 5,
-      icon: Mountain,
-      title: "소요산 관광 활성화",
-      description: "소요산 관광 활성화, 체류형 휴양지, 지역 매력도 제고를 통한 관광 산업 육성 방안이 필요합니다.",
-      hashtags: "#소요산관광활성화 #체류형휴양지 #지역매력도제고",
-      city: "동두천"
+      icon: Building2,
+      title: "학교와 지역사회 연계·협력",
+      description: "학교와 지역사회 간 연계·협력을 강화하는 방안을 제안합니다.",
+      hashtags: "#학교지역연계 #지역사회협력 #상생",
+      city: "연천"
     },
     {
       id: 6,
-      icon: Factory,
-      title: "방위산업 클러스터 조성",
-      description: "동두천 방위산업, 국방신산업 도시, 지역경제 도약을 위한 산업 클러스터 구축 방안을 제시합니다.",
-      hashtags: "#동두천방위산업 #국방신산업도시 #지역경제도약",
-      city: "동두천"
+      icon: Trees,
+      title: "교육을 통한 인구 유입",
+      description: "교육을 통한 인구 유입과 정주 여건 개선 방안을 모색합니다.",
+      hashtags: "#교육인구유입 #정주여건개선 #지역활성화",
+      city: "연천"
     },
-    // 연천 (3개)
+    // Mission 03 · 포천
     {
       id: 7,
-      icon: Shield,
-      title: "규제 및 수도권 역차별 문제 해결 방안",
-      description: "접경지역, 군사보호구역, 수도권 규제 문제에 대한 혁신적 해결책을 제시합니다.",
-      hashtags: "#접경지역 #군사보호구역 #수도권규제",
-      city: "연천"
+      icon: Users,
+      title: "청년이 머무는 포천",
+      description: "인구 감소·청년 유출에 대응하고 정주 여건을 개선해, 청년이 머무는 포천을 만듭니다.",
+      hashtags: "#청년정주 #인구감소대응 #정주여건개선",
+      city: "포천"
     },
     {
       id: 8,
-      icon: Users,
-      title: "인구 감소 및 고령화에 대한 대처 방안",
-      description: "인구소멸위기, 청년정착과 출산친화, 고령사회 대응을 위한 실질적 방안을 모색합니다.",
-      hashtags: "#인구소멸위기 #청년정착과출산친화 #고령사회대응",
-      city: "연천"
+      icon: GraduationCap,
+      title: "교육도시 포천",
+      description: "교육·돌봄을 통한 지역 발전 방안으로 교육도시 포천을 설계합니다.",
+      hashtags: "#교육도시포천 #교육돌봄 #지역발전",
+      city: "포천"
     },
     {
       id: 9,
-      icon: Trees,
-      title: "자연환경 활용 관광 활성화",
-      description: "연천 생태관광, 유네스코 자연유산, 지속가능한 지역발전을 위한 창의적 아이디어가 필요합니다.",
-      hashtags: "#연천생태관광 #유네스코자연유산 #지속가능지역발전",
-      city: "연천"
+      icon: Camera,
+      title: "드론·관광·지역 자원을 활용한 미래 포천",
+      description: "드론·방위산업·관광지·평화경제특구·농특산물로 지역경제와 생활인구를 활성화합니다.",
+      hashtags: "#드론 #방위산업 #평화경제특구 #관광",
+      city: "포천"
     }
   ];
 
@@ -105,14 +104,18 @@ export function TopicsSection() {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <Badge variant="outline" className="mb-4">
-            2025년 공모 주제
+            2026년 도시별 과제 · Missions
           </Badge>
           <h2 className="text-4xl md:text-5xl mb-6">
-            지역 현안 및 참가 주제
+            3개 도시 · 9개 과제
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            각 지역별 현안 및 참가주제를 정리한 섹션입니다.<br />
-            나열된 다음 9가지 주제 중 한가지를 택하여 지원하시길 바랍니다.
+            2025년에는 공개되지 못했던 포천 과제가 올해 3개로 확정되어,
+            포천·동두천·연천 세 도시 9개 과제가 모두 준비되었습니다.<br />
+            아래 9가지 과제 중 하나를 선택해 지원하세요.
+          </p>
+          <p className="mt-4 text-sm text-muted-foreground">
+            ★ <strong>연천 과제</strong>를 선택한 팀에게는 기본 제작 지원금에 더해 <strong>추가 지원금</strong>이 지급될 예정입니다.
           </p>
         </div>
 

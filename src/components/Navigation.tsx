@@ -12,7 +12,7 @@ export function Navigation() {
           {/* Logo */}
           <div className="flex items-center gap-2">
             <Lightbulb className="w-8 h-8 text-primary" />
-            <span className="text-xl">CUIF+ 2025</span>
+            <span className="text-xl">2026 CUIF+</span>
           </div>
 
           {/* Desktop Navigation */}
@@ -35,8 +35,8 @@ export function Navigation() {
             <a href="#contact" className="hover:text-primary transition-colors">
               문의
             </a>
-            <Button onClick={() => window.open('https://forms.gle/LFa9TKvvseD6j3Ab6', '_blank')}>
-              참가 신청
+            <Button onClick={() => { window.location.href = '/inform'; }}>
+              참가 신청 안내
             </Button>
           </div>
 
@@ -97,14 +97,14 @@ export function Navigation() {
               >
                 문의
               </a>
-              <Button 
+              <Button
                 className="w-full"
                 onClick={() => {
-                  window.open('https://forms.gle/LFa9TKvvseD6j3Ab6', '_blank');
+                  window.location.href = '/inform';
                   setIsMenuOpen(false);
                 }}
               >
-                참가 신청
+                참가 신청 안내
               </Button>
             </div>
           </div>
