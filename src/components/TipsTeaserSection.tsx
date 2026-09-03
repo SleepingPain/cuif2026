@@ -47,10 +47,10 @@ export function TipsTeaserSection() {
                 padding: '20px',
               }}
             >
-              <p style={{ color: CORAL, fontSize: '13px', fontWeight: 700, letterSpacing: '0.08em' }}>
+              <p style={{ color: CORAL, fontSize: '13px', fontWeight: 600, letterSpacing: '0.08em' }}>
                 {c.no}
               </p>
-              <p className="mt-2" style={{ color: INK, fontSize: '17px', fontWeight: 700 }}>
+              <p className="mt-2" style={{ color: INK, fontSize: '17px', fontWeight: 600 }}>
                 {c.title}
               </p>
               <p className="mt-2" style={{ color: BODY, fontSize: '14px', lineHeight: 1.7 }}>

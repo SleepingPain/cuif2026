@@ -1,6 +1,24 @@
 import { Button } from './ui/button';
 import { Menu, X, Lightbulb } from 'lucide-react';
 import { useState } from 'react';
+import type { CSSProperties } from 'react';
+
+// 사전 컴파일 Tailwind CSS 프로젝트 → 신규 스타일은 인라인으로
+// 「공모전 TIP」 오른쪽 위에 붙는 NEW 배지 (2026.9 신설 페이지 안내)
+const NEW_BADGE: CSSProperties = {
+  display: 'inline-block',
+  verticalAlign: 'super',
+  marginLeft: '4px',
+  backgroundColor: '#cc785c',
+  color: '#ffffff',
+  fontSize: '9px',
+  fontWeight: 700,
+  letterSpacing: '0.06em',
+  lineHeight: 1,
+  padding: '3px 5px',
+  borderRadius: '4px',
+  pointerEvents: 'none',
+};
 
 export function Navigation() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -34,6 +52,7 @@ export function Navigation() {
             </a>
             <a href="/tips" className="hover:text-primary transition-colors">
               공모전 TIP
+              <span style={NEW_BADGE}>NEW</span>
             </a>
             <a href="#contact" className="hover:text-primary transition-colors">
               문의
@@ -95,10 +114,11 @@ export function Navigation() {
               </a>
               <a
                 href="/tips"
-                className="hover:text-primary transition-colors"
+                className="w-fit hover:text-primary transition-colors"
                 onClick={() => setIsMenuOpen(false)}
               >
                 공모전 TIP
+                <span style={NEW_BADGE}>NEW</span>
               </a>
               <a 
                 href="#contact" 
