@@ -1,7 +1,7 @@
 import { Button } from './ui/button';
 import { Badge } from './ui/badge';
 import { useNavigate } from 'react-router-dom';
-import { Calendar, Users, Lightbulb, FileText } from 'lucide-react';
+import { Calendar, Users, Lightbulb, FileText, Trophy } from 'lucide-react';
 
 // 2026 브랜드 컬러 (크림·코랄·다크) — 프로젝트가 사전 컴파일 Tailwind CSS를 쓰므로 인라인 스타일 사용
 const DARK = '#181715';
@@ -90,6 +90,23 @@ export function HeroSection() {
         <p className="mt-4 text-sm" style={{ color: 'rgba(255,255,255,0.5)' }}>
           팀 구성 상시 진행 중 · 예선 제안서 제출 10/22(목)
         </p>
+
+        {/* 선배 노하우 아카이브(/tips) 진입 — 2026 신설 */}
+        <a
+          href="/tips"
+          className="inline-flex items-center gap-2 mt-8"
+          style={{
+            color: CORAL,
+            fontSize: '14px',
+            fontWeight: 600,
+            border: '1px solid rgba(204,120,92,0.5)',
+            borderRadius: '999px',
+            padding: '8px 16px',
+          }}
+        >
+          <Trophy className="w-4 h-4" />
+          NEW · 대상 수상 선배가 공개한 「공모전 TIP」 보기
+        </a>
       </div>
 
       {/* Scroll Indicator */}
