@@ -112,7 +112,7 @@ export function FAQSection() {
               </li>
               <li className="flex items-start gap-3">
                 <span className="text-primary mt-1">•</span>
-                <span>참가 대상: 경기북부 연합 7개 대학(차의과학대·가톨릭대·경민대·대진대·동양대·부천대·중부대) 재학생</span>
+                <span>참가 대상: 경기북부 연합 6개 대학(차의과학대·가톨릭대·경민대·대진대·동양대·부천대) 재학생</span>
               </li>
               <li className="flex items-start gap-3">
                 <span className="text-primary mt-1">•</span>
