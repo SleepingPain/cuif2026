@@ -32,6 +32,9 @@ export function Navigation() {
             <a href="#faq" className="hover:text-primary transition-colors">
               FAQ
             </a>
+            <a href="/tips" className="hover:text-primary transition-colors">
+              공모전 TIP
+            </a>
             <a href="#contact" className="hover:text-primary transition-colors">
               문의
             </a>
@@ -83,12 +86,19 @@ export function Navigation() {
               >
                 참가 안내
               </a>
-              <a 
-                href="#faq" 
+              <a
+                href="#faq"
                 className="hover:text-primary transition-colors"
                 onClick={() => setIsMenuOpen(false)}
               >
                 FAQ
+              </a>
+              <a
+                href="/tips"
+                className="hover:text-primary transition-colors"
+                onClick={() => setIsMenuOpen(false)}
+              >
+                공모전 TIP
               </a>
               <a 
                 href="#contact" 

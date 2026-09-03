@@ -6,6 +6,7 @@ import { InformPage } from './pages/InformPage';
 import { NoticeDetailPage } from './pages/NoticeDetailPage';
 import { VideoPage } from './pages/VideoPage';
 import { GalleryPage } from './pages/GalleryPage';
+import { TipsPage } from './pages/TipsPage';
 import { Analytics } from '@vercel/analytics/react';
 
 export default function App() {
@@ -26,6 +27,7 @@ export default function App() {
         <Route path="/inform/:id" element={<NoticeDetailPage />} />
         <Route path="/video" element={<VideoPage />} />
         <Route path="/gallery" element={<GalleryPage />} />
+        <Route path="/tips" element={<TipsPage />} />
         {/* 404 처리: 모든 다른 경로는 홈페이지로 리다이렉트 */}
         <Route path="*" element={<HomePage />} />
       </Routes>

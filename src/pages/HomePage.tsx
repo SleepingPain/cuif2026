@@ -4,6 +4,7 @@ import { AboutSection } from '../components/AboutSection';
 import { NoticeSection } from '../components/NoticeSection';
 import { TopicsSection } from '../components/TopicsSection';
 import { GuidelinesSection } from '../components/GuidelinesSection';
+import { TipsTeaserSection } from '../components/TipsTeaserSection';
 import { FAQSection } from '../components/FAQSection';
 import { BiggerStageSection } from '../components/BiggerStageSection';
 import { ContactSection } from '../components/ContactSection';
@@ -45,6 +46,11 @@ export function HomePage() {
         <FAQSection />
       </section>
 
+      {/* Tips Teaser — 2026 신설: 선배(최준혁) 공모전 노하우 아카이브 진입점 */}
+      <section className="snap-start">
+        <TipsTeaserSection />
+      </section>
+
       {/* Bigger Stage Section — 2026 신설 */}
       <section className="snap-start">
         <BiggerStageSection />
@@ -77,6 +83,7 @@ export function HomePage() {
                 <li><a href="/inform" className="hover:text-foreground">공지사항</a></li>
                 <li><a href="#topics" className="hover:text-foreground">공모 주제</a></li>
                 <li><a href="#guidelines" className="hover:text-foreground">참가 안내</a></li>
+                <li><a href="/tips" className="hover:text-foreground">공모전 TIP</a></li>
                 <li><a href="#faq" className="hover:text-foreground">FAQ</a></li>
               </ul>
             </div>
