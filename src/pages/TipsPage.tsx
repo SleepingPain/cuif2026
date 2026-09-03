@@ -756,7 +756,7 @@ function Blocks({ blocks }: { blocks: Block[] }) {
               key={i}
               style={{
                 fontSize: '19px',
-                fontWeight: 700,
+                fontWeight: 600,
                 color: INK,
                 lineHeight: 1.5,
                 margin: '26px 0 10px',
@@ -930,7 +930,7 @@ export function TipsPage() {
       <section className="py-20">
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto">
-            <h2 className="text-2xl mb-8" style={{ color: INK, fontWeight: 700 }}>
+            <h2 className="text-2xl mb-8" style={{ color: INK, fontWeight: 600 }}>
               이용 안내
             </h2>
             <div style={{ backgroundColor: CARD, borderRadius: '12px', padding: '24px' }}>
@@ -977,8 +977,8 @@ export function TipsPage() {
         >
           <div className="container mx-auto px-4">
             <div className="max-w-3xl mx-auto">
-              <p style={{ color: CORAL, fontSize: '32px', fontWeight: 700, lineHeight: 1 }}>{ch.no}</p>
-              <h2 className="text-2xl mt-2" style={{ color: INK, fontWeight: 700, lineHeight: 1.4 }}>
+              <p style={{ color: CORAL, fontSize: '32px', fontWeight: 600, lineHeight: 1 }}>{ch.no}</p>
+              <h2 className="text-2xl mt-2" style={{ color: INK, fontWeight: 600, lineHeight: 1.4 }}>
                 {ch.title}
               </h2>
               <p className="mb-8" style={{ color: BODY, fontSize: '15px', marginTop: '8px' }}>
@@ -1001,8 +1001,8 @@ export function TipsPage() {
       <section id="tip-05" className="py-20" style={{ backgroundColor: CARD }}>
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto">
-            <p style={{ color: CORAL, fontSize: '32px', fontWeight: 700, lineHeight: 1 }}>05</p>
-            <h2 className="text-2xl mt-2" style={{ color: INK, fontWeight: 700, lineHeight: 1.4 }}>
+            <p style={{ color: CORAL, fontSize: '32px', fontWeight: 600, lineHeight: 1 }}>05</p>
+            <h2 className="text-2xl mt-2" style={{ color: INK, fontWeight: 600, lineHeight: 1.4 }}>
               마지막으로 하고 싶은 말
             </h2>
             <p className="mb-8" style={{ color: BODY, fontSize: '15px', marginTop: '8px' }}>
