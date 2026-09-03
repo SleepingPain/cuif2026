@@ -12,8 +12,8 @@ export function BiggerStageSection() {
     {
       icon: Rocket,
       date: '2026. 11. 13.(금) ~ 14.(토)',
-      title: '7개 대학 연합 해커톤',
-      description: '경기북부 7개 대학에서 대학별 3팀, 총 21팀이 모여 아이디어를 겨룹니다.',
+      title: '6개 대학 연합 해커톤',
+      description: '경기북부 6개 대학에서 대학별 3팀이 모여 아이디어를 겨룹니다.',
       badge: '상위 3팀 진출'
     },
     {

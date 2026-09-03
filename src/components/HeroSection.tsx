@@ -1,7 +1,7 @@
 import { Button } from './ui/button';
 import { Badge } from './ui/badge';
 import { useNavigate } from 'react-router-dom';
-import { Calendar, Users, Lightbulb, FileText } from 'lucide-react';
+import { Calendar, Users, Lightbulb, FileText, Trophy } from 'lucide-react';
 
 // 2026 브랜드 컬러 (크림·코랄·다크) — 프로젝트가 사전 컴파일 Tailwind CSS를 쓰므로 인라인 스타일 사용
 const DARK = '#181715';
@@ -16,11 +16,11 @@ export function HeroSection() {
       className="relative min-h-screen flex items-center justify-center overflow-hidden pt-16"
       style={{ backgroundColor: DARK }}
     >
-      {/* Background — fal gpt-image-2 생성 일러스트 (7개 대학 별자리) + 다크 오버레이 */}
+      {/* Background — fal gpt-image-2 생성 일러스트 (대학 별자리) + 다크 오버레이 */}
       <div className="absolute inset-0 z-0" style={{ backgroundColor: DARK }}>
         <img
           src="/images/hero_2026.jpg"
-          alt="경기북부 밤하늘의 7개 대학 별자리 아래에서 아이디어를 적는 학생들"
+          alt="경기북부 밤하늘의 대학 별자리 아래에서 아이디어를 적는 학생들"
           className="w-full h-full object-cover"
         />
         <div
@@ -40,7 +40,7 @@ export function HeroSection() {
 
         <Badge variant="secondary" className="mb-4 bg-white/20 text-white border-white/30">
           <Lightbulb className="w-3 h-3 mr-1" />
-          2026년 · 경기북부 7개 대학 연합
+          2026년 · 경기북부 6개 대학 연합
         </Badge>
 
         <h1 className="text-5xl md:text-7xl mb-6 text-white">
@@ -90,6 +90,23 @@ export function HeroSection() {
         <p className="mt-4 text-sm" style={{ color: 'rgba(255,255,255,0.5)' }}>
           팀 구성 상시 진행 중 · 예선 제안서 제출 10/22(목)
         </p>
+
+        {/* 선배 노하우 아카이브(/tips) 진입 — 2026 신설 */}
+        <a
+          href="/tips"
+          className="inline-flex items-center gap-2 mt-8"
+          style={{
+            color: CORAL,
+            fontSize: '14px',
+            fontWeight: 600,
+            border: '1px solid rgba(204,120,92,0.5)',
+            borderRadius: '999px',
+            padding: '8px 16px',
+          }}
+        >
+          <Trophy className="w-4 h-4" />
+          NEW · 대상 수상 선배가 공개한 「공모전 TIP」 보기
+        </a>
       </div>
 
       {/* Scroll Indicator */}

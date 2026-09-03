@@ -68,14 +68,14 @@ export function AboutSection() {
     {
       icon: Users,
       title: "13년의 신뢰",
-      description: "2013 홍차 학술대회 → 2024 동두천 제12회 CUIF → 2025 삼천(포천·동두천·연천) 확대 → 2026 경기북부 7개 대학 연합"
+      description: "2013 홍차 학술대회 → 2024 동두천 제12회 CUIF → 2025 삼천(포천·동두천·연천) 확대 → 2026 경기북부 6개 대학 연합"
     }
   ];
 
-  // 2026 연합 7개 대학
+  // 2026 연합 6개 대학
   const universities = [
     '차의과학대학교 (주최)', '가톨릭대학교', '경민대학교', '대진대학교',
-    '동양대학교', '부천대학교', '중부대학교'
+    '동양대학교', '부천대학교'
   ];
 
   return (
@@ -91,19 +91,19 @@ export function AboutSection() {
               경기북부 대학생 정책 아이디어 페스티벌
             </h2>
             <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
-              CUIF+는 올해 새롭게 시작하는, 경기 북부 7개 대학 연합 페스티벌입니다.
-              차의과학대학교를 비롯해 가톨릭대·경민대·대진대·동양대·부천대·중부대 학생들이 한자리에 모입니다.
+              CUIF+는 올해 새롭게 시작하는, 경기 북부 6개 대학 연합 페스티벌입니다.
+              차의과학대학교를 비롯해 가톨릭대·경민대·대진대·동양대·부천대 학생들이 한자리에 모입니다.
               지역 현안을 학생이 직접 발굴하고, 정책·홍보 아이디어를 제안하고, 약 4개월간 현장에서
               실행한 뒤 본선에서 발표합니다. 여러분의 아이디어가, 지역을 바꾸는 정책이 됩니다.
             </p>
             <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
               CUIF(CHA University Idea Festival)는 갑자기 생긴 공모전이 아닙니다.
               2013년 홍차 학술대회에서 시작해 13년째 이어져 온 행사로, 2025년 삼천(포천·동두천·연천)
-              지역으로 확대했고, 2026년에는 경기북부 7개 대학 연합으로 한 번 더 커졌습니다.
+              지역으로 확대했고, 2026년에는 경기북부 6개 대학 연합으로 한 번 더 커졌습니다.
               차의과학대학교 RISE 사업단의 경기북부 지역상생 연계 프로그램입니다.
             </p>
 
-            {/* 연합 7개 대학 */}
+            {/* 연합 6개 대학 */}
             <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px', marginBottom: '2rem' }}>
               {universities.map((u) => (
                 <Badge key={u} variant="secondary" style={{ padding: '6px 12px', fontSize: '0.875rem' }}>
