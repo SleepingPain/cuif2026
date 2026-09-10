@@ -18,7 +18,9 @@ import type { ReactNode } from 'react';
 
 export type Lang = 'ko' | 'en';
 
-const STORAGE_KEY = 'cuif-lang';
+/** 언어 선택이 저장되는 자리. apply.ts 가 React 밖에서도 읽는다. */
+export const LANG_STORAGE_KEY = 'cuif-lang';
+const STORAGE_KEY = LANG_STORAGE_KEY;
 
 /** 저장된 선택 → 브라우저 언어 → 한국어 */
 function detectLang(): Lang {
