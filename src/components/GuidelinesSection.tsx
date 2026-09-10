@@ -124,21 +124,6 @@ export function GuidelinesSection() {
       ]
     },
     {
-      icon: Trophy,
-      title: t('시상 내역', 'Awards'),
-      content: [
-        t('대상 1팀 · 최우수상 1팀', 'Grand Prize 1 team · Excellence Award 1 team'),
-        t(
-          '우수상 2팀 각 70만원 · 장려상 2팀 각 50만원',
-          'Merit 2 teams (KRW 700,000 each) · Encouragement 2 teams (KRW 500,000 each)',
-        ),
-        t(
-          '⚠️ 대상·최우수상 상금은 협의 중이며, 확정되는 대로 공지사항에서 안내합니다',
-          '⚠️ Prize money for the top two awards is still being confirmed — watch the notices',
-        )
-      ]
-    },
-    {
       icon: DollarSign,
       title: t('지원 혜택', 'What You Get'),
       content: [
