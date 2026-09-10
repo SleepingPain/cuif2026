@@ -1,3 +1,5 @@
+import '../styles/apply-cta.css';
+
 /**
  * 참가 신청 창구 — 사이트 전체가 여기 한 줄을 본다.
  *
@@ -16,6 +18,14 @@ export const IS_APPLY_OPEN = APPLY_FORM_URL !== '';
 
 /** 버튼에 쓸 문구 */
 export const APPLY_LABEL = IS_APPLY_OPEN ? '참가 신청하기' : '참가 신청 안내';
+
+/** 접수 중일 때만 CTA에 코랄 맥박을 준다 (크림·흰 배경용) */
+export const APPLY_CTA_CLASS = IS_APPLY_OPEN ? 'cuif-apply-cta' : '';
+
+/** 다크 배경(히어로) 위에서 쓰는 강조 클래스 */
+export const APPLY_CTA_CLASS_DARK = IS_APPLY_OPEN
+  ? 'cuif-apply-cta cuif-apply-cta--on-dark'
+  : '';
 
 /** 신청 폼 열기 — 폼이 아직 없으면 공지사항으로 보낸다 */
 export function openApplyForm() {

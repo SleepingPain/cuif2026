@@ -2,7 +2,7 @@ import { Button } from './ui/button';
 import { Menu, X, Lightbulb } from 'lucide-react';
 import { useState } from 'react';
 import type { CSSProperties } from 'react';
-import { APPLY_LABEL, openApplyForm } from '../lib/apply';
+import { APPLY_CTA_CLASS, APPLY_LABEL, openApplyForm } from '../lib/apply';
 
 // 사전 컴파일 Tailwind CSS 프로젝트 → 신규 스타일은 인라인으로
 // 「공모전 TIP」 오른쪽 위에 붙는 NEW 배지 (2026.9 신설 페이지 안내)
@@ -58,7 +58,7 @@ export function Navigation() {
             <a href="#contact" className="hover:text-primary transition-colors">
               문의
             </a>
-            <Button onClick={openApplyForm}>
+            <Button className={APPLY_CTA_CLASS} onClick={openApplyForm}>
               {APPLY_LABEL}
             </Button>
           </div>
@@ -129,7 +129,7 @@ export function Navigation() {
                 문의
               </a>
               <Button
-                className="w-full"
+                className={`w-full ${APPLY_CTA_CLASS}`}
                 onClick={() => {
                   openApplyForm();
                   setIsMenuOpen(false);
