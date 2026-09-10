@@ -8,7 +8,8 @@ import '../styles/apply-cta.css';
  * (스크립트 원본 = lecture-materials repo `scripts/CUIF2026_참가신청폼_알림_AppsScript.gs`)
  *
  * 접수를 닫을 때는 APPLY_FORM_URL 을 빈 문자열로 두면 된다.
- * 그러면 버튼이 자동으로 「참가 신청 안내」(공지사항)로 되돌아간다.
+ * 그러면 버튼이 자동으로 「참가 신청 안내」(공지사항)로 되돌아가고,
+ * 코랄 맥박 애니메이션도 같이 꺼진다.
  */
 export const APPLY_FORM_URL =
   'https://docs.google.com/forms/d/e/1FAIpQLSdYhj4RsxKLG_EuYTn5pLSCI4GcsYhYFrXVGqCBlaLdeosmxw/viewform';
@@ -16,8 +17,9 @@ export const APPLY_FORM_URL =
 /** 신청 폼이 열려 있는가 */
 export const IS_APPLY_OPEN = APPLY_FORM_URL !== '';
 
-/** 버튼에 쓸 문구 */
-export const APPLY_LABEL = IS_APPLY_OPEN ? '참가 신청하기' : '참가 신청 안내';
+/** 버튼 문구 — 언어별. 화면에서는 t(APPLY_LABEL_KO, APPLY_LABEL_EN) 으로 쓴다 */
+export const APPLY_LABEL_KO = IS_APPLY_OPEN ? '참가 신청하기' : '참가 신청 안내';
+export const APPLY_LABEL_EN = IS_APPLY_OPEN ? 'Apply Now' : 'How to Apply';
 
 /** 접수 중일 때만 CTA에 코랄 맥박을 준다 (크림·흰 배경용) */
 export const APPLY_CTA_CLASS = IS_APPLY_OPEN ? 'cuif-apply-cta' : '';

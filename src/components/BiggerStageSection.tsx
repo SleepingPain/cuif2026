@@ -1,6 +1,7 @@
 import { Card, CardContent, CardHeader, CardTitle } from './ui/card';
 import { Badge } from './ui/badge';
 import { Rocket, Landmark } from 'lucide-react';
+import { useLang } from '../lib/i18n';
 
 // 사전 컴파일 Tailwind CSS 프로젝트 → 신규 색상은 인라인 스타일로
 const DARK = '#181715';
@@ -8,20 +9,28 @@ const CORAL = '#cc785c';
 
 /** 다음 무대 (Bigger Stage) — 2026 신설: 본선 이후 해커톤·페스티벌 (작년과 달라진 점) */
 export function BiggerStageSection() {
+  const { t } = useLang();
+
   const stages = [
     {
       icon: Rocket,
-      date: '2026. 11. 13.(금) ~ 14.(토)',
-      title: '6개 대학 연합 해커톤',
-      description: '경기북부 6개 대학에서 대학별 3팀이 모여 아이디어를 겨룹니다.',
-      badge: '상위 3팀 진출'
+      date: t('2026. 11. 13.(금) ~ 14.(토)', 'Nov 13 (Fri) – 14 (Sat), 2026'),
+      title: t('6개 대학 연합 해커톤', 'Six-University Hackathon'),
+      description: t(
+        '경기북부 6개 대학에서 대학별 3팀이 모여 아이디어를 겨룹니다.',
+        'Three teams from each of the six universities meet and compete.',
+      ),
+      badge: t('상위 3팀 진출', 'Top 3 teams')
     },
     {
       icon: Landmark,
-      date: '2026. 11. 27.(금)',
-      title: '경기북부 아이디어 페스티벌',
-      description: '의정부 아일랜드 캐슬에서 열리는 큰 무대. 타 대학 학생·선배들의 아이디어를 직접 보고 만나는 자리입니다.',
-      badge: '누구나 관람 가능'
+      date: t('2026. 11. 27.(금)', 'Nov 27 (Fri), 2026'),
+      title: t('경기북부 아이디어 페스티벌', 'Northern Gyeonggi Idea Festival'),
+      description: t(
+        '의정부 아일랜드 캐슬에서 열리는 큰 무대. 타 대학 학생·선배들의 아이디어를 직접 보고 만나는 자리입니다.',
+        'The big stage at Island Castle, Uijeongbu — where you see and meet what students from other universities have made.',
+      ),
+      badge: t('누구나 관람 가능', 'Open to all')
     }
   ];
 
@@ -30,14 +39,16 @@ export function BiggerStageSection() {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <Badge variant="secondary" className="mb-4 bg-white/20 text-white border-white/30">
-            다음 무대 · Bigger Stage
+            {t('다음 무대 · Bigger Stage', 'The Bigger Stage')}
           </Badge>
           <h2 className="text-4xl md:text-5xl mb-6 text-white">
-            본선에서 끝나지 않습니다
+            {t('본선에서 끝나지 않습니다', 'It Does Not End at the Finals')}
           </h2>
           <p className="text-lg max-w-2xl mx-auto" style={{ color: 'rgba(255,255,255,0.7)' }}>
-            CUIF+ 본선에서 대상을 받아도 끝이 아닙니다.
-            상위 3팀(대상·최우수)은 더 큰 무대로 나아갑니다 — 올해 새로 생긴, 작년과 달라진 점입니다.
+            {t(
+              'CUIF+ 본선에서 대상을 받아도 끝이 아닙니다. 상위 3팀(대상·최우수)은 더 큰 무대로 나아갑니다 — 올해 새로 생긴, 작년과 달라진 점입니다.',
+              'Winning the CUIF+ finals is not the finish line. The top three teams go on to a bigger stage — new this year.',
+            )}
           </p>
         </div>
 
@@ -45,7 +56,7 @@ export function BiggerStageSection() {
         <div className="max-w-4xl mx-auto mb-10 rounded-lg overflow-hidden">
           <img
             src="/images/festival_stage.jpg"
-            alt="관객이 환호하는 아이디어 페스티벌 무대"
+            alt={t('관객이 환호하는 아이디어 페스티벌 무대', 'A cheering crowd at the idea festival stage')}
             className="w-full object-cover"
             style={{ maxHeight: '360px', objectPosition: 'center 30%' }}
           />
@@ -77,7 +88,10 @@ export function BiggerStageSection() {
         </div>
 
         <p className="text-center mt-10" style={{ color: 'rgba(255,255,255,0.6)' }}>
-          해커톤 진출은 상위 3팀 한정 — 단, 11/27 페스티벌 발표는 누구나 관람할 수 있습니다.
+          {t(
+            '해커톤 진출은 상위 3팀 한정 — 단, 11/27 페스티벌 발표는 누구나 관람할 수 있습니다.',
+            'Only the top three teams go to the hackathon — but the Nov 27 festival is open to everyone.',
+          )}
         </p>
       </div>
     </section>
