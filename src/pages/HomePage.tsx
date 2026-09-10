@@ -116,7 +116,7 @@ export function HomePage() {
                 <li>{t('차의과학대학교', 'CHA University')}</li>
                 <li>{t('경기도 포천시 해룡로 120', '120 Haeryong-ro, Pocheon, Gyeonggi-do')}</li>
                 <li>031-850-8945/9054</li>
-                <li>{t('(의료홍보미디어학과/미디어커뮤니케이션학전공)', '(Dept. of Health & Strategic Communication)')}</li>
+                <li>{t('(AI의료홍보미디어전공)', '(Dept. of AI Health & Strategic Communication)')}</li>
                 <li>seran14@cha.ac.kr / jiny05@cha.ac.kr</li>
               </ul>
             </div>

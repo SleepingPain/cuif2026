@@ -19,8 +19,8 @@ export function ContactSection() {
       title: t('주최/주관', 'Host & Organiser'),
       details: [
         t(
-          '차의과학대학교 의료홍보미디어학과/미디어커뮤니케이션학전공',
-          'CHA University, Dept. of Health & Strategic Communication',
+          '차의과학대학교 AI의료홍보미디어전공',
+          'CHA University, Dept. of AI Health & Strategic Communication',
         ),
         t('차의과학대학교 RISE사업단', 'CHA University RISE Initiative')
       ]
@@ -30,8 +30,7 @@ export function ContactSection() {
       title: t('담당자 연락처', 'Phone'),
       details: [
         '031-850-8945/9054',
-        t('(의료홍보미디어학과', '(Dept. of Health &'),
-        t('미디어커뮤니케이션학전공)', 'Strategic Communication)')
+        t('(AI의료홍보미디어전공)', '(AI Health & Strategic Communication)')
       ]
     },
     {
@@ -39,8 +38,7 @@ export function ContactSection() {
       title: t('이메일 문의', 'Email'),
       details: [
         'seran14@cha.ac.kr / jiny05@cha.ac.kr',
-        t('(의료홍보미디어학과', '(Dept. of Health &'),
-        t('미디어커뮤니케이션학전공)', 'Strategic Communication)')
+        t('(AI의료홍보미디어전공)', '(AI Health & Strategic Communication)')
       ]
     }
   ];
