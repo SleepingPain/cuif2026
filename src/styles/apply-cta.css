@@ -1,0 +1,65 @@
+/*
+ * 참가 신청 CTA 강조 — 코랄 링이 번져 나가는 맥박
+ *
+ * ⚠ 이 프로젝트의 Tailwind 는 사전 컴파일본이라 animate-* 유틸이 «없다».
+ *   (animate-pulse 를 붙여도 조용히 안 먹는다)
+ *   그래서 키프레임을 여기에 직접 두고 apply.ts 가 이 파일을 물고 들어간다.
+ *
+ * 색은 브랜드 코랄 #cc785c 하나만 쓴다. 3색 규칙을 깨지 않게.
+ */
+
+@keyframes cuifApplyPulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(204, 120, 92, 0.55);
+  }
+  70% {
+    box-shadow: 0 0 0 14px rgba(204, 120, 92, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(204, 120, 92, 0);
+  }
+}
+
+.cuif-apply-cta {
+  position: relative;
+  animation: cuifApplyPulse 2.4s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+  will-change: box-shadow;
+}
+
+/* 손이 올라오면 맥박을 멈추고 살짝 들어 올린다 — 누를 것을 알아본 상태 */
+.cuif-apply-cta:hover {
+  animation-play-state: paused;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(204, 120, 92, 0.38);
+}
+
+.cuif-apply-cta:active {
+  transform: translateY(0);
+}
+
+/* 다크 배경(히어로) 위에서는 링을 조금 더 밝게 */
+.cuif-apply-cta--on-dark {
+  animation-name: cuifApplyPulseDark;
+}
+
+@keyframes cuifApplyPulseDark {
+  0% {
+    box-shadow: 0 0 0 0 rgba(204, 120, 92, 0.75);
+  }
+  70% {
+    box-shadow: 0 0 0 18px rgba(204, 120, 92, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(204, 120, 92, 0);
+  }
+}
+
+/* 움직임을 줄여 달라고 설정한 사용자에겐 애니메이션을 끈다 */
+@media (prefers-reduced-motion: reduce) {
+  .cuif-apply-cta,
+  .cuif-apply-cta--on-dark {
+    animation: none;
+    box-shadow: 0 0 0 2px rgba(204, 120, 92, 0.45);
+  }
+}

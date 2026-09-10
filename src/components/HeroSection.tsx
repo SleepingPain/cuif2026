@@ -2,7 +2,7 @@ import { Button } from './ui/button';
 import { Badge } from './ui/badge';
 import { useNavigate } from 'react-router-dom';
 import { Calendar, Users, Lightbulb, FileText, Trophy, Send } from 'lucide-react';
-import { APPLY_LABEL, IS_APPLY_OPEN, openApplyForm } from '../lib/apply';
+import { APPLY_CTA_CLASS_DARK, APPLY_LABEL, IS_APPLY_OPEN, openApplyForm } from '../lib/apply';
 
 // 2026 브랜드 컬러 (크림·코랄·다크) — 프로젝트가 사전 컴파일 Tailwind CSS를 쓰므로 인라인 스타일 사용
 const DARK = '#181715';
@@ -70,6 +70,7 @@ export function HeroSection() {
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <Button
             size="lg"
+            className={APPLY_CTA_CLASS_DARK}
             style={{ backgroundColor: CORAL, color: '#ffffff' }}
             onClick={openApplyForm}
           >
