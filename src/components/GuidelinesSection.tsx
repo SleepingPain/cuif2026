@@ -9,8 +9,17 @@ import {
   Trophy, 
   DollarSign,
   Clock,
-  CheckCircle
+  CheckCircle,
+  Send
 } from 'lucide-react';
+import { APPLY_LABEL, IS_APPLY_OPEN, openApplyForm } from '../lib/apply';
+
+// 사전 컴파일 Tailwind CSS 프로젝트 → 신규 스타일은 인라인으로 (2026 브랜드 3색)
+const CREAM = '#faf9f5';
+const CARD = '#efe9de';
+const CORAL = '#cc785c';
+const INK = '#141413';
+const BODY = '#3d3d3a';
 
 export function GuidelinesSection() {
   // 2026 일정 (6/18 설명회 → 11/5 본선)
@@ -193,23 +202,43 @@ export function GuidelinesSection() {
           ))}
         </div>
 
-        <div className="text-center mt-12">
-          <div className="bg-blue-50 border border-blue-200 rounded-lg p-6 max-w-3xl mx-auto mb-6">
-            <p className="text-blue-900 mb-2">
+        {/* 참가 신청 CTA — 2026.9 구글폼 접수 연결 */}
+        <div className="text-center mt-12" id="apply">
+          <div
+            className="rounded-lg p-6 max-w-3xl mx-auto mb-6"
+            style={{ backgroundColor: CREAM, border: `1px solid ${CARD}` }}
+          >
+            <p className="mb-2" style={{ color: INK }}>
               지금, 팀을 만들어 도전하세요 — 팀 구성은 상시 진행 중입니다
             </p>
-            <p className="text-sm text-blue-800">
-              예선 제안서 제출: 2026년 10월 22일(목) · 신청 방법은 공지사항에서 안내됩니다
+            <p className="text-sm" style={{ color: BODY }}>
+              {IS_APPLY_OPEN
+                ? '아래 버튼을 누르면 신청 폼이 열립니다 · 팀당 1회, 팀장이 대표로 작성 (3~5인)'
+                : '신청 방법은 공지사항에서 안내됩니다'}
+            </p>
+            <p className="text-sm mt-1" style={{ color: CORAL, fontWeight: 600 }}>
+              예선 제안서 제출 : 2026년 10월 22일(목)
             </p>
           </div>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button
               size="lg"
-              onClick={() => { window.location.href = '/inform'; }}
+              style={{ backgroundColor: CORAL, color: '#ffffff' }}
+              onClick={openApplyForm}
             >
-              <FileText className="w-5 h-5 mr-2" />
-              참가 신청 안내 보기 (공지사항)
+              {IS_APPLY_OPEN ? <Send className="w-5 h-5 mr-2" /> : <FileText className="w-5 h-5 mr-2" />}
+              {APPLY_LABEL}
             </Button>
+            {IS_APPLY_OPEN && (
+              <Button
+                variant="outline"
+                size="lg"
+                onClick={() => { window.location.href = '/inform'; }}
+              >
+                <FileText className="w-5 h-5 mr-2" />
+                신청 안내 보기 (공지사항)
+              </Button>
+            )}
           </div>
         </div>
       </div>

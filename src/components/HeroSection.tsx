@@ -1,7 +1,8 @@
 import { Button } from './ui/button';
 import { Badge } from './ui/badge';
 import { useNavigate } from 'react-router-dom';
-import { Calendar, Users, Lightbulb, FileText, Trophy } from 'lucide-react';
+import { Calendar, Users, Lightbulb, FileText, Trophy, Send } from 'lucide-react';
+import { APPLY_LABEL, IS_APPLY_OPEN, openApplyForm } from '../lib/apply';
 
 // 2026 브랜드 컬러 (크림·코랄·다크) — 프로젝트가 사전 컴파일 Tailwind CSS를 쓰므로 인라인 스타일 사용
 const DARK = '#181715';
@@ -70,10 +71,10 @@ export function HeroSection() {
           <Button
             size="lg"
             style={{ backgroundColor: CORAL, color: '#ffffff' }}
-            onClick={() => navigate('/inform')}
+            onClick={openApplyForm}
           >
-            <FileText className="w-5 h-5 mr-2" />
-            참가 신청 안내
+            {IS_APPLY_OPEN ? <Send className="w-5 h-5 mr-2" /> : <FileText className="w-5 h-5 mr-2" />}
+            {APPLY_LABEL}
           </Button>
           <Button
             variant="outline"
@@ -89,6 +90,26 @@ export function HeroSection() {
         </div>
         <p className="mt-4 text-sm" style={{ color: 'rgba(255,255,255,0.5)' }}>
           팀 구성 상시 진행 중 · 예선 제안서 제출 10/22(목)
+          {IS_APPLY_OPEN && (
+            <>
+              {' · '}
+              <button
+                onClick={() => navigate('/inform')}
+                style={{
+                  color: 'rgba(255,255,255,0.75)',
+                  textDecoration: 'underline',
+                  textUnderlineOffset: '3px',
+                  background: 'none',
+                  border: 'none',
+                  padding: 0,
+                  cursor: 'pointer',
+                  font: 'inherit',
+                }}
+              >
+                신청 안내 보기
+              </button>
+            </>
+          )}
         </p>
 
         {/* 선배 노하우 아카이브(/tips) 진입 — 2026 신설 */}

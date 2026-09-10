@@ -9,6 +9,7 @@ import { FAQSection } from '../components/FAQSection';
 import { BiggerStageSection } from '../components/BiggerStageSection';
 import { ContactSection } from '../components/ContactSection';
 import { Lightbulb } from 'lucide-react';
+import { APPLY_LABEL, openApplyForm } from '../lib/apply';
 
 export function HomePage() {
   return (
@@ -79,6 +80,22 @@ export function HomePage() {
             <div>
               <h4 className="mb-4">바로가기</h4>
               <ul className="space-y-2 text-muted-foreground">
+                <li>
+                  <button
+                    onClick={openApplyForm}
+                    style={{
+                      color: '#cc785c',
+                      fontWeight: 600,
+                      background: 'none',
+                      border: 'none',
+                      padding: 0,
+                      cursor: 'pointer',
+                      font: 'inherit',
+                    }}
+                  >
+                    {APPLY_LABEL} →
+                  </button>
+                </li>
                 <li><a href="#about" className="hover:text-foreground">대회 소개</a></li>
                 <li><a href="/inform" className="hover:text-foreground">공지사항</a></li>
                 <li><a href="#topics" className="hover:text-foreground">공모 주제</a></li>
