@@ -2,7 +2,14 @@ import { Button } from './ui/button';
 import { Badge } from './ui/badge';
 import { useNavigate } from 'react-router-dom';
 import { Calendar, Users, Lightbulb, FileText, Trophy, Send } from 'lucide-react';
-import { APPLY_CTA_CLASS_DARK, APPLY_LABEL, IS_APPLY_OPEN, openApplyForm } from '../lib/apply';
+import {
+  APPLY_CTA_CLASS_DARK,
+  APPLY_LABEL_EN,
+  APPLY_LABEL_KO,
+  IS_APPLY_OPEN,
+  openApplyForm,
+} from '../lib/apply';
+import { useLang } from '../lib/i18n';
 
 // 2026 브랜드 컬러 (크림·코랄·다크) — 프로젝트가 사전 컴파일 Tailwind CSS를 쓰므로 인라인 스타일 사용
 const DARK = '#181715';
@@ -10,6 +17,7 @@ const CORAL = '#cc785c';
 
 export function HeroSection() {
   const navigate = useNavigate();
+  const { t } = useLang();
 
   return (
     <section
@@ -21,7 +29,10 @@ export function HeroSection() {
       <div className="absolute inset-0 z-0" style={{ backgroundColor: DARK }}>
         <img
           src="/images/hero_2026.jpg"
-          alt="경기북부 밤하늘의 대학 별자리 아래에서 아이디어를 적는 학생들"
+          alt={t(
+            '경기북부 밤하늘의 대학 별자리 아래에서 아이디어를 적는 학생들',
+            'Students sketching ideas under a constellation of universities in the northern Gyeonggi night sky',
+          )}
           className="w-full h-full object-cover"
         />
         <div
@@ -41,7 +52,7 @@ export function HeroSection() {
 
         <Badge variant="secondary" className="mb-4 bg-white/20 text-white border-white/30">
           <Lightbulb className="w-3 h-3 mr-1" />
-          2026년 · 경기북부 6개 대학 연합
+          {t('2026년 · 경기북부 6개 대학 연합', '2026 · Six Universities, Northern Gyeonggi')}
         </Badge>
 
         <h1 className="text-5xl md:text-7xl mb-6 text-white">
@@ -49,21 +60,25 @@ export function HeroSection() {
         </h1>
 
         <p className="text-xl md:text-2xl mb-4 text-white/90 max-w-2xl mx-auto">
-          경기북부 대학생 정책 아이디어 페스티벌
+          {t(
+            '경기북부 대학생 정책 아이디어 페스티벌',
+            'A Policy Idea Festival by Students of Northern Gyeonggi',
+          )}
         </p>
         <p className="text-lg mb-8 text-white/70 max-w-2xl mx-auto">
-          경기 북부의 대학생들이, 우리 지역의 진짜 문제에 직접 답을 내놓습니다.<br />
-          여러분의 아이디어가, 우리 지역을 바꾸는 정책이 됩니다.
+          {t('경기 북부의 대학생들이, 우리 지역의 진짜 문제에 직접 답을 내놓습니다.', 'Students answer the real problems of their own region.')}
+          <br />
+          {t('여러분의 아이디어가, 우리 지역을 바꾸는 정책이 됩니다.', 'Your idea becomes the policy that changes it.')}
         </p>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-8">
           <div className="flex items-center gap-2 text-white/90">
             <Calendar className="w-5 h-5" />
-            <span>본선 2026. 11. 5.(목)</span>
+            <span>{t('본선 2026. 11. 5.(목)', 'Finals · Nov 5, 2026 (Thu)')}</span>
           </div>
           <div className="flex items-center gap-2 text-white/90">
             <Users className="w-5 h-5" />
-            <span>팀 단위 참가 (3~5명)</span>
+            <span>{t('팀 단위 참가 (3~5명)', 'Teams of 3–5')}</span>
           </div>
         </div>
 
@@ -75,7 +90,7 @@ export function HeroSection() {
             onClick={openApplyForm}
           >
             {IS_APPLY_OPEN ? <Send className="w-5 h-5 mr-2" /> : <FileText className="w-5 h-5 mr-2" />}
-            {APPLY_LABEL}
+            {t(APPLY_LABEL_KO, APPLY_LABEL_EN)}
           </Button>
           <Button
             variant="outline"
@@ -86,11 +101,14 @@ export function HeroSection() {
               topicsSection?.scrollIntoView({ behavior: 'smooth' });
             }}
           >
-            도시별 과제 보기
+            {t('도시별 과제 보기', 'See the Missions')}
           </Button>
         </div>
         <p className="mt-4 text-sm" style={{ color: 'rgba(255,255,255,0.5)' }}>
-          팀 구성 상시 진행 중 · 예선 제안서 제출 10/22(목)
+          {t(
+            '팀 구성 상시 진행 중 · 예선 제안서 제출 10/22(목)',
+            'Team-building open year-round · Proposals due Oct 22 (Thu)',
+          )}
           {IS_APPLY_OPEN && (
             <>
               {' · '}
@@ -107,7 +125,7 @@ export function HeroSection() {
                   font: 'inherit',
                 }}
               >
-                신청 안내 보기
+                {t('신청 안내 보기', 'Read the guide')}
               </button>
             </>
           )}
@@ -127,7 +145,10 @@ export function HeroSection() {
           }}
         >
           <Trophy className="w-4 h-4" />
-          NEW · 대상 수상 선배가 공개한 「공모전 TIP」 보기
+          {t(
+            'NEW · 대상 수상 선배가 공개한 「공모전 TIP」 보기',
+            'NEW · Tips from a Grand Prize winner',
+          )}
         </a>
       </div>
 

@@ -5,11 +5,13 @@ import { Badge } from './ui/badge';
 import { Bell, Calendar, ChevronRight } from 'lucide-react';
 import { noticeService, Notice } from '../lib/supabase';
 import { useNavigate } from 'react-router-dom';
+import { useLang } from '../lib/i18n';
 
 export function NoticeSection() {
   const [notices, setNotices] = useState<Notice[]>([]);
   const [loading, setLoading] = useState(true);
   const navigate = useNavigate();
+  const { lang, t } = useLang();
 
   useEffect(() => {
     loadNotices();
@@ -29,7 +31,7 @@ export function NoticeSection() {
 
   const formatDate = (dateString: string) => {
     const date = new Date(dateString);
-    return date.toLocaleDateString('ko-KR', {
+    return date.toLocaleDateString(lang === 'en' ? 'en-US' : 'ko-KR', {
       year: 'numeric',
       month: 'long',
       day: 'numeric'
@@ -57,10 +59,10 @@ export function NoticeSection() {
         <div className="text-center mb-12">
           <div className="flex items-center justify-center gap-2 mb-4">
             <Bell className="w-6 h-6 text-primary" />
-            <h2 className="text-3xl font-bold">공지사항</h2>
+            <h2 className="text-3xl font-bold">{t('공지사항', 'Notices')}</h2>
           </div>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            2026 CUIF+ 대회와 관련된 중요한 소식들을 확인하세요
+            {t('2026 CUIF+ 대회와 관련된 중요한 소식들을 확인하세요', 'Everything you need to know about 2026 CUIF+')}
           </p>
         </div>
 
@@ -79,7 +81,7 @@ export function NoticeSection() {
                         <div className="flex items-center gap-2 mb-2">
                           {notice.is_important && (
                             <Badge variant="destructive" className="text-xs">
-                              중요
+                              {t('중요', 'Important')}
                             </Badge>
                           )}
                           <div className="flex items-center gap-1 text-sm text-muted-foreground">
@@ -107,9 +109,9 @@ export function NoticeSection() {
             <Card>
               <CardContent className="p-12 text-center">
                 <Bell className="w-12 h-12 text-muted-foreground mx-auto mb-4" />
-                <h3 className="text-lg font-semibold mb-2">공지사항이 없습니다</h3>
+                <h3 className="text-lg font-semibold mb-2">{t('공지사항이 없습니다', 'No notices yet')}</h3>
                 <p className="text-muted-foreground">
-                  새로운 공지사항이 등록되면 여기에 표시됩니다.
+                  {t('새로운 공지사항이 등록되면 여기에 표시됩니다.', 'New notices will appear here.')}
                 </p>
               </CardContent>
             </Card>
@@ -121,7 +123,7 @@ export function NoticeSection() {
               onClick={() => navigate('/inform')}
               className="gap-2"
             >
-              더보기
+              {t('더보기', 'See all')}
               <ChevronRight className="w-4 h-4" />
             </Button>
           </div>

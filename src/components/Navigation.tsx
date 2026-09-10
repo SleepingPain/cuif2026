@@ -2,7 +2,9 @@ import { Button } from './ui/button';
 import { Menu, X, Lightbulb } from 'lucide-react';
 import { useState } from 'react';
 import type { CSSProperties } from 'react';
-import { APPLY_CTA_CLASS, APPLY_LABEL, openApplyForm } from '../lib/apply';
+import { APPLY_CTA_CLASS, APPLY_LABEL_EN, APPLY_LABEL_KO, openApplyForm } from '../lib/apply';
+import { useLang } from '../lib/i18n';
+import { LangToggle } from './LangToggle';
 
 // 사전 컴파일 Tailwind CSS 프로젝트 → 신규 스타일은 인라인으로
 // 「공모전 TIP」 오른쪽 위에 붙는 NEW 배지 (2026.9 신설 페이지 안내)
@@ -23,6 +25,15 @@ const NEW_BADGE: CSSProperties = {
 
 export function Navigation() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const { t } = useLang();
+
+  const links = [
+    { href: '#about', label: t('대회 소개', 'About') },
+    { href: '/inform', label: t('공지사항', 'Notices') },
+    { href: '#topics', label: t('공모 주제', 'Missions') },
+    { href: '#guidelines', label: t('참가 안내', 'How to Enter') },
+    { href: '#faq', label: t('FAQ', 'FAQ') },
+  ];
 
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 bg-white/95 backdrop-blur-sm border-b border-border">
@@ -35,98 +46,67 @@ export function Navigation() {
           </div>
 
           {/* Desktop Navigation */}
-          <div className="hidden md:flex items-center gap-8">
-            <a href="#about" className="hover:text-primary transition-colors">
-              대회 소개
-            </a>
-            <a href="/inform" className="hover:text-primary transition-colors">
-              공지사항
-            </a>
-            <a href="#topics" className="hover:text-primary transition-colors">
-              공모 주제
-            </a>
-            <a href="#guidelines" className="hover:text-primary transition-colors">
-              참가 안내
-            </a>
-            <a href="#faq" className="hover:text-primary transition-colors">
-              FAQ
-            </a>
+          <div className="hidden md:flex items-center gap-6">
+            {links.map((l) => (
+              <a key={l.href} href={l.href} className="hover:text-primary transition-colors">
+                {l.label}
+              </a>
+            ))}
             <a href="/tips" className="hover:text-primary transition-colors">
-              공모전 TIP
+              {t('공모전 TIP', 'Winner Tips')}
               <span style={NEW_BADGE}>NEW</span>
             </a>
             <a href="#contact" className="hover:text-primary transition-colors">
-              문의
+              {t('문의', 'Contact')}
             </a>
+            <LangToggle />
             <Button className={APPLY_CTA_CLASS} onClick={openApplyForm}>
-              {APPLY_LABEL}
+              {t(APPLY_LABEL_KO, APPLY_LABEL_EN)}
             </Button>
           </div>
 
           {/* Mobile Menu Button */}
-          <Button 
-            variant="ghost" 
-            size="sm"
-            className="md:hidden"
-            onClick={() => setIsMenuOpen(!isMenuOpen)}
-          >
-            {isMenuOpen ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
-          </Button>
+          <div className="flex items-center gap-2 md:hidden">
+            <LangToggle />
+            <Button
+              variant="ghost"
+              size="sm"
+              onClick={() => setIsMenuOpen(!isMenuOpen)}
+              aria-label={t('메뉴 열기', 'Open menu')}
+            >
+              {isMenuOpen ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
+            </Button>
+          </div>
         </div>
 
         {/* Mobile Navigation */}
         {isMenuOpen && (
           <div className="md:hidden py-4 border-t border-border">
             <div className="flex flex-col gap-4">
-              <a 
-                href="#about" 
-                className="hover:text-primary transition-colors"
-                onClick={() => setIsMenuOpen(false)}
-              >
-                대회 소개
-              </a>
-              <a 
-                href="/inform" 
-                className="hover:text-primary transition-colors"
-                onClick={() => setIsMenuOpen(false)}
-              >
-                공지사항
-              </a>
-              <a 
-                href="#topics" 
-                className="hover:text-primary transition-colors"
-                onClick={() => setIsMenuOpen(false)}
-              >
-                공모 주제
-              </a>
-              <a 
-                href="#guidelines" 
-                className="hover:text-primary transition-colors"
-                onClick={() => setIsMenuOpen(false)}
-              >
-                참가 안내
-              </a>
-              <a
-                href="#faq"
-                className="hover:text-primary transition-colors"
-                onClick={() => setIsMenuOpen(false)}
-              >
-                FAQ
-              </a>
+              {links.map((l) => (
+                <a
+                  key={l.href}
+                  href={l.href}
+                  className="hover:text-primary transition-colors"
+                  onClick={() => setIsMenuOpen(false)}
+                >
+                  {l.label}
+                </a>
+              ))}
               <a
                 href="/tips"
                 className="w-fit hover:text-primary transition-colors"
                 onClick={() => setIsMenuOpen(false)}
               >
-                공모전 TIP
+                {t('공모전 TIP', 'Winner Tips')}
                 <span style={NEW_BADGE}>NEW</span>
               </a>
-              <a 
-                href="#contact" 
+              <a
+                href="#contact"
                 className="hover:text-primary transition-colors"
                 onClick={() => setIsMenuOpen(false)}
               >
-                문의
+                {t('문의', 'Contact')}
               </a>
               <Button
                 className={`w-full ${APPLY_CTA_CLASS}`}
@@ -135,7 +115,7 @@ export function Navigation() {
                   setIsMenuOpen(false);
                 }}
               >
-                {APPLY_LABEL}
+                {t(APPLY_LABEL_KO, APPLY_LABEL_EN)}
               </Button>
             </div>
           </div>
