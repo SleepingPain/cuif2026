@@ -8,7 +8,8 @@
  * 접수를 닫을 때는 APPLY_FORM_URL 을 빈 문자열로 두면 된다.
  * 그러면 버튼이 자동으로 「참가 신청 안내」(공지사항)로 되돌아간다.
  */
-export const APPLY_FORM_URL = '';
+export const APPLY_FORM_URL =
+  'https://docs.google.com/forms/d/e/1FAIpQLSdYhj4RsxKLG_EuYTn5pLSCI4GcsYhYFrXVGqCBlaLdeosmxw/viewform';
 
 /** 신청 폼이 열려 있는가 */
 export const IS_APPLY_OPEN = APPLY_FORM_URL !== '';
