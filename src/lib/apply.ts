@@ -4,21 +4,28 @@ import { LANG_STORAGE_KEY } from './i18n';
 /**
  * 참가 신청 창구 — 사이트 전체가 여기 한 줄을 본다.
  *
- * 폼은 김정환 교수 구글 계정 소유이고, 제출이 들어올 때마다
- * Apps Script 가 교수·조교 3인에게 알림 메일을 보낸다.
- * (스크립트 원본 = lecture-materials repo `scripts/CUIF2026_참가신청폼_알림_AppsScript.gs`)
+ * ★ 2026.9.11 교체 — 포스터 QR이 가리키던 「2026 제14회 CUIF 신청 접수」 폼으로 일원화.
+ *   그 전까지 사이트는 교수 계정 폼(1FAIpQLSdYhj…)을, 인쇄 포스터는 이 폼을 가리켜
+ *   접수처가 둘로 갈라져 있었다. 실제 접수는 전부 이 폼으로 들어오고 있었다(8/5~9/4 5건).
+ *
+ * ⚠ 이 폼의 소유 계정은 교수가 아니라 학과 공용 계정(5431918@gmail.com)이다.
+ *   → 문항·안내문 수정은 그 계정에서만 가능하다.
+ *   → 신청 알림 메일(김정환·정은채·권은서 3인)은 폼 트리거가 아니라
+ *      응답 시트를 지켜보는 Apps Script 가 보낸다.
+ *      (원본 = lecture-materials repo `scripts/CUIF2026_포스터폼_접수알림_AppsScript.gs`)
  *
  * 접수를 닫을 때는 APPLY_FORM_URL 을 빈 문자열로 두면 된다.
  * 그러면 버튼이 자동으로 「참가 신청 안내」(공지사항)로 되돌아가고,
  * 코랄 맥박 애니메이션도 같이 꺼진다.
  */
 export const APPLY_FORM_URL =
-  'https://docs.google.com/forms/d/e/1FAIpQLSdYhj4RsxKLG_EuYTn5pLSCI4GcsYhYFrXVGqCBlaLdeosmxw/viewform';
+  'https://docs.google.com/forms/d/e/1FAIpQLSeJ52q0PkSRHB6ZTbbiVfB7KU0aHEcv4zvM5LE8kOlprN8dWA/viewform';
 
 /**
  * 영문 전용 신청 폼. 구글폼에는 «언어 선택»이 없어서 폼을 따로 둔다.
- * 비워 두면 EN 으로 보고 있어도 위의 이중언어 폼(한국어/영어 병기)으로 간다.
- * 채우는 법 = Apps Script STEP8_영문폼_만들기 로그의 주소.
+ * 비워 두면 EN 으로 보고 있어도 위의 폼으로 간다.
+ * ⚠ 현재 운영 폼은 한국어 전용이라 의도적으로 비워 둔다 —
+ *   영문 폼을 따로 열면 접수처가 또 갈라진다. 열 거면 알림 스크립트도 같이 붙일 것.
  */
 export const APPLY_FORM_URL_EN = '';
 
