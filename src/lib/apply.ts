@@ -18,8 +18,7 @@ import { LANG_STORAGE_KEY } from './i18n';
  * 그러면 버튼이 자동으로 「참가 신청 안내」(공지사항)로 되돌아가고,
  * 코랄 맥박 애니메이션도 같이 꺼진다.
  */
-export const APPLY_FORM_URL =
-  'https://docs.google.com/forms/d/e/1FAIpQLSeJ52q0PkSRHB6ZTbbiVfB7KU0aHEcv4zvM5LE8kOlprN8dWA/viewform';
+export const APPLY_FORM_URL = 'https://forms.gle/FkcWbpW5myddKweQ6';
 
 /**
  * 영문 전용 신청 폼. 구글폼에는 «언어 선택»이 없어서 폼을 따로 둔다.
