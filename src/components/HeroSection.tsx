@@ -1,7 +1,7 @@
 import { Button } from './ui/button';
 import { Badge } from './ui/badge';
 import { useNavigate } from 'react-router-dom';
-import { Calendar, Users, Lightbulb, FileText, Trophy, Send } from 'lucide-react';
+import { Calendar, Users, Lightbulb, FileText, Trophy, Send, Zap } from 'lucide-react';
 import {
   APPLY_CTA_CLASS_DARK,
   APPLY_LABEL_EN,
@@ -9,6 +9,11 @@ import {
   IS_APPLY_OPEN,
   openApplyForm,
 } from '../lib/apply';
+import {
+  applyDdayLabel,
+  isMiniHackathonOpen,
+  isMiniHackathonVisible,
+} from '../lib/miniHackathon';
 import { useLang } from '../lib/i18n';
 
 // 2026 브랜드 컬러 (크림·코랄·다크) — 프로젝트가 사전 컴파일 Tailwind CSS를 쓰므로 인라인 스타일 사용
@@ -18,6 +23,11 @@ const CORAL = '#cc785c';
 export function HeroSection() {
   const navigate = useNavigate();
   const { t } = useLang();
+
+  // 미니해커톤(9/18) 띠 — 행사가 끝나면 miniHackathon.ts 가 스스로 내린다
+  const 미니해커톤 = isMiniHackathonVisible();
+  const 미니해커톤_접수중 = isMiniHackathonOpen();
+  const 미니해커톤_dday = applyDdayLabel();
 
   return (
     <section
@@ -131,11 +141,44 @@ export function HeroSection() {
           )}
         </p>
 
+        {/* 미니해커톤(9/18) — 마감이 코앞이라 히어로에서 바로 잡는다 */}
+        {미니해커톤 && (
+          <div className="mt-8">
+            <a
+              href="#minihackathon"
+              className="inline-flex items-center gap-2"
+              style={{
+                backgroundColor: CORAL,
+                color: '#ffffff',
+                fontSize: '14px',
+                fontWeight: 600,
+                borderRadius: '999px',
+                padding: '10px 18px',
+                maxWidth: '100%',
+                lineHeight: 1.45,
+                textAlign: 'left',
+              }}
+            >
+              <Zap className="w-4 h-4" style={{ flexShrink: 0 }} />
+              {미니해커톤_접수중 && 미니해커톤_dday !== ''
+                ? t(
+                    `9/18(금) 미니해커톤 — 신청 마감 9/15(화) ${미니해커톤_dday}`,
+                    `Mini hackathon Sep 18 (Fri) — sign up by Sep 15 (Tue) ${미니해커톤_dday}`,
+                  )
+                : t(
+                    '9/18(금) 미니해커톤 — 자세히 보기',
+                    'Mini hackathon on Sep 18 (Fri) — see the details',
+                  )}
+            </a>
+          </div>
+        )}
+
         {/* 선배 노하우 아카이브(/tips) 진입 — 2026 신설 */}
         <a
           href="/tips"
-          className="inline-flex items-center gap-2 mt-8"
+          className="inline-flex items-center gap-2"
           style={{
+            marginTop: '12px',
             color: CORAL,
             fontSize: '14px',
             fontWeight: 600,

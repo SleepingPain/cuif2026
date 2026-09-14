@@ -1,5 +1,6 @@
 import { Navigation } from '../components/Navigation';
 import { HeroSection } from '../components/HeroSection';
+import { MiniHackathonSection } from '../components/MiniHackathonSection';
 import { AboutSection } from '../components/AboutSection';
 import { NoticeSection } from '../components/NoticeSection';
 import { TopicsSection } from '../components/TopicsSection';
@@ -10,6 +11,7 @@ import { BiggerStageSection } from '../components/BiggerStageSection';
 import { ContactSection } from '../components/ContactSection';
 import { Lightbulb } from 'lucide-react';
 import { APPLY_LABEL_EN, APPLY_LABEL_KO, openApplyForm } from '../lib/apply';
+import { isMiniHackathonVisible } from '../lib/miniHackathon';
 import { useLang } from '../lib/i18n';
 
 export function HomePage() {
@@ -24,6 +26,13 @@ export function HomePage() {
       <section className="snap-start">
         <HeroSection />
       </section>
+
+      {/* 미니해커톤 (9/18) — 행사가 끝나면 miniHackathon.ts 가 스스로 내린다 */}
+      {isMiniHackathonVisible() && (
+        <section className="snap-start">
+          <MiniHackathonSection />
+        </section>
+      )}
 
       {/* Notice Section - 메인 섹션 바로 아래 배치 */}
       <section className="snap-start">
