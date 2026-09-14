@@ -127,7 +127,8 @@ export function HomePage() {
                 <li><a href="/inform" className="hover:text-foreground">{t('공지사항', 'Notices')}</a></li>
                 <li><a href="#topics" className="hover:text-foreground">{t('공모 주제', 'Missions')}</a></li>
                 <li><a href="#guidelines" className="hover:text-foreground">{t('참가 안내', 'How to Enter')}</a></li>
-                <li><a href="/tips" className="hover:text-foreground">{t('공모전 TIP', 'Winner Tips')}</a></li>
+                <li><a href="/tips" className="hover:text-foreground">{t('공모전 TIP — 최준혁 선배', 'Winner Tips — Choi Junhyeok')}</a></li>
+                <li><a href="/tips/osihye" className="hover:text-foreground">{t('선배 특강 — 오시혜 선배', 'Alumni Lecture — Oh Sihye')}</a></li>
                 <li><a href="#faq" className="hover:text-foreground">FAQ</a></li>
               </ul>
             </div>

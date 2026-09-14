@@ -1,0 +1,386 @@
+0000	Trang chủ
+0001	ALUMNI PLAYBOOK
+0002	Hướng dẫn sử dụng
+0003	Bài giảng khác của cựu sinh viên
+0004	Xem ngay
+0005	Ngôn ngữ
+0006	Các ngôn ngữ ngoài tiếng Hàn đều do máy dịch. Nếu thấy câu nào khó hiểu, xin lấy bản tiếng Hàn làm chuẩn.
+0007	Video được trình bày bằng tiếng Hàn. Bạn có thể bật phụ đề dịch tự động từ nút CC của YouTube.
+0008	Mở trang Notion gốc
+0009	Bài giảng cựu sinh viên CUIF 2026
+0010	Bài giảng cựu sinh viên CUIF 2026
+0011	Hãy đọc trước hướng đi mà chính quyền địa phương mong muốn,
+0012	rồi đặt lên trên đó góc nhìn mới của chúng ta.
+0013	Oh Sihye
+0014	Đại học CHA, khóa ’21
+0015	Đoạt Giải Nhất CUIF
+0016	Tham gia mỗi năm, từ năm nhất đến năm tư
+0017	Giải Xuất sắc → Giải Nhất → quay lại cùng các em khóa dưới
+0018	Tôi đã tổng hợp theo từng mục, tập trung vào những điểm cốt lõi. Chi tiết xin xem trong video, và hãy dùng trang này như một cuốn sổ vạn năng thay vì ghi chép riêng. Có gì thắc mắc, xin cứ liên hệ theo địa chỉ bên dưới bất cứ lúc nào! Chúc các bạn thành công 🍀
+0019	CONTACT
+0020	Nếu CUIF còn mới với bạn
+0021	Tôi khuyên nên xem theo thứ tự, từ 00 Giới thiệu.
+0022	Nếu bạn còn đang phân vân có tham gia hay không
+0023	Hãy xem 01 Vì sao nên làm CUIF? trước.
+0024	Nếu bạn chưa biết bắt đầu tìm hiểu chính quyền địa phương từ đâu
+0025	02 Cách nghiên cứu chính quyền địa phương có quy trình thực tế.
+0026	Nếu ý tưởng của bạn có vẻ bình thường
+0027	Hãy xem tình huống Yangju và Pocheon trong 03 Logic VS Sáng tạo.
+0028	Nếu việc quản lý tiến độ khiến bạn bối rối
+0029	04 Cách lập kế hoạch có thời lượng khuyến nghị cho từng giai đoạn.
+0030	Nếu bạn đã mệt mỏi vì chưa có kết quả
+0031	Xin hãy xem 05 Lời kết.
+0032	Một câu xuyên suốt bài giảng này
+0033	Nghiên cứu nhiều không phải là mục đích; cốt lõi là tìm ra một dòng bằng chứng chống đỡ cho logic kế hoạch của chúng ta.
+0034	Giới thiệu — vì sao tôi làm CUIF bốn lần
+0035	Bốn năm liền tham gia CUIF · Thứ còn lại lâu hơn giải thưởng
+0036	🎯 01. CUIF không phải một lần đoạt giải, mà là sự tích lũy kinh nghiệm liên tục
+0037	Không phải giỏi ngay từ đầu, mà là **kinh nghiệm cứ thử đã**
+0038	**Kinh nghiệm lập kế hoạch tích lũy dần** qua việc tham gia mỗi năm từ năm nhất tới năm tư
+0039	**Quá trình trưởng thành** nối từ Giải Xuất sắc → Giải Nhất → quay lại cùng khóa dưới
+0040	**Năng lực lập kế hoạch hình thành qua những lần thử lặp lại**, hơn là qua kết quả đoạt giải
+0041	02. Kinh nghiệm CUIF là tài sản nối tới công việc và xin việc
+0042	Dùng CUIF không chỉ như một cuộc thi mà như **cơ hội trải nghiệm lập kế hoạch thật sự**
+0043	Nối kinh nghiệm quảng cáo · PR tích lũy ở đại học tới hồ sơ năng lực và việc làm
+0044	**Mở rộng kinh nghiệm** — dùng lại quy trình lập kế hoạch đã trải qua trong cuộc thi vào công việc quảng cáo · PR sau này
+0045	03. Cho thấy ‘mình đã làm gì’ quan trọng hơn bản thân giải thưởng
+0046	Thay vì chỉ nhấn mạnh kết quả **Giải Nhất CUIF**, hãy giải thích cụ thể để người đọc hiểu được tính chất dự án
+0047	**Nói rõ tên cuộc thi và nội dung dự án** để cả người không biết CUIF cũng hiểu được
+0048	Hơn cả tên cuộc thi, hãy **truyền đạt quá trình: đã phát hiện vấn đề gì và lên kế hoạch ra sao**
+0049	**Quan trọng không phải thành tích đoạt giải mà là tôi đã trải nghiệm và tạo ra điều gì trong đó**
+0050	04. Thái độ tiếp tục thử sức ngay cả sau khi đã có kết quả tốt
+0051	**Thử lại** ngay cả sau Giải Xuất sắc
+0052	**Mở rộng kinh nghiệm** bằng cách quay lại cùng khóa dưới ngay cả sau Giải Nhất
+0053	**Thử thách liên tục**, đặt mục tiêu mới thay vì dừng lại ở một lần thành công
+0054	05. CUIF là dự án cần đủ thời gian và sự tập trung
+0055	**Quá trình chuẩn bị tập trung** khoảng 2–3 tháng mỗi năm
+0056	**Sự dấn thân dài hạn** — cộng dồn khoảng một năm trong bốn năm
+0057	**Sự bền bỉ** — vẫn không buông CUIF dù song song nhiều hoạt động khác
+0058	💡 Tóm lại một câu
+0059	**CUIF không phải cuộc thi một lần để lấy giải, mà là quá trình xây dựng năng lực thực tiễn và hồ sơ năng lực qua những lần thử lặp lại và kinh nghiệm lập kế hoạch**
+0060	Từ khóa
+0061	**Thử → lặp lại → kinh nghiệm lập kế hoạch → giải thưởng → hồ sơ năng lực → công việc thực tế**
+0062	Vì sao nên làm CUIF?
+0063	Lập kế hoạch → triển khai → kết quả → báo cáo: sống trước toàn bộ quy trình nghề nghiệp
+0064	🚀 01. Ưu điểm lớn nhất của CUIF = trải nghiệm toàn bộ quy trình nghề nghiệp
+0065	CUIF không đơn thuần là **cuộc thi nộp ý tưởng rồi lấy giải**, mà là dự án cho phép sinh viên trải nghiệm trước quy trình làm việc thực tế
+0066	Cốt lõi là có thể trải nghiệm trọn vẹn **lập kế hoạch → triển khai → kết quả → báo cáo**
+0067	Đề xuất và lập kế hoạch dự án
+0068	Vận hành chiến dịch thật, chẳng hạn trên mạng xã hội
+0069	Sản xuất vật phẩm, bộ kit thật
+0070	Tổng hợp kết quả vận hành
+0071	Thuyết trình dựa trên ý đồ và kết quả
+0072	→ **Cơ hội trải nghiệm trước cấu trúc công việc mà một AE thực thụ phải làm**
+0073	💡 02. Trong cuộc thi, ‘đã làm được gì’ quan trọng hơn ‘có đoạt giải không’
+0074	Quan trọng hơn việc đoạt giải là **kinh nghiệm giải thích được đã đi qua quy trình nào để tạo ra kết quả**
+0075	🏆 Không dừng ở chỗ “chúng tôi đoạt Giải Nhất”
+0076	mà là kinh nghiệm giải thích được tới tận **vì sao chọn hướng này → đã triển khai gì → tạo ra kết quả nào**
+0077	Đặc biệt nếu tự tay vận hành dự án, nó mở rộng thành **kinh nghiệm cho thấy cả năng lực triển khai**, vượt xa việc chỉ đề xuất ý tưởng
+0078	💼 03. Kinh nghiệm CUIF là kinh nghiệm thực tiễn khác biệt trên thị trường việc làm
+0079	Bản thân việc **lập kế hoạch và triển khai cho một chính quyền địa phương thật** ngoài nhà trường đã hiếm với sinh viên
+0080	Có kinh nghiệm thực tiễn ngoài giờ học chuyên ngành
+0081	Cơ hội tự kiểm chứng mức độ phù hợp với vị trí AE
+0082	Có kinh nghiệm khác biệt so với ứng viên khác
+0083	Kinh nghiệm thu hút được sự quan tâm của người phỏng vấn
+0084	Đặc biệt, **“là sinh viên mà đã làm cả dự án như thế cho chính quyền địa phương”** là điểm khác biệt mạnh
+0085	📂 04. Cách biến thành tích đoạt giải thành hồ sơ năng lực
+0086	Thay vì liệt kê thành tích, hãy **bố cục sao cho nhìn thấy được quá trình tư duy của người lập kế hoạch**
+0087	🔎 Cấu trúc hồ sơ năng lực
+0088	**Phân tích bối cảnh → định nghĩa vấn đề → giải pháp → quá trình triển khai → kết quả → vai trò của tôi**
+0089	Đặc biệt quan trọng là **phân biệt rõ ‘việc nhóm đã làm’ và ‘việc tôi đã làm’**
+0090	→ Hơn cả thành tích, **một cấu trúc cho thấy tôi đã phát hiện vấn đề gì và giải quyết bằng cách nào**
+0091	🧩 05. Giá trị của việc đào sâu một dự án
+0092	Khi đi xin việc, trong khoảng 15 trang hồ sơ thì **riêng dự án CUIF đã chiếm 3 trang** — đó là giá trị của việc trải nghiệm và giải thích sâu một dự án
+0093	Thay vì liệt kê nông nhiều kinh nghiệm, **chiến lược đào sâu một dự án từ lập kế hoạch tới triển khai và kết quả**
+0094	⭐ POINT
+0095	CUIF = 🏆 thành tích + 💼 kinh nghiệm thực tiễn + 📂 hồ sơ năng lực + 🧭 kiểm chứng sự phù hợp nghề nghiệp
+0096	Rốt cuộc điều quan trọng là
+0097	**“Tôi đoạt giải ở CUIF” ❌**
+0098	**“Tôi đã thực sự lập kế hoạch và triển khai gì ở CUIF” ⭕**
+0099	Cấu trúc nối từ giải thưởng → kinh nghiệm → triển khai → giải thích → hồ sơ → **năng lực cạnh tranh khi xin việc**
+0100	🔑 Từ khóa cốt lõi
+0101	quy trình nghề nghiệp → lập kế hoạch → triển khai → kết quả → thuyết trình → hồ sơ năng lực → năng lực cạnh tranh
+0102	Cách nghiên cứu chính quyền địa phương
+0103	Tìm một dòng bằng chứng trong website thành phố và kế hoạch phát triển trung – dài hạn
+0104	🎯 01. Hãy ‘chinh phục trọn vẹn’ website chính quyền địa phương trước
+0105	Đừng kết thúc việc nghiên cứu chỉ bằng AI, tin tức và tìm kiếm trên cổng thông tin; cốt lõi là **đào sâu trước hết vào website của chính thành phố · huyện bạn chọn**
+0106	🏛️ Dữ liệu công
+0107	📂 Tài liệu công khai thông tin
+0108	📊 Các tài liệu hành chính · thống kê
+0109	🗂️ Tài liệu hành chính mở
+0110	→ **Có được nguồn sơ cấp do chính chính quyền địa phương tạo ra và quản lý**
+0111	Tài liệu của chính quyền địa phương không chỉ chứa thông tin mà còn chứa **gợi ý về việc vùng đó đang có vấn đề gì và định đi theo hướng nào**
+0112	📚 02. Tài liệu nhất định phải tìm = ‘kế hoạch phát triển tổng hợp trung – dài hạn’
+0113	Hãy dùng **kế hoạch phát triển tổng hợp trung – dài hạn** mà hầu hết chính quyền địa phương đều có, như tài liệu nghiên cứu quan trọng nhất
+0114	Ví dụ: **“Kế hoạch phát triển tổng hợp trung – dài hạn huyện Yeoncheon 2030”**
+0115	🔍 Những gì có thể thấy trong tài liệu
+0116	📌 Khái quát và hiện trạng vùng
+0117	📊 Phân tích điều kiện vùng
+0118	🧭 Định hướng phát triển dài hạn
+0119	🏙️ Kế hoạch phát triển theo từng lĩnh vực
+0120	⚙️ Kế hoạch thực thi và quản lý
+0121	→ Là tài liệu dài hàng trăm trang, nhưng **đáng đọc trước cả khi bạn chọn đề tài chi tiết hay chọn địa phương**
+0122	🧠 03. Kế hoạch phát triển trung – dài hạn = tài liệu cho biết ‘chính quyền muốn gì’
+0123	Tài liệu hành chính do công chức soạn không phải giấy tờ làm cho có, mà là **tài liệu tích lũy trên cơ sở mục đích và căn cứ rõ ràng**
+0124	Vì vậy đọc kế hoạch phát triển sẽ giúp bạn nắm được
+0125	🏛️ **“Chính quyền địa phương này muốn trở thành một thành phố như thế nào?”**
+0126	điều đó có thể nắm bắt được
+0127	Nói cách khác, đó là **quá trình nắm trước định hướng mà khách hàng — chính quyền địa phương — mong muốn**
+0128	📊 04. Chỉ một bản kế hoạch phát triển nối được ‘phân tích bối cảnh → căn cứ → ý tưởng’
+0129	Kế hoạch phát triển trung – dài hạn không chỉ là tài liệu tham khảo; nó dùng được như **căn cứ cho toàn bộ đề án**
+0130	**① 📊 Tài liệu phân tích bối cảnh**
+0131	Hiện trạng vùng · dân số · đặc trưng địa phương
+0132	→ **Dùng làm căn cứ cho phần phân tích bối cảnh của đề án**
+0133	**② 🗣️ Tài liệu ý kiến người dân**
+0134	Khảo sát người dân · phỏng vấn
+0135	→ **Dùng làm căn cứ định tính chống đỡ cho logic**
+0136	→ Khi cần, **dùng được như tài liệu FGI**
+0137	**③ 🧭 Giá trị mà thành phố theo đuổi**
+0138	Mục tiêu và giá trị cốt lõi mà chính quyền đặt ra cho thành phố
+0139	→ **Nguồn để định hướng cho ý tưởng**
+0140	💡 05. Kết hợp ‘điều chính quyền muốn’ với ‘góc nhìn mới của chúng ta’
+0141	Cốt lõi là **không đi theo nguyên hướng chính quyền đưa ra, mà đặt thêm góc nhìn mới chỉ sinh viên mới có**
+0142	**Giá trị của chính quyền địa phương**
+0143	🌿 Thành phố hòa bình của cùng tồn tại và thịnh vượng
+0144	🏕️ Thành phố hấp dẫn của thư thái và nghỉ ngơi
+0145	⬇️
+0146	**Kết hợp với ý tưởng mới của sinh viên**
+0147	→ Chính sách · định hướng sẵn có + góc nhìn mới
+0148	→ **Phát triển thành logic và ý tưởng chỉ riêng nhóm mình có**
+0149	🎯 06. Vì sao ‘đề án may đo’ lại có sức thuyết phục
+0150	Khi đã hiểu trước định hướng của chính quyền địa phương
+0151	**Nắm điều chính quyền muốn → đặt hướng đề xuất hợp khẩu vị của họ**
+0152	**→ Thêm góc nhìn mới vào tài liệu sẵn có → dựng logic riêng của nhóm**
+0153	**⇒ Hoàn thành một đề án khác biệt**
+0154	Tức là không chỉ đưa ra một ý tưởng hay, mà là
+0155	🎯 **“vì sao ý tưởng của chúng tôi lại cần cho chính chính quyền này”**
+0156	một cấu trúc giải thích được điều đó
+0157	🔑 07. Mục tiêu cuối của nghiên cứu = có được căn cứ chống đỡ cho logic
+0158	Nghiên cứu nhiều không phải mục đích; cốt lõi là **tìm ra một dòng căn cứ chống đỡ cho logic kế hoạch của chúng ta**
+0159	Nếu ngay từ đầu cùng đồng đội học tài liệu của chính quyền đó
+0160	🔎 Tìm được căn cứ khớp với logic
+0161	📌 Có được dữ liệu với nguồn rõ ràng
+0162	🧠 Rút ra insight mới từ tài liệu hành chính sẵn có
+0163	💡 Phát hiện góc nhìn mới mà công chức chưa nghĩ tới
+0164	tất cả đều khả thi
+0165	🚀 Công thức nghiên cứu chính quyền địa phương của CUIF
+0166	🏛️ Khám phá website chính quyền → 📚 Tìm kế hoạch phát triển tổng hợp trung – dài hạn
+0167	→ 📊 Phân tích hiện trạng · điều kiện → có căn cứ phân tích bối cảnh → 🗣️ Khảo sát · phỏng vấn người dân → có căn cứ cho logic
+0168	→ 🧭 Định hướng ý tưởng quanh mục tiêu · giá trị của chính quyền → 💡 Thêm góc nhìn mới của sinh viên
+0169	⇒ 🎯 Hoàn thành đề án may đo cho chính quyền địa phương
+0170	⭐ Cốt lõi một dòng
+0171	**“Hãy đọc trước hướng đi mà chính quyền địa phương mong muốn, rồi đặt lên trên đó góc nhìn mới của chúng ta”**
+0172	🔑 Từ khóa cốt lõi
+0173	website chính quyền → kế hoạch phát triển trung – dài hạn → phân tích hiện trạng → ý kiến người dân → định hướng của chính quyền → góc nhìn mới → logic may đo
+0174	Logic VS Sáng tạo
+0175	Định nghĩa lại vấn đề và sáng tạo, nhìn qua tình huống thật ở Yangju và Pocheon
+0176	🎯 Lập kế hoạch nối logic với sáng tạo
+0177	🧠 01. Bản chất của lập kế hoạch = cách giải quyết vấn đề
+0178	Lập kế hoạch không đơn thuần là **tạo ra một ý tưởng hay**
+0179	mà là **quá trình phát hiện vấn đề và đưa ra cách giải quyết nó**
+0180	🔑 **Tiếp cận logic → phát hiện vấn đề → cách giải quyết (How) → sáng tạo**
+0181	Tức là sáng tạo không phải lĩnh vực tách rời logic, mà là **phương pháp cụ thể để giải quyết vấn đề**
+0182	🔗 02. Đừng nghĩ tách rời logic và sáng tạo
+0183	Thế lưỡng nan thường gặp khi lập kế hoạch dự thi
+0184	📊 Chỉ chú tâm vào logic → ý tưởng dễ thành bình thường
+0185	🎨 Chỉ chú tâm vào sáng tạo → ý tưởng thiếu lý do và sức thuyết phục
+0186	Nhưng đây không phải chọn một trong hai:
+0187	**khi xác định rõ vấn đề → cách giải quyết vấn đề ấy chính là sáng tạo**
+0188	💡 **“Tìm cách giải quyết cho logic” quan trọng hơn “gượng ép tạo ra ý tưởng độc đáo”**
+0189	🏙️ 03. Tình huống ① Thành phố Yangju｜Cho thấy ‘cả Yangju’ thay vì quảng bá điểm du lịch
+0190	**Đề bài ban đầu**
+0191	→ Yangju muốn trở thành điểm du lịch trong ngày của vùng thủ đô
+0192	Ban đầu chúng tôi tiếp cận theo hướng
+0193	**liệt kê các điểm du lịch → rồi quảng bá từng điểm**
+0194	Nhưng trong quá trình nghiên cứu, chúng tôi phát hiện **lượng khách giảm theo từng khu vực sinh hoạt và khác biệt trong nhận thức về vùng**
+0195	🔎 Định nghĩa lại vấn đề
+0196	Không phải quảng bá điểm du lịch đơn thuần, mà
+0197	**“vấn đề người ta nhận thức Yangju tách thành đông và tây”**
+0198	mới là vấn đề cốt lõi, chúng tôi đánh giá như vậy
+0199	💡 Sáng tạo
+0200	**Phát triển tuyến du lịch mới nối các khu vực sinh hoạt**
+0201	Tuyến tham quan nối phía đông ↔ phía tây
+0202	Nối nhiều khu vực sinh hoạt thành một trải nghiệm
+0203	Dẫn dắt để người ta nhận thức cả Yangju như một điểm đến duy nhất
+0204	→ **Phát triển thành thông điệp “Nối liền Yangju”**
+0205	📌 **Cốt lõi:**
+0206	**Cách định nghĩa vấn đề quyết định hướng đi của sáng tạo**
+0207	🌊 04. Tình huống ② Thành phố Pocheon｜Không phải ‘quảng bá’ mà tạo lý do để ở lại
+0208	**Đề bài ban đầu**
+0209	→ Phát triển Pocheon, vốn đã nổi tiếng là điểm du lịch trong ngày, thành **điểm lưu trú 2 ngày 1 đêm · 3 ngày 2 đêm**
+0210	Ban đầu chúng tôi cân nhắc hướng quảng bá mạnh hơn cho các dự án du lịch sẵn có
+0211	Nhưng kết quả nghiên cứu cho thấy
+0212	người ta vẫn nhận thức Pocheon là **điểm du lịch trong ngày**
+0213	— đó là vấn đề chúng tôi phát hiện
+0214	🔎 Định nghĩa lại vấn đề
+0215	Chỉ **“quảng bá rằng đây là điểm du lịch lưu trú”** thì khó thay đổi nhận thức
+0216	→ **Cần một trải nghiệm du lịch mới khiến người ta buộc phải ở lại**
+0217	💡 Sáng tạo
+0218	Không thay đổi môi trường vật lý của sông Hantan, mà
+0219	**kết hợp với ‘learncation’ (học + nghỉ dưỡng), xu hướng du lịch mới lúc bấy giờ**
+0220	Tận dụng đặc trưng địa chất · lịch sử của sông Hantan
+0221	→ Phát triển thành **nội dung du lịch lưu trú nơi việc học và chuyến đi cùng tồn tại**
+0222	Hiện thực hóa thành các chương trình du lịch cụ thể, trong đó có chương trình cho học sinh
+0223	📌 **Cốt lõi:**
+0224	**Diễn giải nguồn lực sẵn có bằng góc nhìn mới có thể dẫn tới sáng tạo mới**
+0225	🎯 05. Cuộc thi không có ‘công thức đáp án’
+0226	Tác phẩm đoạt giải CUIF mỗi năm được quyết định theo hướng khó đoán
+0227	Có năm thì
+0228	→ **nhóm chắc chắn về logic** được đánh giá cao
+0229	Có năm thì
+0230	→ **nhóm có sức sáng tạo áp đảo** được đánh giá cao
+0231	Vì vậy không có đáp án hay công thức đoạt giải cố định
+0232	Thay vào đó, điều quan trọng là
+0233	**logic + sáng tạo + thuyết trình thuyết phục**
+0234	có đủ cả ba
+0235	🏆 06. Cấu trúc kế hoạch tiến gần tới Giải Nhất
+0236	**① Logic**
+0237	→ Phát hiện rõ vấn đề của chính quyền địa phương
+0238	**② Định nghĩa vấn đề**
+0239	→ Rút ra vấn đề cốt lõi cần giải, không phải hiện tượng bề mặt
+0240	**③ Sáng tạo**
+0241	→ Đưa ra phương pháp cụ thể để giải quyết vấn đề
+0242	**④ Thuyết phục**
+0243	→ Trình bày vì sao ý tưởng này phù hợp để giải quyết vấn đề
+0244	⭐ **Sáng tạo tốt = không phải bản thân ý tưởng độc đáo, mà là ý tưởng giải được một vấn đề đã xác định rõ**
+0245	🔑 Cốt lõi
+0246	**❌ “Làm sao tạo ra ý tưởng độc đáo hơn?”**
+0247	**⭕ “Làm sao giải quyết vấn đề chúng ta đã phát hiện?”**
+0248	Rốt cuộc,
+0249	nghiên cứu → phát hiện vấn đề → định nghĩa vấn đề → hướng giải quyết → sáng tạo → thuyết trình thuyết phục
+0250	giữ cho mạch này không đứt mới là cốt lõi
+0251	💬 Tóm lại một dòng
+0252	**Logic sinh ra sáng tạo, và khi sáng tạo giải được vấn đề thì một kế hoạch thuyết phục mới hoàn chỉnh**
+0253	Cách lập kế hoạch
+0254	Thiết kế lịch trình 1–3 tháng, đếm ngược từ thời gian chuẩn bị thuyết trình
+0255	⏱️ 01. Cốt lõi của kế hoạch = thiết kế lịch trình lấy người thuyết trình làm chuẩn
+0256	Ở cuộc thi kéo dài 1–3 tháng như CUIF, **quản lý lịch trình có hệ thống và dựng quy trình nhóm** rất quan trọng
+0257	Người thuyết trình không chỉ đơn thuần lên nói, mà phải hiểu đủ toàn bộ kế hoạch và sản phẩm để truyền đạt bằng ngôn ngữ của mình
+0258	Vì vậy hãy thiết kế toàn bộ lịch trình với tiền đề **dành tối thiểu 3–5 ngày cho chuẩn bị thuyết trình**
+0259	🔑 Hãy khớp lịch trình quanh người thuyết trình, nhưng đừng chỉ nghe theo lời họ
+0260	🔎 02. Lập kế hoạch · nghiên cứu｜tối đa 7–10 ngày
+0261	Giai đoạn từ phân tích hiện trạng → phát hiện vấn đề → rút insight → định hướng giải pháp
+0262	**Thời lượng khuyến nghị: khoảng một tuần, tối đa 10 ngày**
+0263	⚠️ Tránh sa lầy quá lâu vào một ý tưởng
+0264	Nếu một tuần vẫn chưa ra hướng, cần **sự linh hoạt để bỏ và chuyển sang phương án B**
+0265	Điều cần kiểm tra cuối giai đoạn lập kế hoạch
+0266	Có phải câu chuyện chỉ nhóm mình hiểu không?
+0267	Logic có nắm được ngay trong một lần nghe ở buổi thuyết trình không?
+0268	Có quá phức tạp không?
+0269	Hay ngược lại, logic có quá lỏng lẻo không?
+0270	💡 03. Ý tưởng｜tối đa 10 ngày
+0271	Giai đoạn **cụ thể hóa bằng góc nhìn riêng của sinh viên những ý tưởng cần cho phân tích bối cảnh và giải quyết vấn đề** đã rút ra trước đó
+0272	Cấu trúc nối insight → concept → phương án triển khai
+0273	**Làm khoảng 3–4 phương án ý tưởng để so sánh và chọn lọc**, rồi chuyển sang làm tài liệu
+0274	✨ Không nhất thiết phải tìm ý tưởng trong phòng họp
+0275	Hãy tích cực thu thập cả những ý tưởng nảy ra khi di chuyển hay trong đời sống thường ngày
+0276	🎨 04. Làm tài liệu｜tối đa 14 ngày
+0277	Giai đoạn **hoàn thiện sản phẩm hình ảnh của đề án** — slide, hình ảnh, video
+0278	Hãy dành **khoảng hai tuần**, tính tới quá trình phối hợp và thời gian làm việc của từng người
+0279	⚠️ Đừng quá ám ảnh với độ hoàn thiện của sản phẩm
+0280	Đầu tư càng nhiều thời gian thì nhìn càng đẹp, nhưng **lấn vào thời gian chuẩn bị thuyết trình thì lại hại kết quả chung**
+0281	🎯 Điều quan trọng không phải ‘sản phẩm đẹp nhất’ mà là **khả năng hình ảnh hóa hiệu quả trong thời gian có được**
+0282	🗣️ 05. Chuẩn bị thuyết trình｜đóa hoa của CUIF
+0283	Giai đoạn nắm chắc kế hoạch để **giải thích trôi chảy và truyền đạt được**
+0284	Vai trò của người thuyết trình không phải thuộc lòng kịch bản mà là **hiểu toàn bộ tài liệu và giải thích bằng ngôn ngữ của mình**
+0285	Nếu người thuyết trình tham gia cả vào quá trình làm slide
+0286	→ Hiểu ý đồ bố cục từng trang
+0287	→ Nắm được thông điệp cốt lõi
+0288	→ Biết điểm nhấn của từng trang
+0289	→ Thuyết trình tự nhiên ngay cả khi không có kịch bản
+0290	🏆 Thuyết trình là **kinh nghiệm vượt khỏi chiến lược đoạt giải, nối tới cả năng lực giao tiếp · phỏng vấn**
+0291	🤝 06. Người thuyết trình không phải ‘người chỉ đứng nói’
+0292	Người thuyết trình là người truyền thông cốt lõi, phải hiểu tài liệu từ A tới Z
+0293	Vì vậy việc **tham gia tích cực vào làm slide và quá trình lập kế hoạch** rất quan trọng
+0294	Đặc biệt với ai muốn nâng năng lực thuyết trình, chính vai trò này đã là cơ hội rèn luyện tốt
+0295	🛍️ 07. Nếu có tham vọng, hãy ‘tự tay làm thật’
+0296	Nếu có thể hiện thực hóa ý tưởng thành sản phẩm thật — làm merchandise, vận hành mạng xã hội — **hãy chừa dư lịch trình và thử sức**
+0297	Nếu nhà trường cấp kinh phí hoạt động nhóm hay hỗ trợ, tôi khuyên nên làm tới tận khâu sản xuất
+0298	Sản phẩm triển khai thật là
+0299	→ **tài sản cho hồ sơ năng lực**
+0300	→ **lợi thế cộng thêm, nâng khả năng đoạt giải**
+0301	🗓️ Kế hoạch khuyến nghị nhìn một lượt
+0302	Giai đoạn
+0303	Thời lượng khuyến nghị
+0304	Mục tiêu cốt lõi
+0305	🔎 Lập kế hoạch · nghiên cứu
+0306	7–10 ngày
+0307	Hiện trạng → vấn đề → insight
+0308	💡 Ý tưởng
+0309	tối đa 10 ngày
+0310	Insight → concept → triển khai
+0311	🎨 Làm tài liệu
+0312	tối đa 14 ngày
+0313	Hoàn thiện slide · hình ảnh · video
+0314	🗣️ Chuẩn bị thuyết trình
+0315	tối thiểu 3–5 ngày
+0316	Nắm tài liệu → luyện thuyết trình
+0317	🔑 Điểm cốt lõi
+0318	**① Giữ trước thời gian chuẩn bị thuyết trình rồi mới tính ngược lịch trình**
+0319	**② Sự linh hoạt để không sa lầy vào một ý tưởng**
+0320	**③ Quản lý thời gian theo từng giai đoạn: kế hoạch → ý tưởng → sản xuất → thuyết trình**
+0321	**④ Người thuyết trình không phải người chỉ đứng nói mà là người hiểu toàn bộ kế hoạch**
+0322	**⑤ Nếu được, hãy triển khai thật rồi biến thành hồ sơ năng lực**
+0323	⭐ Điều quan trọng ở CUIF không phải ‘làm cho hoàn hảo’ mà là **hoàn thành suy nghĩ của nhóm trong thời gian đã định và truyền đạt một cách thuyết phục**
+0324	Lời kết
+0325	Lạc lối bao nhiêu thì thành đất của mình bấy nhiêu · Lời nhắn cuối cho các em khóa dưới
+0326	🧭 01. Lạc lối bao nhiêu thì thành đất của mình bấy nhiêu
+0327	Những sai lầm và trăn trở ở CUIF rốt cuộc cũng là **quá trình tích lũy thành kinh nghiệm và năng lực của riêng mình**
+0328	Dù ngay lúc này chưa có giải thưởng
+0329	→ quá trình trăn trở
+0330	→ những lần thử khác nhau
+0331	→ thất bại và những lần đổi hướng
+0332	→ kinh nghiệm tự mình tìm kiếm
+0333	tất cả đều là tài sản dùng được ở cuộc thi sau và trong công việc
+0334	💡 **Cả sự lạc lối lúc này rồi cũng có ngày thành của mình**
+0335	🤝 02. Hãy nhìn đối thủ như ‘đồng đội tương lai’
+0336	Ưu điểm lớn của cuộc thi trong trường là **đối thủ hôm nay có thể thành người cộng tác ngày mai**
+0337	Khi xem phần trình bày và sản phẩm của nhóm khác
+0338	Quan sát họ làm tốt điểm nào
+0339	Tìm ra người có năng lực mình thèm muốn
+0340	Phân tích vì sao họ giỏi
+0341	Ghi nhớ như đồng đội muốn đi cùng ở cuộc thi sau
+0342	🔗 Mở rộng thành **cạnh tranh → quan sát → tạo quan hệ → cộng tác trong tương lai**
+0343	📁 03. Giải thưởng không phải tất cả
+0344	**Bản thân đề án, slide, video, ý tưởng tạo ra trong quá trình tham gia CUIF đã là tài sản cho hồ sơ năng lực**
+0345	Dù có đoạt giải hay không,
+0346	điều quan trọng là để lại **“mình đã làm ra gì, với suy nghĩ thế nào”**
+0347	🏆 Giải thưởng chỉ là một trong các kết quả; thứ còn lại từ quá trình tham gia cũng đã đủ là tài sản
+0348	🏫 04. Tận dụng tối đa nguồn lực của nhà trường
+0349	Khi chuẩn bị CUIF, hãy tích cực tận dụng những gì nhà trường cung cấp
+0350	**Nguồn lực vật chất**
+0351	Phòng họp
+0352	Phòng thực hành
+0353	Không gian làm việc nhóm
+0354	**Nguồn lực con người**
+0355	Thầy cô
+0356	Các anh chị khóa trên
+0357	Bạn cùng khóa và bạn học
+0358	Người từng làm CUIF
+0359	Thay vì tự giải quyết một mình, cần **thái độ chủ động kết nối nguồn lực xung quanh**
+0360	🎤 05. Nếu có thể, hãy thử làm người thuyết trình
+0361	Người thuyết trình có được **trải nghiệm tạo ra sản phẩm hoàn chỉnh trong hạn định và trực tiếp thuyết phục người khác**
+0362	Qua quá trình thuyết trình
+0363	→ hiểu toàn bộ tài liệu
+0364	→ sắp xếp thông điệp cốt lõi
+0365	→ truyền đạt bằng ngôn ngữ của mình
+0366	→ ứng phó câu hỏi dự kiến
+0367	→ nâng cao năng lực giao tiếp
+0368	Đây là **kinh nghiệm nối tới cả giao tiếp trong công việc và năng lực phỏng vấn**, không chỉ riêng CUIF
+0369	🔥 Nếu trong lòng có ý “mình muốn thuyết trình giỏi”, hãy dùng CUIF làm cơ hội rèn luyện
+0370	🚀 06. Hãy dùng CUIF vượt trên ‘một cuộc thi để đoạt giải’
+0371	Giá trị của CUIF **không chỉ nằm ở chuyện có đoạt giải hay không**
+0372	kinh nghiệm lập kế hoạch + kinh nghiệm triển khai + kinh nghiệm thuyết trình + kinh nghiệm phối hợp + sản phẩm + con người
+0373	Tất cả tích lại sẽ **nối tới năng lực thực tiễn và tài sản nghề nghiệp sau thời sinh viên**
+0374	🔑 Thông điệp cuối cho các em khóa dưới
+0375	**① Đừng sợ chính quá trình lạc lối**
+0376	**② Hãy học từ đối thủ và tìm ra đồng đội tương lai**
+0377	**③ Hãy để lại sản phẩm, bất kể có đoạt giải hay không**
+0378	**④ Hãy tích cực tận dụng nhà trường và những người xung quanh**
+0379	**⑤ Nếu được, hãy thử vai trò người thuyết trình**
+0380	🌟 **Từng nỗi trăn trở và từng lần vấp ngã bạn trải qua ở CUIF rốt cuộc sẽ thành ‘đất của riêng mình’, và một ngày nào đó thành kinh nghiệm được dùng lại ở cuộc thi khác và trong công việc**
+0381	Lạc lối bao nhiêu thì thành đất của mình bấy nhiêu.
+0382	Dù ngay lúc này chưa có giải thưởng, quá trình trăn trở, những lần thử khác nhau, thất bại và những lần đổi hướng, kinh nghiệm tự mình tìm kiếm — tất cả đều thành tài sản dùng được ở cuộc thi sau và trong công việc.
+0383	Từng nỗi trăn trở và từng lần vấp ngã bạn trải qua ở CUIF rốt cuộc sẽ thành ‘đất của riêng mình’, và **một ngày nào đó thành kinh nghiệm được dùng lại ở cuộc thi khác và trong công việc**.
+0384	Chúc các bạn thành công 🍀
+0385	Trang này chuyển thể bản Notion bài giảng mà chị Oh Sihye gửi cho người tham gia 2026 CUIF+. Sáu video và bản gốc cũng có thể xem trên trang Notion gốc.

@@ -1,0 +1,1415 @@
+{
+ "lang": "vi",
+ "ui": {
+  "home": "Trang chủ",
+  "kicker": "ALUMNI PLAYBOOK",
+  "guideTitle": "Hướng dẫn sử dụng",
+  "otherTitle": "Bài giảng khác của cựu sinh viên",
+  "otherCta": "Xem ngay",
+  "langLabel": "Ngôn ngữ",
+  "mtNotice": "Các ngôn ngữ ngoài tiếng Hàn đều do máy dịch. Nếu thấy câu nào khó hiểu, xin lấy bản tiếng Hàn làm chuẩn.",
+  "videoNote": "Video được trình bày bằng tiếng Hàn. Bạn có thể bật phụ đề dịch tự động từ nút CC của YouTube.",
+  "sourceOpen": "Mở trang Notion gốc"
+ },
+ "slug": "osihye",
+ "navTitle": "Bài giảng cựu sinh viên CUIF 2026",
+ "hero": {
+  "title": "Bài giảng cựu sinh viên CUIF 2026",
+  "sub": [
+   "Hãy đọc trước hướng đi mà chính quyền địa phương mong muốn,",
+   "rồi đặt lên trên đó góc nhìn mới của chúng ta."
+  ]
+ },
+ "speaker": {
+  "name": "Oh Sihye",
+  "meta": "Đại học CHA, khóa ’21",
+  "badges": [
+   "Đoạt Giải Nhất CUIF",
+   "Tham gia mỗi năm, từ năm nhất đến năm tư",
+   "Giải Xuất sắc → Giải Nhất → quay lại cùng các em khóa dưới"
+  ],
+  "intro": "Tôi đã tổng hợp theo từng mục, tập trung vào những điểm cốt lõi. Chi tiết xin xem trong video, và hãy dùng trang này như một cuốn sổ vạn năng thay vì ghi chép riêng. Có gì thắc mắc, xin cứ liên hệ theo địa chỉ bên dưới bất cứ lúc nào! Chúc các bạn thành công 🍀"
+ },
+ "contact": {
+  "label": "CONTACT",
+  "value": "ojm910@naver.com"
+ },
+ "guide": [
+  {
+   "when": "Nếu CUIF còn mới với bạn",
+   "go": "Tôi khuyên nên xem theo thứ tự, từ 00 Giới thiệu."
+  },
+  {
+   "when": "Nếu bạn còn đang phân vân có tham gia hay không",
+   "go": "Hãy xem 01 Vì sao nên làm CUIF? trước."
+  },
+  {
+   "when": "Nếu bạn chưa biết bắt đầu tìm hiểu chính quyền địa phương từ đâu",
+   "go": "02 Cách nghiên cứu chính quyền địa phương có quy trình thực tế."
+  },
+  {
+   "when": "Nếu ý tưởng của bạn có vẻ bình thường",
+   "go": "Hãy xem tình huống Yangju và Pocheon trong 03 Logic VS Sáng tạo."
+  },
+  {
+   "when": "Nếu việc quản lý tiến độ khiến bạn bối rối",
+   "go": "04 Cách lập kế hoạch có thời lượng khuyến nghị cho từng giai đoạn."
+  },
+  {
+   "when": "Nếu bạn đã mệt mỏi vì chưa có kết quả",
+   "go": "Xin hãy xem 05 Lời kết."
+  }
+ ],
+ "guideQuote": {
+  "title": "Một câu xuyên suốt bài giảng này",
+  "body": "Nghiên cứu nhiều không phải là mục đích; cốt lõi là tìm ra một dòng bằng chứng chống đỡ cho logic kế hoạch của chúng ta."
+ },
+ "chapters": [
+  {
+   "no": "00",
+   "title": "Giới thiệu — vì sao tôi làm CUIF bốn lần",
+   "lead": "Bốn năm liền tham gia CUIF · Thứ còn lại lâu hơn giải thưởng",
+   "video": "VQxoLJNsESY",
+   "blocks": [
+    {
+     "t": "h3",
+     "c": "🎯 01. CUIF không phải một lần đoạt giải, mà là sự tích lũy kinh nghiệm liên tục"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "Không phải giỏi ngay từ đầu, mà là **kinh nghiệm cứ thử đã**",
+      "**Kinh nghiệm lập kế hoạch tích lũy dần** qua việc tham gia mỗi năm từ năm nhất tới năm tư",
+      "**Quá trình trưởng thành** nối từ Giải Xuất sắc → Giải Nhất → quay lại cùng khóa dưới",
+      "**Năng lực lập kế hoạch hình thành qua những lần thử lặp lại**, hơn là qua kết quả đoạt giải"
+     ]
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "02. Kinh nghiệm CUIF là tài sản nối tới công việc và xin việc"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "Dùng CUIF không chỉ như một cuộc thi mà như **cơ hội trải nghiệm lập kế hoạch thật sự**",
+      "Nối kinh nghiệm quảng cáo · PR tích lũy ở đại học tới hồ sơ năng lực và việc làm",
+      "**Mở rộng kinh nghiệm** — dùng lại quy trình lập kế hoạch đã trải qua trong cuộc thi vào công việc quảng cáo · PR sau này"
+     ]
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "03. Cho thấy ‘mình đã làm gì’ quan trọng hơn bản thân giải thưởng"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "Thay vì chỉ nhấn mạnh kết quả **Giải Nhất CUIF**, hãy giải thích cụ thể để người đọc hiểu được tính chất dự án",
+      "**Nói rõ tên cuộc thi và nội dung dự án** để cả người không biết CUIF cũng hiểu được",
+      "Hơn cả tên cuộc thi, hãy **truyền đạt quá trình: đã phát hiện vấn đề gì và lên kế hoạch ra sao**"
+     ]
+    },
+    {
+     "t": "quote",
+     "c": "**Quan trọng không phải thành tích đoạt giải mà là tôi đã trải nghiệm và tạo ra điều gì trong đó**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "04. Thái độ tiếp tục thử sức ngay cả sau khi đã có kết quả tốt"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "**Thử lại** ngay cả sau Giải Xuất sắc",
+      "**Mở rộng kinh nghiệm** bằng cách quay lại cùng khóa dưới ngay cả sau Giải Nhất",
+      "**Thử thách liên tục**, đặt mục tiêu mới thay vì dừng lại ở một lần thành công"
+     ]
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "05. CUIF là dự án cần đủ thời gian và sự tập trung"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "**Quá trình chuẩn bị tập trung** khoảng 2–3 tháng mỗi năm",
+      "**Sự dấn thân dài hạn** — cộng dồn khoảng một năm trong bốn năm",
+      "**Sự bền bỉ** — vẫn không buông CUIF dù song song nhiều hoạt động khác"
+     ]
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "💡 Tóm lại một câu"
+    },
+    {
+     "t": "quote",
+     "c": "**CUIF không phải cuộc thi một lần để lấy giải, mà là quá trình xây dựng năng lực thực tiễn và hồ sơ năng lực qua những lần thử lặp lại và kinh nghiệm lập kế hoạch**"
+    },
+    {
+     "t": "h3",
+     "c": "Từ khóa"
+    },
+    {
+     "t": "p",
+     "c": "**Thử → lặp lại → kinh nghiệm lập kế hoạch → giải thưởng → hồ sơ năng lực → công việc thực tế**"
+    }
+   ]
+  },
+  {
+   "no": "01",
+   "title": "Vì sao nên làm CUIF?",
+   "lead": "Lập kế hoạch → triển khai → kết quả → báo cáo: sống trước toàn bộ quy trình nghề nghiệp",
+   "video": "LJJUz5aeb_M",
+   "blocks": [
+    {
+     "t": "h3",
+     "c": "🚀 01. Ưu điểm lớn nhất của CUIF = trải nghiệm toàn bộ quy trình nghề nghiệp"
+    },
+    {
+     "t": "p",
+     "c": "CUIF không đơn thuần là **cuộc thi nộp ý tưởng rồi lấy giải**, mà là dự án cho phép sinh viên trải nghiệm trước quy trình làm việc thực tế"
+    },
+    {
+     "t": "p",
+     "c": "Cốt lõi là có thể trải nghiệm trọn vẹn **lập kế hoạch → triển khai → kết quả → báo cáo**"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "Đề xuất và lập kế hoạch dự án",
+      "Vận hành chiến dịch thật, chẳng hạn trên mạng xã hội",
+      "Sản xuất vật phẩm, bộ kit thật",
+      "Tổng hợp kết quả vận hành",
+      "Thuyết trình dựa trên ý đồ và kết quả"
+     ]
+    },
+    {
+     "t": "p",
+     "c": "→ **Cơ hội trải nghiệm trước cấu trúc công việc mà một AE thực thụ phải làm**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "💡 02. Trong cuộc thi, ‘đã làm được gì’ quan trọng hơn ‘có đoạt giải không’"
+    },
+    {
+     "t": "p",
+     "c": "Quan trọng hơn việc đoạt giải là **kinh nghiệm giải thích được đã đi qua quy trình nào để tạo ra kết quả**"
+    },
+    {
+     "t": "quote",
+     "c": "🏆 Không dừng ở chỗ “chúng tôi đoạt Giải Nhất”"
+    },
+    {
+     "t": "p",
+     "c": "mà là kinh nghiệm giải thích được tới tận **vì sao chọn hướng này → đã triển khai gì → tạo ra kết quả nào**"
+    },
+    {
+     "t": "p",
+     "c": "Đặc biệt nếu tự tay vận hành dự án, nó mở rộng thành **kinh nghiệm cho thấy cả năng lực triển khai**, vượt xa việc chỉ đề xuất ý tưởng"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "💼 03. Kinh nghiệm CUIF là kinh nghiệm thực tiễn khác biệt trên thị trường việc làm"
+    },
+    {
+     "t": "p",
+     "c": "Bản thân việc **lập kế hoạch và triển khai cho một chính quyền địa phương thật** ngoài nhà trường đã hiếm với sinh viên"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "Có kinh nghiệm thực tiễn ngoài giờ học chuyên ngành",
+      "Cơ hội tự kiểm chứng mức độ phù hợp với vị trí AE",
+      "Có kinh nghiệm khác biệt so với ứng viên khác",
+      "Kinh nghiệm thu hút được sự quan tâm của người phỏng vấn"
+     ]
+    },
+    {
+     "t": "p",
+     "c": "Đặc biệt, **“là sinh viên mà đã làm cả dự án như thế cho chính quyền địa phương”** là điểm khác biệt mạnh"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "📂 04. Cách biến thành tích đoạt giải thành hồ sơ năng lực"
+    },
+    {
+     "t": "p",
+     "c": "Thay vì liệt kê thành tích, hãy **bố cục sao cho nhìn thấy được quá trình tư duy của người lập kế hoạch**"
+    },
+    {
+     "t": "h3",
+     "c": "🔎 Cấu trúc hồ sơ năng lực"
+    },
+    {
+     "t": "p",
+     "c": "**Phân tích bối cảnh → định nghĩa vấn đề → giải pháp → quá trình triển khai → kết quả → vai trò của tôi**"
+    },
+    {
+     "t": "p",
+     "c": "Đặc biệt quan trọng là **phân biệt rõ ‘việc nhóm đã làm’ và ‘việc tôi đã làm’**"
+    },
+    {
+     "t": "p",
+     "c": "→ Hơn cả thành tích, **một cấu trúc cho thấy tôi đã phát hiện vấn đề gì và giải quyết bằng cách nào**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "🧩 05. Giá trị của việc đào sâu một dự án"
+    },
+    {
+     "t": "p",
+     "c": "Khi đi xin việc, trong khoảng 15 trang hồ sơ thì **riêng dự án CUIF đã chiếm 3 trang** — đó là giá trị của việc trải nghiệm và giải thích sâu một dự án"
+    },
+    {
+     "t": "p",
+     "c": "Thay vì liệt kê nông nhiều kinh nghiệm, **chiến lược đào sâu một dự án từ lập kế hoạch tới triển khai và kết quả**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "⭐ POINT"
+    },
+    {
+     "t": "h3",
+     "c": "CUIF = 🏆 thành tích + 💼 kinh nghiệm thực tiễn + 📂 hồ sơ năng lực + 🧭 kiểm chứng sự phù hợp nghề nghiệp"
+    },
+    {
+     "t": "p",
+     "c": "Rốt cuộc điều quan trọng là"
+    },
+    {
+     "t": "p",
+     "c": "**“Tôi đoạt giải ở CUIF” ❌**"
+    },
+    {
+     "t": "p",
+     "c": "**“Tôi đã thực sự lập kế hoạch và triển khai gì ở CUIF” ⭕**"
+    },
+    {
+     "t": "p",
+     "c": "Cấu trúc nối từ giải thưởng → kinh nghiệm → triển khai → giải thích → hồ sơ → **năng lực cạnh tranh khi xin việc**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "🔑 Từ khóa cốt lõi"
+    },
+    {
+     "t": "p",
+     "c": "quy trình nghề nghiệp → lập kế hoạch → triển khai → kết quả → thuyết trình → hồ sơ năng lực → năng lực cạnh tranh"
+    }
+   ]
+  },
+  {
+   "no": "02",
+   "title": "Cách nghiên cứu chính quyền địa phương",
+   "lead": "Tìm một dòng bằng chứng trong website thành phố và kế hoạch phát triển trung – dài hạn",
+   "video": "kIO9dKSiayA",
+   "blocks": [
+    {
+     "t": "h3",
+     "c": "🎯 01. Hãy ‘chinh phục trọn vẹn’ website chính quyền địa phương trước"
+    },
+    {
+     "t": "p",
+     "c": "Đừng kết thúc việc nghiên cứu chỉ bằng AI, tin tức và tìm kiếm trên cổng thông tin; cốt lõi là **đào sâu trước hết vào website của chính thành phố · huyện bạn chọn**"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "🏛️ Dữ liệu công",
+      "📂 Tài liệu công khai thông tin",
+      "📊 Các tài liệu hành chính · thống kê",
+      "🗂️ Tài liệu hành chính mở"
+     ]
+    },
+    {
+     "t": "p",
+     "c": "→ **Có được nguồn sơ cấp do chính chính quyền địa phương tạo ra và quản lý**"
+    },
+    {
+     "t": "p",
+     "c": "Tài liệu của chính quyền địa phương không chỉ chứa thông tin mà còn chứa **gợi ý về việc vùng đó đang có vấn đề gì và định đi theo hướng nào**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "📚 02. Tài liệu nhất định phải tìm = ‘kế hoạch phát triển tổng hợp trung – dài hạn’"
+    },
+    {
+     "t": "p",
+     "c": "Hãy dùng **kế hoạch phát triển tổng hợp trung – dài hạn** mà hầu hết chính quyền địa phương đều có, như tài liệu nghiên cứu quan trọng nhất"
+    },
+    {
+     "t": "p",
+     "c": "Ví dụ: **“Kế hoạch phát triển tổng hợp trung – dài hạn huyện Yeoncheon 2030”**"
+    },
+    {
+     "t": "h3",
+     "c": "🔍 Những gì có thể thấy trong tài liệu"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "📌 Khái quát và hiện trạng vùng",
+      "📊 Phân tích điều kiện vùng",
+      "🧭 Định hướng phát triển dài hạn",
+      "🏙️ Kế hoạch phát triển theo từng lĩnh vực",
+      "⚙️ Kế hoạch thực thi và quản lý"
+     ]
+    },
+    {
+     "t": "p",
+     "c": "→ Là tài liệu dài hàng trăm trang, nhưng **đáng đọc trước cả khi bạn chọn đề tài chi tiết hay chọn địa phương**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "🧠 03. Kế hoạch phát triển trung – dài hạn = tài liệu cho biết ‘chính quyền muốn gì’"
+    },
+    {
+     "t": "p",
+     "c": "Tài liệu hành chính do công chức soạn không phải giấy tờ làm cho có, mà là **tài liệu tích lũy trên cơ sở mục đích và căn cứ rõ ràng**"
+    },
+    {
+     "t": "p",
+     "c": "Vì vậy đọc kế hoạch phát triển sẽ giúp bạn nắm được"
+    },
+    {
+     "t": "quote",
+     "c": "🏛️ **“Chính quyền địa phương này muốn trở thành một thành phố như thế nào?”**"
+    },
+    {
+     "t": "p",
+     "c": "điều đó có thể nắm bắt được"
+    },
+    {
+     "t": "p",
+     "c": "Nói cách khác, đó là **quá trình nắm trước định hướng mà khách hàng — chính quyền địa phương — mong muốn**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "📊 04. Chỉ một bản kế hoạch phát triển nối được ‘phân tích bối cảnh → căn cứ → ý tưởng’"
+    },
+    {
+     "t": "p",
+     "c": "Kế hoạch phát triển trung – dài hạn không chỉ là tài liệu tham khảo; nó dùng được như **căn cứ cho toàn bộ đề án**"
+    },
+    {
+     "t": "p",
+     "c": "**① 📊 Tài liệu phân tích bối cảnh**"
+    },
+    {
+     "t": "p",
+     "c": "Hiện trạng vùng · dân số · đặc trưng địa phương"
+    },
+    {
+     "t": "p",
+     "c": "→ **Dùng làm căn cứ cho phần phân tích bối cảnh của đề án**"
+    },
+    {
+     "t": "p",
+     "c": "**② 🗣️ Tài liệu ý kiến người dân**"
+    },
+    {
+     "t": "p",
+     "c": "Khảo sát người dân · phỏng vấn"
+    },
+    {
+     "t": "p",
+     "c": "→ **Dùng làm căn cứ định tính chống đỡ cho logic**"
+    },
+    {
+     "t": "p",
+     "c": "→ Khi cần, **dùng được như tài liệu FGI**"
+    },
+    {
+     "t": "p",
+     "c": "**③ 🧭 Giá trị mà thành phố theo đuổi**"
+    },
+    {
+     "t": "p",
+     "c": "Mục tiêu và giá trị cốt lõi mà chính quyền đặt ra cho thành phố"
+    },
+    {
+     "t": "p",
+     "c": "→ **Nguồn để định hướng cho ý tưởng**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "💡 05. Kết hợp ‘điều chính quyền muốn’ với ‘góc nhìn mới của chúng ta’"
+    },
+    {
+     "t": "p",
+     "c": "Cốt lõi là **không đi theo nguyên hướng chính quyền đưa ra, mà đặt thêm góc nhìn mới chỉ sinh viên mới có**"
+    },
+    {
+     "t": "p",
+     "c": "**Giá trị của chính quyền địa phương**"
+    },
+    {
+     "t": "quote",
+     "c": "🌿 Thành phố hòa bình của cùng tồn tại và thịnh vượng"
+    },
+    {
+     "t": "p",
+     "c": "🏕️ Thành phố hấp dẫn của thư thái và nghỉ ngơi"
+    },
+    {
+     "t": "p",
+     "c": "⬇️"
+    },
+    {
+     "t": "p",
+     "c": "**Kết hợp với ý tưởng mới của sinh viên**"
+    },
+    {
+     "t": "p",
+     "c": "→ Chính sách · định hướng sẵn có + góc nhìn mới"
+    },
+    {
+     "t": "p",
+     "c": "→ **Phát triển thành logic và ý tưởng chỉ riêng nhóm mình có**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "🎯 06. Vì sao ‘đề án may đo’ lại có sức thuyết phục"
+    },
+    {
+     "t": "p",
+     "c": "Khi đã hiểu trước định hướng của chính quyền địa phương"
+    },
+    {
+     "t": "p",
+     "c": "**Nắm điều chính quyền muốn → đặt hướng đề xuất hợp khẩu vị của họ**"
+    },
+    {
+     "t": "p",
+     "c": "**→ Thêm góc nhìn mới vào tài liệu sẵn có → dựng logic riêng của nhóm**"
+    },
+    {
+     "t": "p",
+     "c": "**⇒ Hoàn thành một đề án khác biệt**"
+    },
+    {
+     "t": "p",
+     "c": "Tức là không chỉ đưa ra một ý tưởng hay, mà là"
+    },
+    {
+     "t": "quote",
+     "c": "🎯 **“vì sao ý tưởng của chúng tôi lại cần cho chính chính quyền này”**"
+    },
+    {
+     "t": "p",
+     "c": "một cấu trúc giải thích được điều đó"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "🔑 07. Mục tiêu cuối của nghiên cứu = có được căn cứ chống đỡ cho logic"
+    },
+    {
+     "t": "p",
+     "c": "Nghiên cứu nhiều không phải mục đích; cốt lõi là **tìm ra một dòng căn cứ chống đỡ cho logic kế hoạch của chúng ta**"
+    },
+    {
+     "t": "p",
+     "c": "Nếu ngay từ đầu cùng đồng đội học tài liệu của chính quyền đó"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "🔎 Tìm được căn cứ khớp với logic",
+      "📌 Có được dữ liệu với nguồn rõ ràng",
+      "🧠 Rút ra insight mới từ tài liệu hành chính sẵn có",
+      "💡 Phát hiện góc nhìn mới mà công chức chưa nghĩ tới"
+     ]
+    },
+    {
+     "t": "p",
+     "c": "tất cả đều khả thi"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "🚀 Công thức nghiên cứu chính quyền địa phương của CUIF"
+    },
+    {
+     "t": "p",
+     "c": "🏛️ Khám phá website chính quyền → 📚 Tìm kế hoạch phát triển tổng hợp trung – dài hạn"
+    },
+    {
+     "t": "p",
+     "c": "→ 📊 Phân tích hiện trạng · điều kiện → có căn cứ phân tích bối cảnh → 🗣️ Khảo sát · phỏng vấn người dân → có căn cứ cho logic"
+    },
+    {
+     "t": "p",
+     "c": "→ 🧭 Định hướng ý tưởng quanh mục tiêu · giá trị của chính quyền → 💡 Thêm góc nhìn mới của sinh viên"
+    },
+    {
+     "t": "p",
+     "c": "⇒ 🎯 Hoàn thành đề án may đo cho chính quyền địa phương"
+    },
+    {
+     "t": "h3",
+     "c": "⭐ Cốt lõi một dòng"
+    },
+    {
+     "t": "quote",
+     "c": "**“Hãy đọc trước hướng đi mà chính quyền địa phương mong muốn, rồi đặt lên trên đó góc nhìn mới của chúng ta”**"
+    },
+    {
+     "t": "h3",
+     "c": "🔑 Từ khóa cốt lõi"
+    },
+    {
+     "t": "p",
+     "c": "website chính quyền → kế hoạch phát triển trung – dài hạn → phân tích hiện trạng → ý kiến người dân → định hướng của chính quyền → góc nhìn mới → logic may đo"
+    }
+   ]
+  },
+  {
+   "no": "03",
+   "title": "Logic VS Sáng tạo",
+   "lead": "Định nghĩa lại vấn đề và sáng tạo, nhìn qua tình huống thật ở Yangju và Pocheon",
+   "video": "PHgeJsEhZLQ",
+   "blocks": [
+    {
+     "t": "h3",
+     "c": "🎯 Lập kế hoạch nối logic với sáng tạo"
+    },
+    {
+     "t": "h3",
+     "c": "🧠 01. Bản chất của lập kế hoạch = cách giải quyết vấn đề"
+    },
+    {
+     "t": "p",
+     "c": "Lập kế hoạch không đơn thuần là **tạo ra một ý tưởng hay**"
+    },
+    {
+     "t": "p",
+     "c": "mà là **quá trình phát hiện vấn đề và đưa ra cách giải quyết nó**"
+    },
+    {
+     "t": "quote",
+     "c": "🔑 **Tiếp cận logic → phát hiện vấn đề → cách giải quyết (How) → sáng tạo**"
+    },
+    {
+     "t": "p",
+     "c": "Tức là sáng tạo không phải lĩnh vực tách rời logic, mà là **phương pháp cụ thể để giải quyết vấn đề**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "🔗 02. Đừng nghĩ tách rời logic và sáng tạo"
+    },
+    {
+     "t": "p",
+     "c": "Thế lưỡng nan thường gặp khi lập kế hoạch dự thi"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "📊 Chỉ chú tâm vào logic → ý tưởng dễ thành bình thường",
+      "🎨 Chỉ chú tâm vào sáng tạo → ý tưởng thiếu lý do và sức thuyết phục"
+     ]
+    },
+    {
+     "t": "p",
+     "c": "Nhưng đây không phải chọn một trong hai:"
+    },
+    {
+     "t": "p",
+     "c": "**khi xác định rõ vấn đề → cách giải quyết vấn đề ấy chính là sáng tạo**"
+    },
+    {
+     "t": "quote",
+     "c": "💡 **“Tìm cách giải quyết cho logic” quan trọng hơn “gượng ép tạo ra ý tưởng độc đáo”**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "🏙️ 03. Tình huống ① Thành phố Yangju｜Cho thấy ‘cả Yangju’ thay vì quảng bá điểm du lịch"
+    },
+    {
+     "t": "p",
+     "c": "**Đề bài ban đầu**"
+    },
+    {
+     "t": "p",
+     "c": "→ Yangju muốn trở thành điểm du lịch trong ngày của vùng thủ đô"
+    },
+    {
+     "t": "p",
+     "c": "Ban đầu chúng tôi tiếp cận theo hướng"
+    },
+    {
+     "t": "p",
+     "c": "**liệt kê các điểm du lịch → rồi quảng bá từng điểm**"
+    },
+    {
+     "t": "p",
+     "c": "Nhưng trong quá trình nghiên cứu, chúng tôi phát hiện **lượng khách giảm theo từng khu vực sinh hoạt và khác biệt trong nhận thức về vùng**"
+    },
+    {
+     "t": "h4",
+     "c": "🔎 Định nghĩa lại vấn đề"
+    },
+    {
+     "t": "p",
+     "c": "Không phải quảng bá điểm du lịch đơn thuần, mà"
+    },
+    {
+     "t": "quote",
+     "c": "**“vấn đề người ta nhận thức Yangju tách thành đông và tây”**"
+    },
+    {
+     "t": "p",
+     "c": "mới là vấn đề cốt lõi, chúng tôi đánh giá như vậy"
+    },
+    {
+     "t": "h4",
+     "c": "💡 Sáng tạo"
+    },
+    {
+     "t": "p",
+     "c": "**Phát triển tuyến du lịch mới nối các khu vực sinh hoạt**"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "Tuyến tham quan nối phía đông ↔ phía tây",
+      "Nối nhiều khu vực sinh hoạt thành một trải nghiệm",
+      "Dẫn dắt để người ta nhận thức cả Yangju như một điểm đến duy nhất"
+     ]
+    },
+    {
+     "t": "p",
+     "c": "→ **Phát triển thành thông điệp “Nối liền Yangju”**"
+    },
+    {
+     "t": "p",
+     "c": "📌 **Cốt lõi:**"
+    },
+    {
+     "t": "p",
+     "c": "**Cách định nghĩa vấn đề quyết định hướng đi của sáng tạo**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "🌊 04. Tình huống ② Thành phố Pocheon｜Không phải ‘quảng bá’ mà tạo lý do để ở lại"
+    },
+    {
+     "t": "p",
+     "c": "**Đề bài ban đầu**"
+    },
+    {
+     "t": "p",
+     "c": "→ Phát triển Pocheon, vốn đã nổi tiếng là điểm du lịch trong ngày, thành **điểm lưu trú 2 ngày 1 đêm · 3 ngày 2 đêm**"
+    },
+    {
+     "t": "p",
+     "c": "Ban đầu chúng tôi cân nhắc hướng quảng bá mạnh hơn cho các dự án du lịch sẵn có"
+    },
+    {
+     "t": "p",
+     "c": "Nhưng kết quả nghiên cứu cho thấy"
+    },
+    {
+     "t": "quote",
+     "c": "người ta vẫn nhận thức Pocheon là **điểm du lịch trong ngày**"
+    },
+    {
+     "t": "p",
+     "c": "— đó là vấn đề chúng tôi phát hiện"
+    },
+    {
+     "t": "h4",
+     "c": "🔎 Định nghĩa lại vấn đề"
+    },
+    {
+     "t": "p",
+     "c": "Chỉ **“quảng bá rằng đây là điểm du lịch lưu trú”** thì khó thay đổi nhận thức"
+    },
+    {
+     "t": "p",
+     "c": "→ **Cần một trải nghiệm du lịch mới khiến người ta buộc phải ở lại**"
+    },
+    {
+     "t": "h4",
+     "c": "💡 Sáng tạo"
+    },
+    {
+     "t": "p",
+     "c": "Không thay đổi môi trường vật lý của sông Hantan, mà"
+    },
+    {
+     "t": "p",
+     "c": "**kết hợp với ‘learncation’ (học + nghỉ dưỡng), xu hướng du lịch mới lúc bấy giờ**"
+    },
+    {
+     "t": "p",
+     "c": "Tận dụng đặc trưng địa chất · lịch sử của sông Hantan"
+    },
+    {
+     "t": "p",
+     "c": "→ Phát triển thành **nội dung du lịch lưu trú nơi việc học và chuyến đi cùng tồn tại**"
+    },
+    {
+     "t": "p",
+     "c": "Hiện thực hóa thành các chương trình du lịch cụ thể, trong đó có chương trình cho học sinh"
+    },
+    {
+     "t": "p",
+     "c": "📌 **Cốt lõi:**"
+    },
+    {
+     "t": "p",
+     "c": "**Diễn giải nguồn lực sẵn có bằng góc nhìn mới có thể dẫn tới sáng tạo mới**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "🎯 05. Cuộc thi không có ‘công thức đáp án’"
+    },
+    {
+     "t": "p",
+     "c": "Tác phẩm đoạt giải CUIF mỗi năm được quyết định theo hướng khó đoán"
+    },
+    {
+     "t": "p",
+     "c": "Có năm thì"
+    },
+    {
+     "t": "p",
+     "c": "→ **nhóm chắc chắn về logic** được đánh giá cao"
+    },
+    {
+     "t": "p",
+     "c": "Có năm thì"
+    },
+    {
+     "t": "p",
+     "c": "→ **nhóm có sức sáng tạo áp đảo** được đánh giá cao"
+    },
+    {
+     "t": "p",
+     "c": "Vì vậy không có đáp án hay công thức đoạt giải cố định"
+    },
+    {
+     "t": "p",
+     "c": "Thay vào đó, điều quan trọng là"
+    },
+    {
+     "t": "p",
+     "c": "**logic + sáng tạo + thuyết trình thuyết phục**"
+    },
+    {
+     "t": "p",
+     "c": "có đủ cả ba"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "🏆 06. Cấu trúc kế hoạch tiến gần tới Giải Nhất"
+    },
+    {
+     "t": "p",
+     "c": "**① Logic**"
+    },
+    {
+     "t": "p",
+     "c": "→ Phát hiện rõ vấn đề của chính quyền địa phương"
+    },
+    {
+     "t": "p",
+     "c": "**② Định nghĩa vấn đề**"
+    },
+    {
+     "t": "p",
+     "c": "→ Rút ra vấn đề cốt lõi cần giải, không phải hiện tượng bề mặt"
+    },
+    {
+     "t": "p",
+     "c": "**③ Sáng tạo**"
+    },
+    {
+     "t": "p",
+     "c": "→ Đưa ra phương pháp cụ thể để giải quyết vấn đề"
+    },
+    {
+     "t": "p",
+     "c": "**④ Thuyết phục**"
+    },
+    {
+     "t": "p",
+     "c": "→ Trình bày vì sao ý tưởng này phù hợp để giải quyết vấn đề"
+    },
+    {
+     "t": "quote",
+     "c": "⭐ **Sáng tạo tốt = không phải bản thân ý tưởng độc đáo, mà là ý tưởng giải được một vấn đề đã xác định rõ**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "🔑 Cốt lõi"
+    },
+    {
+     "t": "p",
+     "c": "**❌ “Làm sao tạo ra ý tưởng độc đáo hơn?”**"
+    },
+    {
+     "t": "p",
+     "c": "**⭕ “Làm sao giải quyết vấn đề chúng ta đã phát hiện?”**"
+    },
+    {
+     "t": "p",
+     "c": "Rốt cuộc,"
+    },
+    {
+     "t": "p",
+     "c": "nghiên cứu → phát hiện vấn đề → định nghĩa vấn đề → hướng giải quyết → sáng tạo → thuyết trình thuyết phục"
+    },
+    {
+     "t": "p",
+     "c": "giữ cho mạch này không đứt mới là cốt lõi"
+    },
+    {
+     "t": "h3",
+     "c": "💬 Tóm lại một dòng"
+    },
+    {
+     "t": "quote",
+     "c": "**Logic sinh ra sáng tạo, và khi sáng tạo giải được vấn đề thì một kế hoạch thuyết phục mới hoàn chỉnh**"
+    }
+   ]
+  },
+  {
+   "no": "04",
+   "title": "Cách lập kế hoạch",
+   "lead": "Thiết kế lịch trình 1–3 tháng, đếm ngược từ thời gian chuẩn bị thuyết trình",
+   "video": "mLID3X412jw",
+   "blocks": [
+    {
+     "t": "h3",
+     "c": "⏱️ 01. Cốt lõi của kế hoạch = thiết kế lịch trình lấy người thuyết trình làm chuẩn"
+    },
+    {
+     "t": "p",
+     "c": "Ở cuộc thi kéo dài 1–3 tháng như CUIF, **quản lý lịch trình có hệ thống và dựng quy trình nhóm** rất quan trọng"
+    },
+    {
+     "t": "p",
+     "c": "Người thuyết trình không chỉ đơn thuần lên nói, mà phải hiểu đủ toàn bộ kế hoạch và sản phẩm để truyền đạt bằng ngôn ngữ của mình"
+    },
+    {
+     "t": "p",
+     "c": "Vì vậy hãy thiết kế toàn bộ lịch trình với tiền đề **dành tối thiểu 3–5 ngày cho chuẩn bị thuyết trình**"
+    },
+    {
+     "t": "quote",
+     "c": "🔑 Hãy khớp lịch trình quanh người thuyết trình, nhưng đừng chỉ nghe theo lời họ"
+    },
+    {
+     "t": "h3",
+     "c": "🔎 02. Lập kế hoạch · nghiên cứu｜tối đa 7–10 ngày"
+    },
+    {
+     "t": "p",
+     "c": "Giai đoạn từ phân tích hiện trạng → phát hiện vấn đề → rút insight → định hướng giải pháp"
+    },
+    {
+     "t": "p",
+     "c": "**Thời lượng khuyến nghị: khoảng một tuần, tối đa 10 ngày**"
+    },
+    {
+     "t": "p",
+     "c": "⚠️ Tránh sa lầy quá lâu vào một ý tưởng"
+    },
+    {
+     "t": "p",
+     "c": "Nếu một tuần vẫn chưa ra hướng, cần **sự linh hoạt để bỏ và chuyển sang phương án B**"
+    },
+    {
+     "t": "p",
+     "c": "Điều cần kiểm tra cuối giai đoạn lập kế hoạch"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "Có phải câu chuyện chỉ nhóm mình hiểu không?",
+      "Logic có nắm được ngay trong một lần nghe ở buổi thuyết trình không?",
+      "Có quá phức tạp không?",
+      "Hay ngược lại, logic có quá lỏng lẻo không?"
+     ]
+    },
+    {
+     "t": "h3",
+     "c": "💡 03. Ý tưởng｜tối đa 10 ngày"
+    },
+    {
+     "t": "p",
+     "c": "Giai đoạn **cụ thể hóa bằng góc nhìn riêng của sinh viên những ý tưởng cần cho phân tích bối cảnh và giải quyết vấn đề** đã rút ra trước đó"
+    },
+    {
+     "t": "p",
+     "c": "Cấu trúc nối insight → concept → phương án triển khai"
+    },
+    {
+     "t": "p",
+     "c": "**Làm khoảng 3–4 phương án ý tưởng để so sánh và chọn lọc**, rồi chuyển sang làm tài liệu"
+    },
+    {
+     "t": "quote",
+     "c": "✨ Không nhất thiết phải tìm ý tưởng trong phòng họp"
+    },
+    {
+     "t": "p",
+     "c": "Hãy tích cực thu thập cả những ý tưởng nảy ra khi di chuyển hay trong đời sống thường ngày"
+    },
+    {
+     "t": "h3",
+     "c": "🎨 04. Làm tài liệu｜tối đa 14 ngày"
+    },
+    {
+     "t": "p",
+     "c": "Giai đoạn **hoàn thiện sản phẩm hình ảnh của đề án** — slide, hình ảnh, video"
+    },
+    {
+     "t": "p",
+     "c": "Hãy dành **khoảng hai tuần**, tính tới quá trình phối hợp và thời gian làm việc của từng người"
+    },
+    {
+     "t": "p",
+     "c": "⚠️ Đừng quá ám ảnh với độ hoàn thiện của sản phẩm"
+    },
+    {
+     "t": "p",
+     "c": "Đầu tư càng nhiều thời gian thì nhìn càng đẹp, nhưng **lấn vào thời gian chuẩn bị thuyết trình thì lại hại kết quả chung**"
+    },
+    {
+     "t": "quote",
+     "c": "🎯 Điều quan trọng không phải ‘sản phẩm đẹp nhất’ mà là **khả năng hình ảnh hóa hiệu quả trong thời gian có được**"
+    },
+    {
+     "t": "h3",
+     "c": "🗣️ 05. Chuẩn bị thuyết trình｜đóa hoa của CUIF"
+    },
+    {
+     "t": "p",
+     "c": "Giai đoạn nắm chắc kế hoạch để **giải thích trôi chảy và truyền đạt được**"
+    },
+    {
+     "t": "p",
+     "c": "Vai trò của người thuyết trình không phải thuộc lòng kịch bản mà là **hiểu toàn bộ tài liệu và giải thích bằng ngôn ngữ của mình**"
+    },
+    {
+     "t": "p",
+     "c": "Nếu người thuyết trình tham gia cả vào quá trình làm slide"
+    },
+    {
+     "t": "p",
+     "c": "→ Hiểu ý đồ bố cục từng trang"
+    },
+    {
+     "t": "p",
+     "c": "→ Nắm được thông điệp cốt lõi"
+    },
+    {
+     "t": "p",
+     "c": "→ Biết điểm nhấn của từng trang"
+    },
+    {
+     "t": "p",
+     "c": "→ Thuyết trình tự nhiên ngay cả khi không có kịch bản"
+    },
+    {
+     "t": "quote",
+     "c": "🏆 Thuyết trình là **kinh nghiệm vượt khỏi chiến lược đoạt giải, nối tới cả năng lực giao tiếp · phỏng vấn**"
+    },
+    {
+     "t": "h3",
+     "c": "🤝 06. Người thuyết trình không phải ‘người chỉ đứng nói’"
+    },
+    {
+     "t": "p",
+     "c": "Người thuyết trình là người truyền thông cốt lõi, phải hiểu tài liệu từ A tới Z"
+    },
+    {
+     "t": "p",
+     "c": "Vì vậy việc **tham gia tích cực vào làm slide và quá trình lập kế hoạch** rất quan trọng"
+    },
+    {
+     "t": "p",
+     "c": "Đặc biệt với ai muốn nâng năng lực thuyết trình, chính vai trò này đã là cơ hội rèn luyện tốt"
+    },
+    {
+     "t": "h3",
+     "c": "🛍️ 07. Nếu có tham vọng, hãy ‘tự tay làm thật’"
+    },
+    {
+     "t": "p",
+     "c": "Nếu có thể hiện thực hóa ý tưởng thành sản phẩm thật — làm merchandise, vận hành mạng xã hội — **hãy chừa dư lịch trình và thử sức**"
+    },
+    {
+     "t": "p",
+     "c": "Nếu nhà trường cấp kinh phí hoạt động nhóm hay hỗ trợ, tôi khuyên nên làm tới tận khâu sản xuất"
+    },
+    {
+     "t": "p",
+     "c": "Sản phẩm triển khai thật là"
+    },
+    {
+     "t": "p",
+     "c": "→ **tài sản cho hồ sơ năng lực**"
+    },
+    {
+     "t": "p",
+     "c": "→ **lợi thế cộng thêm, nâng khả năng đoạt giải**"
+    },
+    {
+     "t": "h3",
+     "c": "🗓️ Kế hoạch khuyến nghị nhìn một lượt"
+    },
+    {
+     "t": "table",
+     "head": [
+      "Giai đoạn",
+      "Thời lượng khuyến nghị",
+      "Mục tiêu cốt lõi"
+     ],
+     "rows": [
+      [
+       "🔎 Lập kế hoạch · nghiên cứu",
+       "7–10 ngày",
+       "Hiện trạng → vấn đề → insight"
+      ],
+      [
+       "💡 Ý tưởng",
+       "tối đa 10 ngày",
+       "Insight → concept → triển khai"
+      ],
+      [
+       "🎨 Làm tài liệu",
+       "tối đa 14 ngày",
+       "Hoàn thiện slide · hình ảnh · video"
+      ],
+      [
+       "🗣️ Chuẩn bị thuyết trình",
+       "tối thiểu 3–5 ngày",
+       "Nắm tài liệu → luyện thuyết trình"
+      ]
+     ]
+    },
+    {
+     "t": "h3",
+     "c": "🔑 Điểm cốt lõi"
+    },
+    {
+     "t": "p",
+     "c": "**① Giữ trước thời gian chuẩn bị thuyết trình rồi mới tính ngược lịch trình**"
+    },
+    {
+     "t": "p",
+     "c": "**② Sự linh hoạt để không sa lầy vào một ý tưởng**"
+    },
+    {
+     "t": "p",
+     "c": "**③ Quản lý thời gian theo từng giai đoạn: kế hoạch → ý tưởng → sản xuất → thuyết trình**"
+    },
+    {
+     "t": "p",
+     "c": "**④ Người thuyết trình không phải người chỉ đứng nói mà là người hiểu toàn bộ kế hoạch**"
+    },
+    {
+     "t": "p",
+     "c": "**⑤ Nếu được, hãy triển khai thật rồi biến thành hồ sơ năng lực**"
+    },
+    {
+     "t": "quote",
+     "c": "⭐ Điều quan trọng ở CUIF không phải ‘làm cho hoàn hảo’ mà là **hoàn thành suy nghĩ của nhóm trong thời gian đã định và truyền đạt một cách thuyết phục**"
+    }
+   ]
+  },
+  {
+   "no": "05",
+   "title": "Lời kết",
+   "lead": "Lạc lối bao nhiêu thì thành đất của mình bấy nhiêu · Lời nhắn cuối cho các em khóa dưới",
+   "video": "WcMqf3-xHgE",
+   "blocks": [
+    {
+     "t": "h3",
+     "c": "🧭 01. Lạc lối bao nhiêu thì thành đất của mình bấy nhiêu"
+    },
+    {
+     "t": "p",
+     "c": "Những sai lầm và trăn trở ở CUIF rốt cuộc cũng là **quá trình tích lũy thành kinh nghiệm và năng lực của riêng mình**"
+    },
+    {
+     "t": "p",
+     "c": "Dù ngay lúc này chưa có giải thưởng"
+    },
+    {
+     "t": "p",
+     "c": "→ quá trình trăn trở"
+    },
+    {
+     "t": "p",
+     "c": "→ những lần thử khác nhau"
+    },
+    {
+     "t": "p",
+     "c": "→ thất bại và những lần đổi hướng"
+    },
+    {
+     "t": "p",
+     "c": "→ kinh nghiệm tự mình tìm kiếm"
+    },
+    {
+     "t": "p",
+     "c": "tất cả đều là tài sản dùng được ở cuộc thi sau và trong công việc"
+    },
+    {
+     "t": "quote",
+     "c": "💡 **Cả sự lạc lối lúc này rồi cũng có ngày thành của mình**"
+    },
+    {
+     "t": "h3",
+     "c": "🤝 02. Hãy nhìn đối thủ như ‘đồng đội tương lai’"
+    },
+    {
+     "t": "p",
+     "c": "Ưu điểm lớn của cuộc thi trong trường là **đối thủ hôm nay có thể thành người cộng tác ngày mai**"
+    },
+    {
+     "t": "p",
+     "c": "Khi xem phần trình bày và sản phẩm của nhóm khác"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "Quan sát họ làm tốt điểm nào",
+      "Tìm ra người có năng lực mình thèm muốn",
+      "Phân tích vì sao họ giỏi",
+      "Ghi nhớ như đồng đội muốn đi cùng ở cuộc thi sau"
+     ]
+    },
+    {
+     "t": "quote",
+     "c": "🔗 Mở rộng thành **cạnh tranh → quan sát → tạo quan hệ → cộng tác trong tương lai**"
+    },
+    {
+     "t": "h3",
+     "c": "📁 03. Giải thưởng không phải tất cả"
+    },
+    {
+     "t": "p",
+     "c": "**Bản thân đề án, slide, video, ý tưởng tạo ra trong quá trình tham gia CUIF đã là tài sản cho hồ sơ năng lực**"
+    },
+    {
+     "t": "p",
+     "c": "Dù có đoạt giải hay không,"
+    },
+    {
+     "t": "p",
+     "c": "điều quan trọng là để lại **“mình đã làm ra gì, với suy nghĩ thế nào”**"
+    },
+    {
+     "t": "quote",
+     "c": "🏆 Giải thưởng chỉ là một trong các kết quả; thứ còn lại từ quá trình tham gia cũng đã đủ là tài sản"
+    },
+    {
+     "t": "h3",
+     "c": "🏫 04. Tận dụng tối đa nguồn lực của nhà trường"
+    },
+    {
+     "t": "p",
+     "c": "Khi chuẩn bị CUIF, hãy tích cực tận dụng những gì nhà trường cung cấp"
+    },
+    {
+     "t": "p",
+     "c": "**Nguồn lực vật chất**"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "Phòng họp",
+      "Phòng thực hành",
+      "Không gian làm việc nhóm"
+     ]
+    },
+    {
+     "t": "p",
+     "c": "**Nguồn lực con người**"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "Thầy cô",
+      "Các anh chị khóa trên",
+      "Bạn cùng khóa và bạn học",
+      "Người từng làm CUIF"
+     ]
+    },
+    {
+     "t": "p",
+     "c": "Thay vì tự giải quyết một mình, cần **thái độ chủ động kết nối nguồn lực xung quanh**"
+    },
+    {
+     "t": "h3",
+     "c": "🎤 05. Nếu có thể, hãy thử làm người thuyết trình"
+    },
+    {
+     "t": "p",
+     "c": "Người thuyết trình có được **trải nghiệm tạo ra sản phẩm hoàn chỉnh trong hạn định và trực tiếp thuyết phục người khác**"
+    },
+    {
+     "t": "p",
+     "c": "Qua quá trình thuyết trình"
+    },
+    {
+     "t": "p",
+     "c": "→ hiểu toàn bộ tài liệu"
+    },
+    {
+     "t": "p",
+     "c": "→ sắp xếp thông điệp cốt lõi"
+    },
+    {
+     "t": "p",
+     "c": "→ truyền đạt bằng ngôn ngữ của mình"
+    },
+    {
+     "t": "p",
+     "c": "→ ứng phó câu hỏi dự kiến"
+    },
+    {
+     "t": "p",
+     "c": "→ nâng cao năng lực giao tiếp"
+    },
+    {
+     "t": "p",
+     "c": "Đây là **kinh nghiệm nối tới cả giao tiếp trong công việc và năng lực phỏng vấn**, không chỉ riêng CUIF"
+    },
+    {
+     "t": "quote",
+     "c": "🔥 Nếu trong lòng có ý “mình muốn thuyết trình giỏi”, hãy dùng CUIF làm cơ hội rèn luyện"
+    },
+    {
+     "t": "h3",
+     "c": "🚀 06. Hãy dùng CUIF vượt trên ‘một cuộc thi để đoạt giải’"
+    },
+    {
+     "t": "p",
+     "c": "Giá trị của CUIF **không chỉ nằm ở chuyện có đoạt giải hay không**"
+    },
+    {
+     "t": "p",
+     "c": "kinh nghiệm lập kế hoạch + kinh nghiệm triển khai + kinh nghiệm thuyết trình + kinh nghiệm phối hợp + sản phẩm + con người"
+    },
+    {
+     "t": "p",
+     "c": "Tất cả tích lại sẽ **nối tới năng lực thực tiễn và tài sản nghề nghiệp sau thời sinh viên**"
+    },
+    {
+     "t": "h3",
+     "c": "🔑 Thông điệp cuối cho các em khóa dưới"
+    },
+    {
+     "t": "p",
+     "c": "**① Đừng sợ chính quá trình lạc lối**"
+    },
+    {
+     "t": "p",
+     "c": "**② Hãy học từ đối thủ và tìm ra đồng đội tương lai**"
+    },
+    {
+     "t": "p",
+     "c": "**③ Hãy để lại sản phẩm, bất kể có đoạt giải hay không**"
+    },
+    {
+     "t": "p",
+     "c": "**④ Hãy tích cực tận dụng nhà trường và những người xung quanh**"
+    },
+    {
+     "t": "p",
+     "c": "**⑤ Nếu được, hãy thử vai trò người thuyết trình**"
+    },
+    {
+     "t": "quote",
+     "c": "🌟 **Từng nỗi trăn trở và từng lần vấp ngã bạn trải qua ở CUIF rốt cuộc sẽ thành ‘đất của riêng mình’, và một ngày nào đó thành kinh nghiệm được dùng lại ở cuộc thi khác và trong công việc**"
+    }
+   ]
+  }
+ ],
+ "closing": {
+  "quote": "Lạc lối bao nhiêu thì thành đất của mình bấy nhiêu.",
+  "paras": [
+   "Dù ngay lúc này chưa có giải thưởng, quá trình trăn trở, những lần thử khác nhau, thất bại và những lần đổi hướng, kinh nghiệm tự mình tìm kiếm — tất cả đều thành tài sản dùng được ở cuộc thi sau và trong công việc.",
+   "Từng nỗi trăn trở và từng lần vấp ngã bạn trải qua ở CUIF rốt cuộc sẽ thành ‘đất của riêng mình’, và **một ngày nào đó thành kinh nghiệm được dùng lại ở cuộc thi khác và trong công việc**."
+  ],
+  "sign": "Chúc các bạn thành công 🍀",
+  "note": "Trang này chuyển thể bản Notion bài giảng mà chị Oh Sihye gửi cho người tham gia 2026 CUIF+. Sáu video và bản gốc cũng có thể xem trên trang Notion gốc."
+ },
+ "sourceUrl": "https://app.notion.com/p/2026-CUIF-28656c3cc6fd8030afa5d8f8627eb8f4"
+}

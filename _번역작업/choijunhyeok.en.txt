@@ -1,0 +1,379 @@
+0000	Home
+0001	ALUMNI PLAYBOOK
+0002	How to use this page
+0003	Another alumni lecture
+0004	Open it
+0005	Language
+0006	Anything other than Korean is machine-translated. If a sentence looks off, please trust the Korean original.
+0007	The videos are in Korean. You can turn on auto-translated subtitles from the YouTube CC button.
+0008	Open the original Notion page
+0009	2026 CUIF+ Winner Tips
+0010	How to Win: the Grand Prize Playbook
+0011	There is no formula for winning the Grand Prize.
+0012	But there is definitely a way of thinking that moves you toward it.
+0013	Choi Junhyeok
+0014	CHA University, Health & Media Communication, class of ’21
+0015	Grand Prize, CUIF 2022
+0016	Grand Prize, CUIF+ 2025 · Gyeonggi Provincial Council Speaker’s Award
+0017	Korean Academy of PR — Creative Innovator Award · Best Presentation Award
+0018	About 50 competitions entered
+0019	This archive collects the chapter videos, real cases and reference material from the lecture “How to Win: the Grand Prize Playbook.” I was not someone who knew how to do well in competitions from the start. In my first year I was cut at the proposal stage and never even reached the finals; I lost in many competitions; and there were rehearsals where I could not get out the words I had prepared. As those failures piled up I slowly learned — who to team up with, which topic to choose, where an idea should begin, and how to carry a good plan all the way to the audience.
+0020	If you are starting from scratch
+0021	I recommend watching in order, from 00 Getting Started.
+0022	If you are worried about building a team
+0023	Start with 01 Teamwork.
+0024	If you don’t know which topic to take
+0025	Go straight to 02 Choosing a Topic.
+0026	If no ideas are coming
+0027	03 The Idea shows how thinking actually gets expanded.
+0028	If the plan is fine but the pitch worries you
+0029	It’s fine to start from 04 The Pitch.
+0030	If you are worn out because results aren’t coming
+0031	Please do watch 05 One last thing I want to say.
+0032	What I most want you to look at in this lecture
+0033	Rather than what I made, follow “why I thought this way.” In the end, what lasts longest from a competition is not one idea but the way of thinking that can produce the next one.
+0034	Getting Started — begin with this page
+0035	What does it mean to be good at competitions · How to watch this lecture
+0036	There is no formula for winning the Grand Prize. But there is definitely a way of thinking that moves you toward it.
+0037	Hello. I’m Choi Junhyeok, CHA University, Health & Media Communication, class of ’21.
+0038	I won the Grand Prize at CUIF in 2022, and also at CUIF PLUS, where I received the Gyeonggi Provincial Council Speaker’s Award. I developed that idea further and won the Creative Innovator Award and the Best Presentation Award at the Korean Academy of PR, and I have taken part in many competitions such as the XR Device Content Idea Contest and the KOSAC advertising competition.
+0039	But I was not good at competitions from the beginning.
+0040	In my first year I was cut at the proposal stage and never even set foot on the final stage. Across about 50 competitions I have experienced far more rejection and failure than awards.
+0041	Along the way I slowly built my own standards.
+0042	Who to build a team with, which topic to choose, what question to grow an idea with, and how to connect all of that to the judges’ decision.
+0043	This lecture does not offer one right answer or a guaranteed formula for winning. Instead I want to share, as honestly as I can, the order of thinking and the criteria I actually used through two CUIF Grand Prizes and many other competitions.
+0044	Please focus less on the result and more on which questions were asked on the way there.
+0045	What this lecture covers
+0046	01. How to build a Grand Prize team
+0047	A good team is not a team without conflict; it is a team that can have conflict properly, for the same goal.
+0048	More important than being close friends is having the same purpose. I talk about why your teammates’ goals and level of drive matter, and about the difference between good and bad conflict.
+0049	02. How to choose a Grand Prize topic
+0050	Don’t rush to solve the problem you were handed — first ask why that problem was handed to you at all.
+0051	Instead of following the words written in the brief, I talk about how to find the real concern hidden behind them.
+0052	03. How to build a Grand Prize idea
+0053	When an idea comes to you, ask first: “But would anyone actually bother doing this?”
+0054	Instead of forcing a flashy idea, I talk about how to stress-test an idea all the way, from the user’s and the administrator’s point of view.
+0055	04. How to deliver a Grand Prize pitch
+0056	The pitch is not the last step of wrapping up an idea; it is the process of turning an idea into the judges’ choice.
+0057	I talk about why the pitch has to be prepared from the planning stage rather than after the deck is done, and how to practise it.
+0058	What I most want you to look at in this lecture is not the output but the thinking.
+0059	Rather than copying the ideas I made, I hope you take the process — why I asked these questions, why I dropped this direction, why I finally chose this conclusion — and apply it to your own competition.
+0060	So let’s begin.
+0061	Teamwork — who will you do this with
+0062	More important than a “good” team · Matching goals and levels of drive
+0063	“Team projects are a fight.” Not a fight with people, but a fight for a better result.
+0064	Once you decide to enter a competition, what is the very first thing to do? Build the team.
+0065	I have entered about 50 competitions, and even in the ones we won I was mostly with different teammates. One thing became clear.
+0066	Gathering only skilled people does not make a good team.
+0067	What mattered more was whether we were looking at the same place, and whether the level of energy we could invest toward that goal was similar.
+0068	Team projects are a fight
+0069	The fight I mean is not raising your voice or counting who did more. It means colliding opinions around a single goal and finding a better result through it.
+0070	In a team project, differing opinions are natural. Everyone has different criteria, different perspectives on the problem, and different ways of working.
+0071	So what matters is not avoiding conflict. It is not forgetting, when conflict comes, what we are fighting for.
+0072	Good conflict and bad conflict
+0073	Bad conflict
+0074	“I did this much — why did you only do that?”
+0075	“I stayed up all night — why did you leave early?”
+0076	This kind of conflict usually ends up comparing people’s effort and responsibility.
+0077	Good conflict
+0078	“Will this idea really solve the problem?”
+0079	“Will the judges understand this part?”
+0080	“Isn’t there a clearer way to say this?”
+0081	This kind of conflict moves the work in a better direction.
+0082	A good team is not a team without conflict; it is a team that can have conflict properly, in order to define the problem more precisely and make a better idea.
+0083	Purpose matters more than closeness
+0084	I actually did not do many competition team projects with close friends. That does not mean closeness is bad. It is that friendship can affect a professional judgement.
+0085	You may fail to say what needs saying, put the relationship first when you should be objective, or let a project problem spill over into personal feelings.
+0086	So rather than someone simply close and comfortable, I try to build a team with people who share the purpose and can exchange opinions honestly.
+0087	What matters is not whether we are close or not.
+0088	It is whether this is a person I can fight properly with, for the same goal.
+0089	Match the level of drive
+0090	When building a team, I think you should check the level of the goal before you check skill.
+0091	If your goal is experience, work with people who want experience; if it is winning something, with people who want to win; if it is the Grand Prize, with people who are aiming at the Grand Prize.
+0092	At first everyone can say “winning would be nice.” But as the deadline gets closer, the differences show.
+0093	1. The time invested differs
+0094	One person wants to revise again for a slightly better result; another thinks “do we really have to go this far?”
+0095	2. The bar for being satisfied differs
+0096	If experience is the goal, you can be satisfied at “submittable.” If the Grand Prize is the goal, you keep agonising over one sentence in the deck, one image, one order of slides.
+0097	3. The number of revisions people can take differs
+0098	Revising the same output again and again is harder than it sounds. People with the same goal can go back and revise even when it hurts; when goals differ, the repeated revision itself becomes the conflict.
+0099	4. The level of effort people can take near the deadline differs
+0100	This does not mean you must pull all-nighters. What matters is how far the team is ready to push together, for the goal we agreed on, when things get hard.
+0101	Team Check
+0102	Before you evaluate teammates, check yourself first.
+0103	What am I aiming for in this competition?
+0104	How much time can I actually invest in it?
+0105	Can I take repeated revision and feedback?
+0106	Can I speak honestly when I disagree?
+0107	When conflict arises, can I look at the problem without attacking the person?
+0108	This checklist is not a filter for screening others out. It is there so you can first ask, “Am I ready to be the kind of teammate I want?”
+0109	In one sentence
+0110	A good team is not a team without conflict. It is a team that shares one goal and can have conflict properly for a better result.
+0111	If the Grand Prize is your goal, before you look for skilled teammates, ask this first.
+0112	“Are we really looking at the same place?”
+0113	Choosing a Topic — what will you treat as the problem
+0114	Finding a problem worth solving rather than a “good” topic · Thinking from the judge’s seat
+0115	Don’t solve what is written in the brief straight away. First ask “why?”
+0116	Once the team is set, next comes the topic. I think choosing a topic is itself a strategy in a competition.
+0117	The topic you choose changes how many teams you compete against, how hard it is to make the idea concrete, and how likely you are to persuade the judges.
+0118	So rather than producing an idea quickly, I care about choosing properly which problem we are going to solve.
+0119	WHY before HOW
+0120	When people receive a competition brief, most start straight from the solution.
+0121	“What should we build on the returned U.S. base site?” “What programme should the school run?” “What drone tourism product should we make?”
+0122	But before that, I ask a question first.
+0123	“Why did this city ask us to solve this particular problem?”
+0124	The important word here is not how, but why.
+0125	Doubt the sentence you were given
+0126	If the brief says to make use of a returned base site, then before “how should we use it?” you can ask “does it really have to be the base site?”
+0127	If the brief says to keep a small school sustainable: “With student numbers falling, is keeping the school open really the best answer?”
+0128	If the brief says to boost drone tourism: “Without drones, is it impossible to boost the tourism industry?”
+0129	Only when you also ask the question that opposes the brief does the real reason the brief exists start to become visible.
+0130	Separate the means from the goal
+0131	What is written in the brief may not be the city’s final goal.
+0132	Using the returned base site
+0133	The site itself may not be the goal; the goal may be reviving the local economy, expanding urban infrastructure, or changing the region’s image.
+0134	Running a small school
+0135	Rather than keeping the school itself, the purpose may be keeping the local community, drawing in a living population, and keeping the area somewhere you can raise a child.
+0136	Drone tourism
+0137	Rather than flying drones, the goal may be visitor inflow, more local spending, and new industries and jobs.
+0138	So I always ask.
+0139	“Is what the brief says a means, or the goal?”
+0140	“Through that means, what change does this region really want?”
+0141	Swap the place name
+0142	This is a check I often use in regional competitions. In your idea, replace the name Yeoncheon with another region.
+0143	Change Yeoncheon to Pocheon, and Pocheon to Dongducheon.
+0144	If the idea still stands perfectly well after only the place name changes, chances are you have not yet thought enough about that particular place.
+0145	“Let’s draw in young people.” “Let’s increase tourists.” “Let’s promote the region.” “Let’s create an education programme.”
+0146	Solutions like these apply to any region. From the judges’ seat, one question is left.
+0147	“But why does this have to happen here?”
+0148	A good regional competition idea deals with a problem that exists nationwide while holding an answer that is only possible in that place.
+0149	Can we know more than the civil servants?
+0150	Civil servants and staff who have worked in the region for years are likely to have far more information and experience than we can gather in a few months of research.
+0151	They have policies already tried, accumulated data, and they know why certain policies succeeded or failed.
+0152	So how can we, as students, compete?
+0153	I think we should compete not on the amount of information but on how we define the problem.
+0154	We can look again at an existing problem from the position of a citizen, a young person, a tourist, a consumer, a content planner.
+0155	We can connect existing resources in a new way, and instead of a huge policy we can propose a small point of change that could start right now.
+0156	A real case — Yeoncheon
+0157	The topic our team chose was measures against Yeoncheon’s population decline and ageing. At first it looked like this.
+0158	The problem
+0159	Yeoncheon’s population is falling.
+0160	But as we kept asking questions, we redefined the problem.
+0161	When the population falls, there are fewer people doing productive work. There are fewer people spending locally. There are not enough people to sustain industry and commerce.
+0162	So we changed the problem to this.
+0163	“Yeoncheon lacks people who will keep earning, spending and carrying the industry forward there.”
+0164	Once the problem changed, the questions changed too.
+0165	“Then, before we drag people to Yeoncheon at all costs, shouldn’t we first create a reason that money can be earned in Yeoncheon?”
+0166	From that question we began looking at tourism and agriculture, and in the end we could narrow the problem toward Yeoncheon’s agriculture and consumer trust.
+0167	Topic Check
+0168	When choosing a topic, try these questions.
+0169	Why does this problem need to be solved?
+0170	Is what the brief says the goal, or a means?
+0171	Does the idea still stand if you swap the place name?
+0172	Why did existing policy fail to solve the problem?
+0173	What resources and conditions does only this region have?
+0174	Can our team do this topic well?
+0175	Can you explain the problem you are solving in one sentence?
+0176	Is there a small change that could start right now?
+0177	In one sentence
+0178	Choosing a topic well is not picking the easiest one. It is finding the real concern hidden behind the brief and redefining it through our own team’s eyes.
+0179	Ask first.
+0180	“Why is this city trying to solve this problem?”
+0181	“What change does it ultimately want through this brief?”
+0182	“For that change, what new starting point can we propose?”
+0183	The Idea — how will you expand your thinking
+0184	Where an idea begins · Digging one level deeper into the problem · Feasibility and distinctiveness
+0185	When an idea comes to you, ask this first: “But — would anyone bother?”
+0186	Many people worry about this while preparing for a competition.
+0187	“How do we come up with a creative idea?” “How do we find something no other team has thought of?”
+0188	But I don’t consider myself a particularly creative person. I am not someone who suddenly flashes on an idea nobody else has had.
+0189	Instead, when building an idea, I keep repeating one very simple question.
+0190	“Would anyone bother?”
+0191	Keep attaching “would anyone bother?” to your idea
+0192	If you want to build a new facility: “Does that facility really have to be built?”
+0193	If you want to build an app: “Would people actually bother to use this app?”
+0194	If you want to bring in tourists: “Out of countless regions, would a tourist bother to choose this one?”
+0195	If you want to recruit young farmers: “Out of countless regions, would a young person bother to farm here?”
+0196	Repeat this question and the elements that looked good at first disappear one by one.
+0197	But an idea getting smaller is not a bad thing. The more unnecessary parts fall away, the more clearly you see the problem you actually have to solve.
+0198	Would a tourist bother to go to Yeoncheon?
+0199	Our team also started with tourism. When tourists come, they use restaurants and cafés, they stay overnight, they buy local products.
+0200	But we asked: “Would a tourist bother to go to Yeoncheon?”
+0201	And then one level deeper: “What reason would make people bother to visit Yeoncheon twice?”
+0202	A single visit can be manufactured as an event, but repeat visits require a clear reason.
+0203	Repeating this question, we judged that there may be a limit to building a lasting industry on tourism alone.
+0204	Would a young person bother to farm in Yeoncheon?
+0205	Next we looked at agriculture. Yeoncheon has an agricultural base and local specialities, so you might think drawing in young farmers would create new jobs.
+0206	But again we asked: “Would young people bother to farm in Yeoncheon?”
+0207	Housing support, subsidies and training programmes are offered in many regions too. So support alone may not be reason enough to choose Yeoncheon.
+0208	What was needed in the end was an industrial reason that left young people with no better choice than Yeoncheon.
+0209	Would a consumer bother to buy Yeoncheon produce?
+0210	For agriculture to last, the produce has to sell. So this time we asked from the consumer’s side.
+0211	“Would a consumer bother to buy Yeoncheon produce?”
+0212	Would they pay a higher price just because “it was grown in Yeoncheon” or “it is a Yeoncheon speciality”? We judged that they would not.
+0213	So we changed the question. “What do consumers actually care about when they buy produce?”
+0214	It might be price, it might be quality, it might be safety and trust in how it was grown.
+0215	From there we moved the idea from simply promoting Yeoncheon produce toward “let’s create a clear reason for consumers to choose Yeoncheon produce.”
+0216	And that became the starting point of the idea for raising trust in Yeoncheon’s agricultural products.
+0217	“Would I do it?”
+0218	Alongside “would anyone bother?”, there is one more question I use often: “Would I do it?”
+0219	Before telling tourists to come: “If I were a tourist, would I go?”
+0220	Before telling young people to settle in the region: “If I were young, would I live and work here?”
+0221	Before telling consumers to buy: “If I were a consumer, would I buy this?”
+0222	The person who makes an idea easily rates it higher than it deserves. So I step out of the proposer’s seat and look again from the position of the person who actually has to pay, spend time and act.
+0223	People don’t move because we worked hard
+0224	For people to act there has to be a reason. That reason might be fun, convenience, an economic gain, or trust.
+0225	So when building an idea, before “what will we make?” you should think about “why will people choose this?”
+0226	Now from the judges’ seat
+0227	It doesn’t end with “users would probably use it.” In a competition about solving regional problems, actual civil servants or officials are likely to be assessing the idea.
+0228	So I ask again.
+0229	“If I were the civil servant in charge of this, would I want to carry this idea out?”
+0230	Can it start with the budget currently available?
+0231	Can it be trialled within administrative procedure?
+0232	Can the risk be borne if it fails?
+0233	Can the effect be measured?
+0234	Can the results be explained to citizens?
+0235	However impressive the idea, if the person in charge cannot bring themselves to run it, it loses its persuasive power.
+0236	Creativity vs. feasibility?
+0237	You don’t have to choose between them. A good idea should be both creative and feasible.
+0238	And being creative does not necessarily mean building a huge system that has never existed.
+0239	Connecting existing problems and resources in a new way, looking at a problem people took for granted through a different question, solving a small inconvenience in the current system — those can all be creative ideas.
+0240	Start small rather than change everything
+0241	I care more about finding the small point of change than about a huge transformation.
+0242	Rather than “let’s change everything from scratch,” I look for “this is more or less working already — wouldn’t it be better if we changed just this one thing?”
+0243	A good idea needs two things.
+0244	1. A first step that can start right now
+0245	2. A next step it can expand into if it works
+0246	It’s fine to start small. But once the effect is proven, it has to be able to scale.
+0247	Idea Check
+0248	Once you have an idea, ask these.
+0249	Would people actually bother to use this idea?
+0250	If I were the real target, would I take this action?
+0251	Does it solve the current problem precisely?
+0252	How is it different from existing policy or systems?
+0253	Why does it have to be done here, now?
+0254	Can the person in charge actually carry it out?
+0255	Can it start small?
+0256	Can it expand if it succeeds?
+0257	Can it actually change people’s behaviour?
+0258	Can you say in one sentence why the judges should choose this idea?
+0259	In one sentence
+0260	If a good idea is one that makes people admire it, a Grand Prize idea is one that makes people choose, act, and carry it out.
+0261	When an idea appears, don’t start by explaining its strengths. Ask first.
+0262	“But would people actually bother doing this?”
+0263	I believe the real idea can begin at that question.
+0264	The Pitch — how will you deliver it
+0265	Making a good plan look like a good plan · Why the pitch changes the outcome
+0266	The pitch is not the last step of wrapping up an idea. It is the process of turning an idea into the judges’ ‘choice’.
+0267	When our team won prizes, there was something we often heard.
+0268	“That team won the Grand Prize because of the pitch.”
+0269	At first it stung a little, because we too had spent a lot of time on the situation analysis, the idea, the proposal and the deck.
+0270	But over time my thinking changed. If someone says our team won because of the pitch, it also means the pitch conveyed the value of the idea fully.
+0271	Two months of thinking has to land in ten minutes
+0272	The judges cannot know how many meetings we held, how much material we researched, how many nights we stayed up.
+0273	What the judges can see is the pitch and the output we show in a limited time.
+0274	If we cannot make two months of thinking understood within ten minutes, from the judges’ seat that value simply does not exist.
+0275	So the pitch is not a technique for dressing up or disguising a weak idea.
+0276	It is the process of making the judges understand exactly what our idea is worth.
+0277	The pitch does not begin at the end
+0278	I don’t start the pitch after the deck is finished. I think about the pitch from the very beginning of preparing the competition.
+0279	Even while doing the situation analysis: “In what order should this material be shown so the seriousness of the problem lands?”
+0280	Even while building the idea: “Can this idea be explained in one sentence?”
+0281	Even while making the deck: “Is this screen helping the speaker’s story?”
+0282	Even while making a video: “Without this video, would the idea be hard to understand?”
+0283	Situation analysis, idea, creative, deck and video are not separate jobs.
+0284	They all have to connect in order to complete one pitch.
+0285	The surest way to pitch well
+0286	The answer is very simple. Practice.
+0287	Speaking without reading a script, meeting the audience’s eyes, controlling the speed and emphasis of your voice, picking the thread back up naturally after a slip — all of it is the result of practice.
+0288	A good speaker is not someone who doesn’t get nervous. It is someone who can return to the flow they practised even while nervous.
+0289	The chance to present arrives suddenly — but you can’t suddenly be good
+0290	I was not good at presenting from the start either. In my first year, teammates sometimes did not give me the pitch because of my pronunciation and the impression I gave.
+0291	But even when I wasn’t the speaker, I kept reading the proposal and practising alone, working out the order I would speak in if it were me.
+0292	Then, about 20 minutes before a pitch, the assigned speaker got too nervous and asked me to present instead.
+0293	The speaker changed suddenly, but I had already been practising. That is why I could walk onto the stage.
+0294	The chance to present can arrive suddenly, but you cannot suddenly be good at it.
+0295	Only someone who practised before the chance came can take it.
+0296	What protects you right before a pitch is not confidence
+0297	On a bigger competition stage, I too have been close to panic right before presenting. The script would not go in and my mind went blank.
+0298	But once I was on stage, the flow I had repeated came out naturally.
+0299	What protects you right before the pitch is not confidence but repeated practice.
+0300	Confidence can be shaken by another team’s pitch or a judge’s expression. But a flow you have drilled into your body does not disappear easily.
+0301	Pitch practice belongs in the schedule
+0302	When preparing a competition, people plan time for situation analysis, for building the idea, for making the deck.
+0303	Yet strangely, they often do not plan time for pitch practice.
+0304	They intend to practise in whatever time is left after the deck is done. Which means practice actually starts the night before or the morning of.
+0305	Our team could practise the pitch a lot not because we finished everything quickly, but because we planned the whole schedule from the start around securing pitch practice time.
+0306	You can start the pitch without a deck
+0307	You may think, “How can I practise when the deck isn’t finished?” But you can speak the flow without a deck.
+0308	“We found this phenomenon.”
+0309	“Existing solutions had these limits.”
+0310	“So we looked at the problem again.”
+0311	“The problem that actually needed solving was this.”
+0312	“So we propose this solution.”
+0313	Just saying this flow out loud is already enough practice.
+0314	In fact, speaking it aloud is how you find the parts where logic that felt natural in your head does not actually connect.
+0315	So I think pitch practice is itself a way of stress-testing the plan.
+0316	The deck must not drive the pitch
+0317	The speaker is not someone who reads the words on the slides. The deck is a means of showing the information needed to follow the speaker’s story.
+0318	The speaker should be able to explain the idea even without a beautiful deck. Even with only a title and a key sentence on each slide, they should be able to tell the whole story.
+0319	A good pitch is not one where the screen drives the talk; it is one where the speaker uses the screen.
+0320	Think about priority before design
+0321	People often keep changing colours, moving images and agonising over fonts right up to the pitch.
+0322	Design matters too, of course. But if you have one more day, you should ask.
+0323	Is it more important to make the deck’s alignment a little more perfect?
+0324	Or to make the speaker able to persuade without looking at the deck?
+0325	I think the latter comes first.
+0326	Don’t get buried in the means
+0327	Video, prototypes, physical props, animation, performance. Used well, they can make a pitch far stronger.
+0328	But just because another team made a video does not mean we have to. Always ask.
+0329	“Is this video really needed to understand the idea?”
+0330	“Does this artefact show the core of the idea?”
+0331	“Or are we doing it because other teams are?”
+0332	The means are not there to look impressive. They should be used to carry the core of the idea more simply and clearly.
+0333	Prepare the Q&A in advance too
+0334	I am confident in a pitch I have prepared, but I find answering unexpected questions on the spot relatively hard. So I admitted my weakness and designed the material around it.
+0335	I write out the likely questions in advance.
+0336	How much budget does this project need?
+0337	Who will operate it?
+0338	How is it different from existing policy?
+0339	Are there actually people who would take part?
+0340	How will the effect be measured?
+0341	Isn’t this an idea that would work in other regions too?
+0342	And I put extra slides answering those questions at the back of the deck.
+0343	When a question comes, you can show that “we have already thought about that part too.”
+0344	Presentation Practice
+0345	STEP 1. Say the flow
+0346	Without a script, explain in your own words what you will say on each slide.
+0347	STEP 2. Time it
+0348	Measure the whole pitch and cut what is not important.
+0349	STEP 3. Record audio and video
+0350	Check your speed, repeated phrases, eye contact and posture.
+0351	STEP 4. Present to people
+0352	Pitch for real in front of teammates, friends, family.
+0353	STEP 5. Likely questions
+0354	Deliberately trade sharp questions, focused on the weakest part of the idea.
+0355	Memorise the logic, not the sentences
+0356	The goal is not to memorise every sentence word for word. The moment you forget one word, the next sentence can vanish too.
+0357	Instead you have to understand this flow.
+0358	What is the problem we found?
+0359	Why did existing methods fail to solve it?
+0360	What is our solution?
+0361	Why should this solution be chosen?
+0362	What I care about is memorising the logic rather than the sentences.
+0363	In one sentence
+0364	The pitch is not something you do with the time left after everything else is finished.
+0365	The pitch should already begin the moment you start building the idea.
+0366	If someone tells you “that team won the Grand Prize because of their pitch,” you don’t have to take it as criticism.
+0367	It also means that while some teams had a good idea and could not convey it, we persuaded people of the value of ours all the way to the end.
+0368	In a competition, the pitch is not the last coat of wrapping on an idea. It is the process of turning the idea we made into the judges’ choice.
+0369	One last thing I want to say
+0370	Accumulation matters more than winning · What failure leaves for the next attempt — real competition pitch videos
+0371	CUIF 2022
+0372	2022 XR Device Idea Contest
+0373	CUIF+ 2025
+0374	I believe in the power of accumulation.
+0375	Preparing one competition does not suddenly make you good at planning. You lose once, you pick the wrong topic, you get stuck on an idea, you fumble a pitch — and slowly your own standards form.
+0376	For me too, the many failures that came before shaped the way I think now, far more than two CUIF wins did. So rather than saying I hope this lecture wins you the Grand Prize straight away, **I hope this attempt stays inside you as one more layer of ‘accumulation’.** That accumulation will certainly become experience you can draw on in your next plan.
+0377	So — let’s begin.
+0378	This page carries over the original archive that Choi Junhyeok made public, for 2026 CUIF+ participants. The original also holds extra material and his contact details.
