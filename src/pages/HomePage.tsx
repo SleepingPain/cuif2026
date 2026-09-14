@@ -9,6 +9,7 @@ import { TipsTeaserSection } from '../components/TipsTeaserSection';
 import { FAQSection } from '../components/FAQSection';
 import { BiggerStageSection } from '../components/BiggerStageSection';
 import { ContactSection } from '../components/ContactSection';
+import { useEffect } from 'react';
 import { Lightbulb } from 'lucide-react';
 import { APPLY_LABEL_EN, APPLY_LABEL_KO, openApplyForm } from '../lib/apply';
 import { isMiniHackathonVisible } from '../lib/miniHackathon';
@@ -16,6 +17,18 @@ import { useLang } from '../lib/i18n';
 
 export function HomePage() {
   const { t } = useLang();
+
+  // 주소에 #앵커를 달고 들어오면 그 자리에서 시작한다.
+  // 스냅 스크롤 컨테이너 안이라 브라우저 기본 점프는 첫 렌더 «전»에 헛돌고 만다
+  // — 그려진 뒤에 한 번 더 잡아 준다. (예: 공지·카카오톡으로 도는 /#minihackathon)
+  useEffect(() => {
+    const 앵커 = window.location.hash.slice(1);
+    if (!앵커) return;
+    const 타이머 = window.setTimeout(() => {
+      document.getElementById(앵커)?.scrollIntoView({ block: 'start' });
+    }, 120);
+    return () => window.clearTimeout(타이머);
+  }, []);
 
   return (
     <div className="min-h-screen snap-y snap-mandatory overflow-y-scroll h-screen">
