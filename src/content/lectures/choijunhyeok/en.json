@@ -1,0 +1,1459 @@
+{
+ "lang": "en",
+ "ui": {
+  "home": "Home",
+  "kicker": "ALUMNI PLAYBOOK",
+  "guideTitle": "How to use this page",
+  "otherTitle": "Another alumni lecture",
+  "otherCta": "Open it",
+  "langLabel": "Language",
+  "mtNotice": "Anything other than Korean is machine-translated. If a sentence looks off, please trust the Korean original.",
+  "videoNote": "The videos are in Korean. You can turn on auto-translated subtitles from the YouTube CC button.",
+  "sourceOpen": "Open the original Notion page"
+ },
+ "slug": "choijunhyeok",
+ "navTitle": "2026 CUIF+ Winner Tips",
+ "hero": {
+  "title": "How to Win: the Grand Prize Playbook",
+  "sub": [
+   "There is no formula for winning the Grand Prize.",
+   "But there is definitely a way of thinking that moves you toward it."
+  ]
+ },
+ "speaker": {
+  "name": "Choi Junhyeok",
+  "meta": "CHA University, Health & Media Communication, class of ’21",
+  "badges": [
+   "Grand Prize, CUIF 2022",
+   "Grand Prize, CUIF+ 2025 · Gyeonggi Provincial Council Speaker’s Award",
+   "Korean Academy of PR — Creative Innovator Award · Best Presentation Award",
+   "About 50 competitions entered"
+  ],
+  "intro": "This archive collects the chapter videos, real cases and reference material from the lecture “How to Win: the Grand Prize Playbook.” I was not someone who knew how to do well in competitions from the start. In my first year I was cut at the proposal stage and never even reached the finals; I lost in many competitions; and there were rehearsals where I could not get out the words I had prepared. As those failures piled up I slowly learned — who to team up with, which topic to choose, where an idea should begin, and how to carry a good plan all the way to the audience."
+ },
+ "guide": [
+  {
+   "when": "If you are starting from scratch",
+   "go": "I recommend watching in order, from 00 Getting Started."
+  },
+  {
+   "when": "If you are worried about building a team",
+   "go": "Start with 01 Teamwork."
+  },
+  {
+   "when": "If you don’t know which topic to take",
+   "go": "Go straight to 02 Choosing a Topic."
+  },
+  {
+   "when": "If no ideas are coming",
+   "go": "03 The Idea shows how thinking actually gets expanded."
+  },
+  {
+   "when": "If the plan is fine but the pitch worries you",
+   "go": "It’s fine to start from 04 The Pitch."
+  },
+  {
+   "when": "If you are worn out because results aren’t coming",
+   "go": "Please do watch 05 One last thing I want to say."
+  }
+ ],
+ "guideQuote": {
+  "title": "What I most want you to look at in this lecture",
+  "body": "Rather than what I made, follow “why I thought this way.” In the end, what lasts longest from a competition is not one idea but the way of thinking that can produce the next one."
+ },
+ "chapters": [
+  {
+   "no": "00",
+   "title": "Getting Started — begin with this page",
+   "lead": "What does it mean to be good at competitions · How to watch this lecture",
+   "video": "OD-OizDxEC8",
+   "blocks": [
+    {
+     "t": "quote",
+     "c": "There is no formula for winning the Grand Prize. But there is definitely a way of thinking that moves you toward it."
+    },
+    {
+     "t": "p",
+     "c": "Hello. I’m Choi Junhyeok, CHA University, Health & Media Communication, class of ’21."
+    },
+    {
+     "t": "p",
+     "c": "I won the Grand Prize at CUIF in 2022, and also at CUIF PLUS, where I received the Gyeonggi Provincial Council Speaker’s Award. I developed that idea further and won the Creative Innovator Award and the Best Presentation Award at the Korean Academy of PR, and I have taken part in many competitions such as the XR Device Content Idea Contest and the KOSAC advertising competition."
+    },
+    {
+     "t": "p",
+     "c": "But I was not good at competitions from the beginning."
+    },
+    {
+     "t": "p",
+     "c": "In my first year I was cut at the proposal stage and never even set foot on the final stage. Across about 50 competitions I have experienced far more rejection and failure than awards."
+    },
+    {
+     "t": "p",
+     "c": "Along the way I slowly built my own standards."
+    },
+    {
+     "t": "p",
+     "c": "Who to build a team with, which topic to choose, what question to grow an idea with, and how to connect all of that to the judges’ decision."
+    },
+    {
+     "t": "p",
+     "c": "This lecture does not offer one right answer or a guaranteed formula for winning. Instead I want to share, as honestly as I can, the order of thinking and the criteria I actually used through two CUIF Grand Prizes and many other competitions."
+    },
+    {
+     "t": "p",
+     "c": "Please focus less on the result and more on which questions were asked on the way there."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "What this lecture covers"
+    },
+    {
+     "t": "h3",
+     "c": "01. How to build a Grand Prize team"
+    },
+    {
+     "t": "quote",
+     "c": "A good team is not a team without conflict; it is a team that can have conflict properly, for the same goal."
+    },
+    {
+     "t": "p",
+     "c": "More important than being close friends is having the same purpose. I talk about why your teammates’ goals and level of drive matter, and about the difference between good and bad conflict."
+    },
+    {
+     "t": "h3",
+     "c": "02. How to choose a Grand Prize topic"
+    },
+    {
+     "t": "quote",
+     "c": "Don’t rush to solve the problem you were handed — first ask why that problem was handed to you at all."
+    },
+    {
+     "t": "p",
+     "c": "Instead of following the words written in the brief, I talk about how to find the real concern hidden behind them."
+    },
+    {
+     "t": "h3",
+     "c": "03. How to build a Grand Prize idea"
+    },
+    {
+     "t": "quote",
+     "c": "When an idea comes to you, ask first: “But would anyone actually bother doing this?”"
+    },
+    {
+     "t": "p",
+     "c": "Instead of forcing a flashy idea, I talk about how to stress-test an idea all the way, from the user’s and the administrator’s point of view."
+    },
+    {
+     "t": "h3",
+     "c": "04. How to deliver a Grand Prize pitch"
+    },
+    {
+     "t": "quote",
+     "c": "The pitch is not the last step of wrapping up an idea; it is the process of turning an idea into the judges’ choice."
+    },
+    {
+     "t": "p",
+     "c": "I talk about why the pitch has to be prepared from the planning stage rather than after the deck is done, and how to practise it."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "quote",
+     "c": "What I most want you to look at in this lecture is not the output but the thinking."
+    },
+    {
+     "t": "p",
+     "c": "Rather than copying the ideas I made, I hope you take the process — why I asked these questions, why I dropped this direction, why I finally chose this conclusion — and apply it to your own competition."
+    },
+    {
+     "t": "p",
+     "c": "So let’s begin."
+    }
+   ]
+  },
+  {
+   "no": "01",
+   "title": "Teamwork — who will you do this with",
+   "lead": "More important than a “good” team · Matching goals and levels of drive",
+   "video": "ANDMtTJpCyI",
+   "blocks": [
+    {
+     "t": "quote",
+     "c": "“Team projects are a fight.” Not a fight with people, but a fight for a better result."
+    },
+    {
+     "t": "p",
+     "c": "Once you decide to enter a competition, what is the very first thing to do? Build the team."
+    },
+    {
+     "t": "p",
+     "c": "I have entered about 50 competitions, and even in the ones we won I was mostly with different teammates. One thing became clear."
+    },
+    {
+     "t": "p",
+     "c": "Gathering only skilled people does not make a good team."
+    },
+    {
+     "t": "p",
+     "c": "What mattered more was whether we were looking at the same place, and whether the level of energy we could invest toward that goal was similar."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "Team projects are a fight"
+    },
+    {
+     "t": "p",
+     "c": "The fight I mean is not raising your voice or counting who did more. It means colliding opinions around a single goal and finding a better result through it."
+    },
+    {
+     "t": "p",
+     "c": "In a team project, differing opinions are natural. Everyone has different criteria, different perspectives on the problem, and different ways of working."
+    },
+    {
+     "t": "p",
+     "c": "So what matters is not avoiding conflict. It is not forgetting, when conflict comes, what we are fighting for."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "Good conflict and bad conflict"
+    },
+    {
+     "t": "h3",
+     "c": "Bad conflict"
+    },
+    {
+     "t": "p",
+     "c": "“I did this much — why did you only do that?”"
+    },
+    {
+     "t": "p",
+     "c": "“I stayed up all night — why did you leave early?”"
+    },
+    {
+     "t": "p",
+     "c": "This kind of conflict usually ends up comparing people’s effort and responsibility."
+    },
+    {
+     "t": "h3",
+     "c": "Good conflict"
+    },
+    {
+     "t": "p",
+     "c": "“Will this idea really solve the problem?”"
+    },
+    {
+     "t": "p",
+     "c": "“Will the judges understand this part?”"
+    },
+    {
+     "t": "p",
+     "c": "“Isn’t there a clearer way to say this?”"
+    },
+    {
+     "t": "p",
+     "c": "This kind of conflict moves the work in a better direction."
+    },
+    {
+     "t": "p",
+     "c": "A good team is not a team without conflict; it is a team that can have conflict properly, in order to define the problem more precisely and make a better idea."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "Purpose matters more than closeness"
+    },
+    {
+     "t": "p",
+     "c": "I actually did not do many competition team projects with close friends. That does not mean closeness is bad. It is that friendship can affect a professional judgement."
+    },
+    {
+     "t": "p",
+     "c": "You may fail to say what needs saying, put the relationship first when you should be objective, or let a project problem spill over into personal feelings."
+    },
+    {
+     "t": "p",
+     "c": "So rather than someone simply close and comfortable, I try to build a team with people who share the purpose and can exchange opinions honestly."
+    },
+    {
+     "t": "p",
+     "c": "What matters is not whether we are close or not."
+    },
+    {
+     "t": "quote",
+     "c": "It is whether this is a person I can fight properly with, for the same goal."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "Match the level of drive"
+    },
+    {
+     "t": "p",
+     "c": "When building a team, I think you should check the level of the goal before you check skill."
+    },
+    {
+     "t": "p",
+     "c": "If your goal is experience, work with people who want experience; if it is winning something, with people who want to win; if it is the Grand Prize, with people who are aiming at the Grand Prize."
+    },
+    {
+     "t": "p",
+     "c": "At first everyone can say “winning would be nice.” But as the deadline gets closer, the differences show."
+    },
+    {
+     "t": "h3",
+     "c": "1. The time invested differs"
+    },
+    {
+     "t": "p",
+     "c": "One person wants to revise again for a slightly better result; another thinks “do we really have to go this far?”"
+    },
+    {
+     "t": "h3",
+     "c": "2. The bar for being satisfied differs"
+    },
+    {
+     "t": "p",
+     "c": "If experience is the goal, you can be satisfied at “submittable.” If the Grand Prize is the goal, you keep agonising over one sentence in the deck, one image, one order of slides."
+    },
+    {
+     "t": "h3",
+     "c": "3. The number of revisions people can take differs"
+    },
+    {
+     "t": "p",
+     "c": "Revising the same output again and again is harder than it sounds. People with the same goal can go back and revise even when it hurts; when goals differ, the repeated revision itself becomes the conflict."
+    },
+    {
+     "t": "h3",
+     "c": "4. The level of effort people can take near the deadline differs"
+    },
+    {
+     "t": "p",
+     "c": "This does not mean you must pull all-nighters. What matters is how far the team is ready to push together, for the goal we agreed on, when things get hard."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "Team Check"
+    },
+    {
+     "t": "p",
+     "c": "Before you evaluate teammates, check yourself first."
+    },
+    {
+     "t": "ul",
+     "c": [
+      "What am I aiming for in this competition?",
+      "How much time can I actually invest in it?",
+      "Can I take repeated revision and feedback?",
+      "Can I speak honestly when I disagree?",
+      "When conflict arises, can I look at the problem without attacking the person?"
+     ]
+    },
+    {
+     "t": "p",
+     "c": "This checklist is not a filter for screening others out. It is there so you can first ask, “Am I ready to be the kind of teammate I want?”"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "In one sentence"
+    },
+    {
+     "t": "quote",
+     "c": "A good team is not a team without conflict. It is a team that shares one goal and can have conflict properly for a better result."
+    },
+    {
+     "t": "p",
+     "c": "If the Grand Prize is your goal, before you look for skilled teammates, ask this first."
+    },
+    {
+     "t": "q",
+     "c": "“Are we really looking at the same place?”"
+    }
+   ]
+  },
+  {
+   "no": "02",
+   "title": "Choosing a Topic — what will you treat as the problem",
+   "lead": "Finding a problem worth solving rather than a “good” topic · Thinking from the judge’s seat",
+   "video": "z5k-qajpDyE",
+   "blocks": [
+    {
+     "t": "quote",
+     "c": "Don’t solve what is written in the brief straight away. First ask “why?”"
+    },
+    {
+     "t": "p",
+     "c": "Once the team is set, next comes the topic. I think choosing a topic is itself a strategy in a competition."
+    },
+    {
+     "t": "p",
+     "c": "The topic you choose changes how many teams you compete against, how hard it is to make the idea concrete, and how likely you are to persuade the judges."
+    },
+    {
+     "t": "p",
+     "c": "So rather than producing an idea quickly, I care about choosing properly which problem we are going to solve."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "WHY before HOW"
+    },
+    {
+     "t": "p",
+     "c": "When people receive a competition brief, most start straight from the solution."
+    },
+    {
+     "t": "p",
+     "c": "“What should we build on the returned U.S. base site?” “What programme should the school run?” “What drone tourism product should we make?”"
+    },
+    {
+     "t": "p",
+     "c": "But before that, I ask a question first."
+    },
+    {
+     "t": "q",
+     "c": "“Why did this city ask us to solve this particular problem?”"
+    },
+    {
+     "t": "p",
+     "c": "The important word here is not how, but why."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "Doubt the sentence you were given"
+    },
+    {
+     "t": "p",
+     "c": "If the brief says to make use of a returned base site, then before “how should we use it?” you can ask “does it really have to be the base site?”"
+    },
+    {
+     "t": "p",
+     "c": "If the brief says to keep a small school sustainable: “With student numbers falling, is keeping the school open really the best answer?”"
+    },
+    {
+     "t": "p",
+     "c": "If the brief says to boost drone tourism: “Without drones, is it impossible to boost the tourism industry?”"
+    },
+    {
+     "t": "p",
+     "c": "Only when you also ask the question that opposes the brief does the real reason the brief exists start to become visible."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "Separate the means from the goal"
+    },
+    {
+     "t": "p",
+     "c": "What is written in the brief may not be the city’s final goal."
+    },
+    {
+     "t": "h3",
+     "c": "Using the returned base site"
+    },
+    {
+     "t": "p",
+     "c": "The site itself may not be the goal; the goal may be reviving the local economy, expanding urban infrastructure, or changing the region’s image."
+    },
+    {
+     "t": "h3",
+     "c": "Running a small school"
+    },
+    {
+     "t": "p",
+     "c": "Rather than keeping the school itself, the purpose may be keeping the local community, drawing in a living population, and keeping the area somewhere you can raise a child."
+    },
+    {
+     "t": "h3",
+     "c": "Drone tourism"
+    },
+    {
+     "t": "p",
+     "c": "Rather than flying drones, the goal may be visitor inflow, more local spending, and new industries and jobs."
+    },
+    {
+     "t": "p",
+     "c": "So I always ask."
+    },
+    {
+     "t": "q",
+     "c": "“Is what the brief says a means, or the goal?”"
+    },
+    {
+     "t": "q",
+     "c": "“Through that means, what change does this region really want?”"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "Swap the place name"
+    },
+    {
+     "t": "p",
+     "c": "This is a check I often use in regional competitions. In your idea, replace the name Yeoncheon with another region."
+    },
+    {
+     "t": "p",
+     "c": "Change Yeoncheon to Pocheon, and Pocheon to Dongducheon."
+    },
+    {
+     "t": "p",
+     "c": "If the idea still stands perfectly well after only the place name changes, chances are you have not yet thought enough about that particular place."
+    },
+    {
+     "t": "p",
+     "c": "“Let’s draw in young people.” “Let’s increase tourists.” “Let’s promote the region.” “Let’s create an education programme.”"
+    },
+    {
+     "t": "p",
+     "c": "Solutions like these apply to any region. From the judges’ seat, one question is left."
+    },
+    {
+     "t": "q",
+     "c": "“But why does this have to happen here?”"
+    },
+    {
+     "t": "p",
+     "c": "A good regional competition idea deals with a problem that exists nationwide while holding an answer that is only possible in that place."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "Can we know more than the civil servants?"
+    },
+    {
+     "t": "p",
+     "c": "Civil servants and staff who have worked in the region for years are likely to have far more information and experience than we can gather in a few months of research."
+    },
+    {
+     "t": "p",
+     "c": "They have policies already tried, accumulated data, and they know why certain policies succeeded or failed."
+    },
+    {
+     "t": "p",
+     "c": "So how can we, as students, compete?"
+    },
+    {
+     "t": "p",
+     "c": "I think we should compete not on the amount of information but on how we define the problem."
+    },
+    {
+     "t": "p",
+     "c": "We can look again at an existing problem from the position of a citizen, a young person, a tourist, a consumer, a content planner."
+    },
+    {
+     "t": "p",
+     "c": "We can connect existing resources in a new way, and instead of a huge policy we can propose a small point of change that could start right now."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "A real case — Yeoncheon"
+    },
+    {
+     "t": "p",
+     "c": "The topic our team chose was measures against Yeoncheon’s population decline and ageing. At first it looked like this."
+    },
+    {
+     "t": "h3",
+     "c": "The problem"
+    },
+    {
+     "t": "p",
+     "c": "Yeoncheon’s population is falling."
+    },
+    {
+     "t": "p",
+     "c": "But as we kept asking questions, we redefined the problem."
+    },
+    {
+     "t": "p",
+     "c": "When the population falls, there are fewer people doing productive work. There are fewer people spending locally. There are not enough people to sustain industry and commerce."
+    },
+    {
+     "t": "p",
+     "c": "So we changed the problem to this."
+    },
+    {
+     "t": "q",
+     "c": "“Yeoncheon lacks people who will keep earning, spending and carrying the industry forward there.”"
+    },
+    {
+     "t": "p",
+     "c": "Once the problem changed, the questions changed too."
+    },
+    {
+     "t": "q",
+     "c": "“Then, before we drag people to Yeoncheon at all costs, shouldn’t we first create a reason that money can be earned in Yeoncheon?”"
+    },
+    {
+     "t": "p",
+     "c": "From that question we began looking at tourism and agriculture, and in the end we could narrow the problem toward Yeoncheon’s agriculture and consumer trust."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "Topic Check"
+    },
+    {
+     "t": "p",
+     "c": "When choosing a topic, try these questions."
+    },
+    {
+     "t": "ul",
+     "c": [
+      "Why does this problem need to be solved?",
+      "Is what the brief says the goal, or a means?",
+      "Does the idea still stand if you swap the place name?",
+      "Why did existing policy fail to solve the problem?",
+      "What resources and conditions does only this region have?",
+      "Can our team do this topic well?",
+      "Can you explain the problem you are solving in one sentence?",
+      "Is there a small change that could start right now?"
+     ]
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "In one sentence"
+    },
+    {
+     "t": "quote",
+     "c": "Choosing a topic well is not picking the easiest one. It is finding the real concern hidden behind the brief and redefining it through our own team’s eyes."
+    },
+    {
+     "t": "p",
+     "c": "Ask first."
+    },
+    {
+     "t": "q",
+     "c": "“Why is this city trying to solve this problem?”"
+    },
+    {
+     "t": "q",
+     "c": "“What change does it ultimately want through this brief?”"
+    },
+    {
+     "t": "q",
+     "c": "“For that change, what new starting point can we propose?”"
+    }
+   ]
+  },
+  {
+   "no": "03",
+   "title": "The Idea — how will you expand your thinking",
+   "lead": "Where an idea begins · Digging one level deeper into the problem · Feasibility and distinctiveness",
+   "blocks": [
+    {
+     "t": "quote",
+     "c": "When an idea comes to you, ask this first: “But — would anyone bother?”"
+    },
+    {
+     "t": "p",
+     "c": "Many people worry about this while preparing for a competition."
+    },
+    {
+     "t": "p",
+     "c": "“How do we come up with a creative idea?” “How do we find something no other team has thought of?”"
+    },
+    {
+     "t": "p",
+     "c": "But I don’t consider myself a particularly creative person. I am not someone who suddenly flashes on an idea nobody else has had."
+    },
+    {
+     "t": "p",
+     "c": "Instead, when building an idea, I keep repeating one very simple question."
+    },
+    {
+     "t": "q",
+     "c": "“Would anyone bother?”"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "Keep attaching “would anyone bother?” to your idea"
+    },
+    {
+     "t": "p",
+     "c": "If you want to build a new facility: “Does that facility really have to be built?”"
+    },
+    {
+     "t": "p",
+     "c": "If you want to build an app: “Would people actually bother to use this app?”"
+    },
+    {
+     "t": "p",
+     "c": "If you want to bring in tourists: “Out of countless regions, would a tourist bother to choose this one?”"
+    },
+    {
+     "t": "p",
+     "c": "If you want to recruit young farmers: “Out of countless regions, would a young person bother to farm here?”"
+    },
+    {
+     "t": "p",
+     "c": "Repeat this question and the elements that looked good at first disappear one by one."
+    },
+    {
+     "t": "p",
+     "c": "But an idea getting smaller is not a bad thing. The more unnecessary parts fall away, the more clearly you see the problem you actually have to solve."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "Would a tourist bother to go to Yeoncheon?"
+    },
+    {
+     "t": "p",
+     "c": "Our team also started with tourism. When tourists come, they use restaurants and cafés, they stay overnight, they buy local products."
+    },
+    {
+     "t": "p",
+     "c": "But we asked: “Would a tourist bother to go to Yeoncheon?”"
+    },
+    {
+     "t": "p",
+     "c": "And then one level deeper: “What reason would make people bother to visit Yeoncheon twice?”"
+    },
+    {
+     "t": "p",
+     "c": "A single visit can be manufactured as an event, but repeat visits require a clear reason."
+    },
+    {
+     "t": "p",
+     "c": "Repeating this question, we judged that there may be a limit to building a lasting industry on tourism alone."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "Would a young person bother to farm in Yeoncheon?"
+    },
+    {
+     "t": "p",
+     "c": "Next we looked at agriculture. Yeoncheon has an agricultural base and local specialities, so you might think drawing in young farmers would create new jobs."
+    },
+    {
+     "t": "p",
+     "c": "But again we asked: “Would young people bother to farm in Yeoncheon?”"
+    },
+    {
+     "t": "p",
+     "c": "Housing support, subsidies and training programmes are offered in many regions too. So support alone may not be reason enough to choose Yeoncheon."
+    },
+    {
+     "t": "p",
+     "c": "What was needed in the end was an industrial reason that left young people with no better choice than Yeoncheon."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "Would a consumer bother to buy Yeoncheon produce?"
+    },
+    {
+     "t": "p",
+     "c": "For agriculture to last, the produce has to sell. So this time we asked from the consumer’s side."
+    },
+    {
+     "t": "q",
+     "c": "“Would a consumer bother to buy Yeoncheon produce?”"
+    },
+    {
+     "t": "p",
+     "c": "Would they pay a higher price just because “it was grown in Yeoncheon” or “it is a Yeoncheon speciality”? We judged that they would not."
+    },
+    {
+     "t": "p",
+     "c": "So we changed the question. “What do consumers actually care about when they buy produce?”"
+    },
+    {
+     "t": "p",
+     "c": "It might be price, it might be quality, it might be safety and trust in how it was grown."
+    },
+    {
+     "t": "p",
+     "c": "From there we moved the idea from simply promoting Yeoncheon produce toward “let’s create a clear reason for consumers to choose Yeoncheon produce.”"
+    },
+    {
+     "t": "p",
+     "c": "And that became the starting point of the idea for raising trust in Yeoncheon’s agricultural products."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "“Would I do it?”"
+    },
+    {
+     "t": "p",
+     "c": "Alongside “would anyone bother?”, there is one more question I use often: “Would I do it?”"
+    },
+    {
+     "t": "p",
+     "c": "Before telling tourists to come: “If I were a tourist, would I go?”"
+    },
+    {
+     "t": "p",
+     "c": "Before telling young people to settle in the region: “If I were young, would I live and work here?”"
+    },
+    {
+     "t": "p",
+     "c": "Before telling consumers to buy: “If I were a consumer, would I buy this?”"
+    },
+    {
+     "t": "p",
+     "c": "The person who makes an idea easily rates it higher than it deserves. So I step out of the proposer’s seat and look again from the position of the person who actually has to pay, spend time and act."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "People don’t move because we worked hard"
+    },
+    {
+     "t": "p",
+     "c": "For people to act there has to be a reason. That reason might be fun, convenience, an economic gain, or trust."
+    },
+    {
+     "t": "p",
+     "c": "So when building an idea, before “what will we make?” you should think about “why will people choose this?”"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "Now from the judges’ seat"
+    },
+    {
+     "t": "p",
+     "c": "It doesn’t end with “users would probably use it.” In a competition about solving regional problems, actual civil servants or officials are likely to be assessing the idea."
+    },
+    {
+     "t": "p",
+     "c": "So I ask again."
+    },
+    {
+     "t": "q",
+     "c": "“If I were the civil servant in charge of this, would I want to carry this idea out?”"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "Can it start with the budget currently available?",
+      "Can it be trialled within administrative procedure?",
+      "Can the risk be borne if it fails?",
+      "Can the effect be measured?",
+      "Can the results be explained to citizens?"
+     ]
+    },
+    {
+     "t": "p",
+     "c": "However impressive the idea, if the person in charge cannot bring themselves to run it, it loses its persuasive power."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "Creativity vs. feasibility?"
+    },
+    {
+     "t": "p",
+     "c": "You don’t have to choose between them. A good idea should be both creative and feasible."
+    },
+    {
+     "t": "p",
+     "c": "And being creative does not necessarily mean building a huge system that has never existed."
+    },
+    {
+     "t": "p",
+     "c": "Connecting existing problems and resources in a new way, looking at a problem people took for granted through a different question, solving a small inconvenience in the current system — those can all be creative ideas."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "Start small rather than change everything"
+    },
+    {
+     "t": "p",
+     "c": "I care more about finding the small point of change than about a huge transformation."
+    },
+    {
+     "t": "p",
+     "c": "Rather than “let’s change everything from scratch,” I look for “this is more or less working already — wouldn’t it be better if we changed just this one thing?”"
+    },
+    {
+     "t": "p",
+     "c": "A good idea needs two things."
+    },
+    {
+     "t": "h3",
+     "c": "1. A first step that can start right now"
+    },
+    {
+     "t": "h3",
+     "c": "2. A next step it can expand into if it works"
+    },
+    {
+     "t": "p",
+     "c": "It’s fine to start small. But once the effect is proven, it has to be able to scale."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "Idea Check"
+    },
+    {
+     "t": "p",
+     "c": "Once you have an idea, ask these."
+    },
+    {
+     "t": "ul",
+     "c": [
+      "Would people actually bother to use this idea?",
+      "If I were the real target, would I take this action?",
+      "Does it solve the current problem precisely?",
+      "How is it different from existing policy or systems?",
+      "Why does it have to be done here, now?",
+      "Can the person in charge actually carry it out?",
+      "Can it start small?",
+      "Can it expand if it succeeds?",
+      "Can it actually change people’s behaviour?",
+      "Can you say in one sentence why the judges should choose this idea?"
+     ]
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "In one sentence"
+    },
+    {
+     "t": "quote",
+     "c": "If a good idea is one that makes people admire it, a Grand Prize idea is one that makes people choose, act, and carry it out."
+    },
+    {
+     "t": "p",
+     "c": "When an idea appears, don’t start by explaining its strengths. Ask first."
+    },
+    {
+     "t": "q",
+     "c": "“But would people actually bother doing this?”"
+    },
+    {
+     "t": "p",
+     "c": "I believe the real idea can begin at that question."
+    }
+   ]
+  },
+  {
+   "no": "04",
+   "title": "The Pitch — how will you deliver it",
+   "lead": "Making a good plan look like a good plan · Why the pitch changes the outcome",
+   "video": "DZzKY_YsYm8",
+   "blocks": [
+    {
+     "t": "quote",
+     "c": "The pitch is not the last step of wrapping up an idea. It is the process of turning an idea into the judges’ ‘choice’."
+    },
+    {
+     "t": "p",
+     "c": "When our team won prizes, there was something we often heard."
+    },
+    {
+     "t": "q",
+     "c": "“That team won the Grand Prize because of the pitch.”"
+    },
+    {
+     "t": "p",
+     "c": "At first it stung a little, because we too had spent a lot of time on the situation analysis, the idea, the proposal and the deck."
+    },
+    {
+     "t": "p",
+     "c": "But over time my thinking changed. If someone says our team won because of the pitch, it also means the pitch conveyed the value of the idea fully."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "Two months of thinking has to land in ten minutes"
+    },
+    {
+     "t": "p",
+     "c": "The judges cannot know how many meetings we held, how much material we researched, how many nights we stayed up."
+    },
+    {
+     "t": "p",
+     "c": "What the judges can see is the pitch and the output we show in a limited time."
+    },
+    {
+     "t": "p",
+     "c": "If we cannot make two months of thinking understood within ten minutes, from the judges’ seat that value simply does not exist."
+    },
+    {
+     "t": "p",
+     "c": "So the pitch is not a technique for dressing up or disguising a weak idea."
+    },
+    {
+     "t": "q",
+     "c": "It is the process of making the judges understand exactly what our idea is worth."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "The pitch does not begin at the end"
+    },
+    {
+     "t": "p",
+     "c": "I don’t start the pitch after the deck is finished. I think about the pitch from the very beginning of preparing the competition."
+    },
+    {
+     "t": "p",
+     "c": "Even while doing the situation analysis: “In what order should this material be shown so the seriousness of the problem lands?”"
+    },
+    {
+     "t": "p",
+     "c": "Even while building the idea: “Can this idea be explained in one sentence?”"
+    },
+    {
+     "t": "p",
+     "c": "Even while making the deck: “Is this screen helping the speaker’s story?”"
+    },
+    {
+     "t": "p",
+     "c": "Even while making a video: “Without this video, would the idea be hard to understand?”"
+    },
+    {
+     "t": "p",
+     "c": "Situation analysis, idea, creative, deck and video are not separate jobs."
+    },
+    {
+     "t": "q",
+     "c": "They all have to connect in order to complete one pitch."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "The surest way to pitch well"
+    },
+    {
+     "t": "p",
+     "c": "The answer is very simple. Practice."
+    },
+    {
+     "t": "p",
+     "c": "Speaking without reading a script, meeting the audience’s eyes, controlling the speed and emphasis of your voice, picking the thread back up naturally after a slip — all of it is the result of practice."
+    },
+    {
+     "t": "p",
+     "c": "A good speaker is not someone who doesn’t get nervous. It is someone who can return to the flow they practised even while nervous."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "The chance to present arrives suddenly — but you can’t suddenly be good"
+    },
+    {
+     "t": "p",
+     "c": "I was not good at presenting from the start either. In my first year, teammates sometimes did not give me the pitch because of my pronunciation and the impression I gave."
+    },
+    {
+     "t": "p",
+     "c": "But even when I wasn’t the speaker, I kept reading the proposal and practising alone, working out the order I would speak in if it were me."
+    },
+    {
+     "t": "p",
+     "c": "Then, about 20 minutes before a pitch, the assigned speaker got too nervous and asked me to present instead."
+    },
+    {
+     "t": "p",
+     "c": "The speaker changed suddenly, but I had already been practising. That is why I could walk onto the stage."
+    },
+    {
+     "t": "quote",
+     "c": "The chance to present can arrive suddenly, but you cannot suddenly be good at it."
+    },
+    {
+     "t": "p",
+     "c": "Only someone who practised before the chance came can take it."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "What protects you right before a pitch is not confidence"
+    },
+    {
+     "t": "p",
+     "c": "On a bigger competition stage, I too have been close to panic right before presenting. The script would not go in and my mind went blank."
+    },
+    {
+     "t": "p",
+     "c": "But once I was on stage, the flow I had repeated came out naturally."
+    },
+    {
+     "t": "q",
+     "c": "What protects you right before the pitch is not confidence but repeated practice."
+    },
+    {
+     "t": "p",
+     "c": "Confidence can be shaken by another team’s pitch or a judge’s expression. But a flow you have drilled into your body does not disappear easily."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "Pitch practice belongs in the schedule"
+    },
+    {
+     "t": "p",
+     "c": "When preparing a competition, people plan time for situation analysis, for building the idea, for making the deck."
+    },
+    {
+     "t": "p",
+     "c": "Yet strangely, they often do not plan time for pitch practice."
+    },
+    {
+     "t": "p",
+     "c": "They intend to practise in whatever time is left after the deck is done. Which means practice actually starts the night before or the morning of."
+    },
+    {
+     "t": "p",
+     "c": "Our team could practise the pitch a lot not because we finished everything quickly, but because we planned the whole schedule from the start around securing pitch practice time."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "You can start the pitch without a deck"
+    },
+    {
+     "t": "p",
+     "c": "You may think, “How can I practise when the deck isn’t finished?” But you can speak the flow without a deck."
+    },
+    {
+     "t": "ul",
+     "c": [
+      "“We found this phenomenon.”",
+      "“Existing solutions had these limits.”",
+      "“So we looked at the problem again.”",
+      "“The problem that actually needed solving was this.”",
+      "“So we propose this solution.”"
+     ]
+    },
+    {
+     "t": "p",
+     "c": "Just saying this flow out loud is already enough practice."
+    },
+    {
+     "t": "p",
+     "c": "In fact, speaking it aloud is how you find the parts where logic that felt natural in your head does not actually connect."
+    },
+    {
+     "t": "q",
+     "c": "So I think pitch practice is itself a way of stress-testing the plan."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "The deck must not drive the pitch"
+    },
+    {
+     "t": "p",
+     "c": "The speaker is not someone who reads the words on the slides. The deck is a means of showing the information needed to follow the speaker’s story."
+    },
+    {
+     "t": "p",
+     "c": "The speaker should be able to explain the idea even without a beautiful deck. Even with only a title and a key sentence on each slide, they should be able to tell the whole story."
+    },
+    {
+     "t": "p",
+     "c": "A good pitch is not one where the screen drives the talk; it is one where the speaker uses the screen."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "Think about priority before design"
+    },
+    {
+     "t": "p",
+     "c": "People often keep changing colours, moving images and agonising over fonts right up to the pitch."
+    },
+    {
+     "t": "p",
+     "c": "Design matters too, of course. But if you have one more day, you should ask."
+    },
+    {
+     "t": "q",
+     "c": "Is it more important to make the deck’s alignment a little more perfect?"
+    },
+    {
+     "t": "q",
+     "c": "Or to make the speaker able to persuade without looking at the deck?"
+    },
+    {
+     "t": "p",
+     "c": "I think the latter comes first."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "Don’t get buried in the means"
+    },
+    {
+     "t": "p",
+     "c": "Video, prototypes, physical props, animation, performance. Used well, they can make a pitch far stronger."
+    },
+    {
+     "t": "p",
+     "c": "But just because another team made a video does not mean we have to. Always ask."
+    },
+    {
+     "t": "ul",
+     "c": [
+      "“Is this video really needed to understand the idea?”",
+      "“Does this artefact show the core of the idea?”",
+      "“Or are we doing it because other teams are?”"
+     ]
+    },
+    {
+     "t": "p",
+     "c": "The means are not there to look impressive. They should be used to carry the core of the idea more simply and clearly."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "Prepare the Q&A in advance too"
+    },
+    {
+     "t": "p",
+     "c": "I am confident in a pitch I have prepared, but I find answering unexpected questions on the spot relatively hard. So I admitted my weakness and designed the material around it."
+    },
+    {
+     "t": "p",
+     "c": "I write out the likely questions in advance."
+    },
+    {
+     "t": "ul",
+     "c": [
+      "How much budget does this project need?",
+      "Who will operate it?",
+      "How is it different from existing policy?",
+      "Are there actually people who would take part?",
+      "How will the effect be measured?",
+      "Isn’t this an idea that would work in other regions too?"
+     ]
+    },
+    {
+     "t": "p",
+     "c": "And I put extra slides answering those questions at the back of the deck."
+    },
+    {
+     "t": "p",
+     "c": "When a question comes, you can show that “we have already thought about that part too.”"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "Presentation Practice"
+    },
+    {
+     "t": "h3",
+     "c": "STEP 1. Say the flow"
+    },
+    {
+     "t": "p",
+     "c": "Without a script, explain in your own words what you will say on each slide."
+    },
+    {
+     "t": "h3",
+     "c": "STEP 2. Time it"
+    },
+    {
+     "t": "p",
+     "c": "Measure the whole pitch and cut what is not important."
+    },
+    {
+     "t": "h3",
+     "c": "STEP 3. Record audio and video"
+    },
+    {
+     "t": "p",
+     "c": "Check your speed, repeated phrases, eye contact and posture."
+    },
+    {
+     "t": "h3",
+     "c": "STEP 4. Present to people"
+    },
+    {
+     "t": "p",
+     "c": "Pitch for real in front of teammates, friends, family."
+    },
+    {
+     "t": "h3",
+     "c": "STEP 5. Likely questions"
+    },
+    {
+     "t": "p",
+     "c": "Deliberately trade sharp questions, focused on the weakest part of the idea."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "Memorise the logic, not the sentences"
+    },
+    {
+     "t": "p",
+     "c": "The goal is not to memorise every sentence word for word. The moment you forget one word, the next sentence can vanish too."
+    },
+    {
+     "t": "p",
+     "c": "Instead you have to understand this flow."
+    },
+    {
+     "t": "ul",
+     "c": [
+      "What is the problem we found?",
+      "Why did existing methods fail to solve it?",
+      "What is our solution?",
+      "Why should this solution be chosen?"
+     ]
+    },
+    {
+     "t": "q",
+     "c": "What I care about is memorising the logic rather than the sentences."
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "In one sentence"
+    },
+    {
+     "t": "quote",
+     "c": "The pitch is not something you do with the time left after everything else is finished."
+    },
+    {
+     "t": "p",
+     "c": "The pitch should already begin the moment you start building the idea."
+    },
+    {
+     "t": "p",
+     "c": "If someone tells you “that team won the Grand Prize because of their pitch,” you don’t have to take it as criticism."
+    },
+    {
+     "t": "p",
+     "c": "It also means that while some teams had a good idea and could not convey it, we persuaded people of the value of ours all the way to the end."
+    },
+    {
+     "t": "quote",
+     "c": "In a competition, the pitch is not the last coat of wrapping on an idea. It is the process of turning the idea we made into the judges’ choice."
+    }
+   ]
+  }
+ ],
+ "finalSection": {
+  "no": "05",
+  "title": "One last thing I want to say",
+  "lead": "Accumulation matters more than winning · What failure leaves for the next attempt — real competition pitch videos",
+  "videos": [
+   {
+    "label": "CUIF 2022",
+    "id": "9VCUxvSTjgk"
+   },
+   {
+    "label": "2022 XR Device Idea Contest",
+    "id": "I-PFcgDxfPY"
+   },
+   {
+    "label": "CUIF+ 2025",
+    "id": "Vnpmg4Q9xUk"
+   }
+  ]
+ },
+ "closing": {
+  "quote": "I believe in the power of accumulation.",
+  "paras": [
+   "Preparing one competition does not suddenly make you good at planning. You lose once, you pick the wrong topic, you get stuck on an idea, you fumble a pitch — and slowly your own standards form.",
+   "For me too, the many failures that came before shaped the way I think now, far more than two CUIF wins did. So rather than saying I hope this lecture wins you the Grand Prize straight away, **I hope this attempt stays inside you as one more layer of ‘accumulation’.** That accumulation will certainly become experience you can draw on in your next plan."
+  ],
+  "sign": "So — let’s begin.",
+  "note": "This page carries over the original archive that Choi Junhyeok made public, for 2026 CUIF+ participants. The original also holds extra material and his contact details."
+ },
+ "sourceUrl": "https://protective-ankle-0ad.notion.site/TIP-3cdb31cd05778005a7b4d9d1d70c9c82"
+}

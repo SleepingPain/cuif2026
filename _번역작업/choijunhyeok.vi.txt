@@ -1,0 +1,379 @@
+0000	Trang chủ
+0001	ALUMNI PLAYBOOK
+0002	Hướng dẫn sử dụng
+0003	Bài giảng khác của cựu sinh viên
+0004	Xem ngay
+0005	Ngôn ngữ
+0006	Các ngôn ngữ ngoài tiếng Hàn đều do máy dịch. Nếu thấy câu nào khó hiểu, xin lấy bản tiếng Hàn làm chuẩn.
+0007	Video được trình bày bằng tiếng Hàn. Bạn có thể bật phụ đề dịch tự động từ nút CC của YouTube.
+0008	Mở trang Notion gốc
+0009	Bí quyết thi 2026 CUIF+
+0010	Bí quyết giành Giải Nhất trong các cuộc thi
+0011	Không có công thức nào để giành Giải Nhất.
+0012	Nhưng chắc chắn có một lối tư duy đưa ta tới gần nó.
+0013	Choi Junhyeok
+0014	Đại học CHA, ngành Truyền thông Y tế, khóa ’21
+0015	Giải Nhất CUIF 2022
+0016	Giải Nhất CUIF+ 2025 · Giải thưởng Chủ tịch Hội đồng tỉnh Gyeonggi
+0017	Hội Quan hệ Công chúng Hàn Quốc — Giải Nhà đổi mới sáng tạo · Giải Thuyết trình xuất sắc
+0018	Đã tham gia khoảng 50 cuộc thi
+0019	Kho tư liệu này tập hợp video từng chương, các tình huống thực tế và tài liệu tham khảo của bài giảng “Bí quyết giành Giải Nhất trong các cuộc thi”. Tôi không phải người biết cách thi tốt ngay từ đầu. Năm nhất tôi bị loại ngay ở vòng đề xuất, thậm chí không được vào chung kết; tôi trượt rất nhiều cuộc thi; và cũng từng có buổi tổng duyệt mà tôi không nói nổi những gì đã chuẩn bị. Khi những thất bại ấy chồng lên nhau, tôi dần hiểu ra — nên làm nhóm với ai, nên chọn đề tài nào, ý tưởng nên bắt đầu từ đâu, và làm sao đưa một kế hoạch tốt đi đến cùng.
+0020	Nếu bạn bắt đầu từ con số không
+0021	Tôi khuyên nên xem theo thứ tự, từ 00 Bắt đầu.
+0022	Nếu bạn đang lo về việc lập nhóm
+0023	Hãy bắt đầu từ 01 Làm việc nhóm.
+0024	Nếu bạn chưa biết chọn đề tài nào
+0025	Hãy vào thẳng 02 Chọn đề tài.
+0026	Nếu bạn không nghĩ ra ý tưởng
+0027	03 Ý tưởng cho thấy quá trình mở rộng suy nghĩ diễn ra thế nào.
+0028	Nếu kế hoạch ổn nhưng phần thuyết trình khiến bạn lo
+0029	Bạn có thể bắt đầu ngay từ 04 Thuyết trình.
+0030	Nếu bạn đã mệt mỏi vì chưa có kết quả
+0031	Xin hãy xem 05 Điều cuối cùng tôi muốn nói.
+0032	Điều tôi mong bạn chú ý nhất trong bài giảng này
+0033	Thay vì thứ tôi đã làm ra, hãy dõi theo “vì sao tôi nghĩ như vậy”. Rốt cuộc, thứ còn lại lâu nhất sau một cuộc thi không phải một ý tưởng, mà là lối tư duy tạo ra ý tưởng tiếp theo.
+0034	Bắt đầu — hãy khởi đầu từ trang này
+0035	Thi tốt nghĩa là gì · Cách xem bài giảng này
+0036	Không có công thức nào để giành Giải Nhất. Nhưng chắc chắn có một lối tư duy đưa ta tới gần nó.
+0037	Xin chào. Tôi là Choi Junhyeok, Đại học CHA, ngành Truyền thông Y tế, khóa ’21.
+0038	Tôi giành Giải Nhất CUIF năm 2022, và cũng giành Giải Nhất tại CUIF PLUS cùng Giải thưởng Chủ tịch Hội đồng tỉnh Gyeonggi. Tôi phát triển tiếp ý tưởng đó và nhận Giải Nhà đổi mới sáng tạo cùng Giải Thuyết trình xuất sắc của Hội Quan hệ Công chúng Hàn Quốc, đồng thời tham gia nhiều cuộc thi khác như Cuộc thi Ý tưởng nội dung thiết bị XR và cuộc thi quảng cáo KOSAC.
+0039	Nhưng tôi không giỏi thi từ đầu.
+0040	Năm nhất tôi bị loại ở vòng đề xuất, chưa từng đặt chân lên sân khấu chung kết. Qua khoảng 50 cuộc thi, tôi nếm trải thất bại và bị loại nhiều hơn hẳn số lần đoạt giải.
+0041	Trong quá trình đó, tôi dần hình thành tiêu chuẩn riêng.
+0042	Nên lập nhóm với ai, nên chọn đề tài nào, nên phát triển ý tưởng bằng câu hỏi nào, và làm sao nối tất cả những điều đó tới lựa chọn của ban giám khảo.
+0043	Bài giảng này không đưa ra một đáp án duy nhất hay công thức chắc thắng. Thay vào đó, tôi muốn chia sẻ thành thật nhất có thể trình tự suy nghĩ và tiêu chí phán đoán mà tôi đã thực sự dùng qua hai lần Giải Nhất CUIF và nhiều cuộc thi khác.
+0044	Xin hãy tập trung ít hơn vào kết quả, và nhiều hơn vào những câu hỏi đã được đặt ra trên đường đi.
+0045	Nội dung bài giảng này
+0046	01. Cách lập nhóm để giành Giải Nhất
+0047	Nhóm tốt không phải nhóm không có xung đột, mà là nhóm biết xung đột đúng cách vì cùng một mục tiêu.
+0048	Quan trọng hơn sự thân thiết là cùng mục đích. Tôi nói về việc vì sao mục tiêu và “nhiệt độ” nhiệt huyết của các thành viên lại quan trọng, và về khác biệt giữa xung đột tốt và xung đột xấu.
+0049	02. Cách chọn đề tài để giành Giải Nhất
+0050	Đừng vội giải bài toán được giao — hãy hỏi trước vì sao bài toán ấy được giao.
+0051	Thay vì đi theo đúng những chữ viết trong đề bài, tôi nói về cách tìm ra nỗi trăn trở thật sự nấp phía sau chúng.
+0052	03. Cách tạo ra ý tưởng giành Giải Nhất
+0053	Khi có ý tưởng, hãy hỏi trước: “Nhưng liệu người ta có bỏ công làm việc này không?”
+0054	Thay vì gượng ép tạo ra ý tưởng lạ mắt, tôi nói về cách kiểm chứng ý tưởng đến cùng từ góc nhìn của người dùng và của người phụ trách.
+0055	04. Cách thuyết trình để giành Giải Nhất
+0056	Thuyết trình không phải bước cuối để gói ghém ý tưởng, mà là quá trình biến ý tưởng thành lựa chọn của ban giám khảo.
+0057	Tôi nói về lý do phải chuẩn bị thuyết trình ngay từ khâu lên kế hoạch chứ không phải sau khi hoàn thành slide, và cách luyện tập thực tế.
+0058	Điều tôi mong bạn chú ý nhất trong bài giảng này không phải sản phẩm, mà là quá trình suy nghĩ.
+0059	Thay vì bắt chước nguyên ý tưởng của tôi, tôi mong bạn mang quá trình — vì sao tôi hỏi như vậy, vì sao tôi bỏ hướng này, vì sao cuối cùng tôi chọn kết luận này — áp dụng vào cuộc thi của mình.
+0060	Vậy thì, ta bắt đầu nhé.
+0061	Làm việc nhóm — bạn sẽ làm cùng ai
+0062	Điều quan trọng hơn một nhóm giỏi · Khớp mục tiêu và nhiệt độ nhiệt huyết
+0063	“Làm nhóm là một cuộc chiến.” Nhưng không phải đánh nhau với người, mà chiến đấu vì một kết quả tốt hơn.
+0064	Khi đã quyết định dự thi, việc đầu tiên phải làm là gì? Chính là lập nhóm.
+0065	Tôi đã tham gia khoảng 50 cuộc thi, và ngay cả những cuộc thi đoạt giải, phần lớn tôi đều đi cùng những đồng đội khác nhau. Điều tôi cảm nhận được chỉ có một.
+0066	Tập hợp toàn người giỏi không có nghĩa là sẽ thành một nhóm tốt.
+0067	Quan trọng hơn là chúng ta có đang nhìn về cùng một hướng không, và nhiệt độ nhiệt huyết có thể dành cho mục tiêu ấy có tương đương nhau không.
+0068	Làm nhóm là một cuộc chiến
+0069	Cuộc chiến tôi nói không phải là to tiếng theo cảm xúc hay so đo ai làm nhiều hơn. Đó là quá trình va chạm ý kiến quanh một mục tiêu để tìm ra kết quả tốt hơn.
+0070	Khi làm nhóm, khác ý kiến là chuyện đương nhiên. Mỗi người có tiêu chuẩn riêng, góc nhìn về vấn đề và cách làm việc khác nhau.
+0071	Nên điều quan trọng không phải là đừng để xung đột xảy ra. Mà là khi xung đột xảy ra, đừng quên chúng ta đang chiến đấu vì điều gì.
+0072	Xung đột tốt và xung đột xấu
+0073	Xung đột xấu
+0074	“Tôi làm tới mức này rồi, sao bạn chỉ làm có vậy?”
+0075	“Tôi thức trắng đêm, sao bạn về trước?”
+0076	Loại xung đột này thường chỉ dừng ở việc so sánh công sức và trách nhiệm của từng người.
+0077	Xung đột tốt
+0078	“Ý tưởng này thật sự giải quyết được vấn đề chứ?”
+0079	“Ban giám khảo có hiểu phần này không?”
+0080	“Có cách nào diễn đạt rõ hơn cách này không?”
+0081	Loại xung đột này đẩy sản phẩm đi theo hướng tốt hơn.
+0082	Nhóm tốt không phải nhóm không có xung đột, mà là nhóm biết xung đột đúng cách để định nghĩa vấn đề chính xác hơn và tạo ra ý tưởng tốt hơn.
+0083	Mục đích quan trọng hơn sự thân thiết
+0084	Thực ra tôi ít làm nhóm dự thi với bạn thân. Không phải quan hệ thân thiết là xấu. Chỉ là sự thân quen có thể ảnh hưởng tới phán đoán công việc.
+0085	Bạn có thể không nói được điều cần nói, đặt quan hệ lên trước khi lẽ ra phải khách quan, hoặc để vấn đề của dự án lan sang cảm xúc cá nhân.
+0086	Nên thay vì người đơn giản là thân và thoải mái, tôi cố lập nhóm với người cùng mục đích và có thể trao đổi ý kiến thẳng thắn.
+0087	Điều quan trọng không phải là thân hay không thân.
+0088	Mà là người này có thể cùng ta “chiến đấu” đúng nghĩa vì cùng một mục tiêu hay không.
+0089	Hãy khớp nhiệt độ nhiệt huyết
+0090	Khi lập nhóm, tôi nghĩ phải kiểm tra mức độ mục tiêu trước khi kiểm tra năng lực.
+0091	Nếu mục tiêu là tích lũy kinh nghiệm, hãy đi cùng người muốn kinh nghiệm; nếu là đoạt giải, hãy đi cùng người muốn đoạt giải; nếu là Giải Nhất, hãy đi cùng người nhắm tới Giải Nhất.
+0092	Ban đầu ai cũng có thể nói “đoạt giải thì tốt quá”. Nhưng càng gần hạn nộp, khác biệt càng lộ ra.
+0093	1. Thời gian đầu tư khác nhau
+0094	Có người muốn sửa thêm để kết quả tốt hơn dù chỉ một chút, có người lại nghĩ “phải làm tới mức này à?”
+0095	2. Tiêu chuẩn hài lòng với sản phẩm khác nhau
+0096	Nếu mục tiêu là kinh nghiệm, có thể hài lòng ở mức nộp được. Nhưng nếu nhắm Giải Nhất, bạn sẽ trăn trở từng câu chữ trong slide, từng hình ảnh, từng thứ tự trình bày.
+0097	3. Số lần chỉnh sửa chịu đựng được khác nhau
+0098	Sửa đi sửa lại cùng một sản phẩm mệt hơn ta tưởng. Người cùng mục tiêu thì dù mệt vẫn sửa tiếp, còn nếu mục tiêu khác nhau thì chính việc sửa lặp lại trở thành xung đột.
+0099	4. Mức nỗ lực chịu được trước hạn nộp khác nhau
+0100	Không có nghĩa là nhất định phải thức trắng đêm. Điều quan trọng là khi nhóm rơi vào tình huống khó, chúng ta sẵn sàng cùng nỗ lực tới đâu vì mục tiêu đã thống nhất.
+0101	Team Check
+0102	Trước khi đánh giá đồng đội, hãy kiểm tra chính mình trước.
+0103	Tôi nhắm tới điều gì trong cuộc thi này?
+0104	Tôi có thể đầu tư bao nhiêu thời gian cho nó?
+0105	Tôi chịu được việc chỉnh sửa và phản hồi lặp đi lặp lại không?
+0106	Khi bất đồng, tôi có nói thẳng được không?
+0107	Khi xảy ra xung đột, tôi có nhìn vào vấn đề mà không công kích con người không?
+0108	Danh sách này không phải để sàng lọc người khác. Nó để bạn tự hỏi trước: “Tôi đã sẵn sàng trở thành đồng đội ở mức mà chính tôi mong muốn chưa?”
+0109	Tóm lại một câu
+0110	Nhóm tốt không phải nhóm không có xung đột. Đó là nhóm cùng một mục tiêu và biết xung đột đúng cách vì kết quả tốt hơn.
+0111	Nếu nhắm tới Giải Nhất, trước khi tìm đồng đội giỏi, hãy hỏi trước.
+0112	“Chúng ta có thật sự đang nhìn về cùng một hướng không?”
+0113	Chọn đề tài — bạn coi điều gì là vấn đề
+0114	Tìm “vấn đề đáng giải” thay vì đề tài hay · Suy nghĩ từ ghế giám khảo
+0115	Đừng vội giải ngay điều ghi trong đề bài. Hãy hỏi “vì sao?” trước.
+0116	Khi đã có nhóm tốt, tiếp theo là chọn đề tài. Tôi cho rằng bản thân việc chọn đề tài đã là một chiến lược.
+0117	Chọn đề tài nào sẽ quyết định số nhóm phải cạnh tranh, độ khó khi cụ thể hóa ý tưởng, và cả khả năng thuyết phục ban giám khảo.
+0118	Nên hơn cả việc nghĩ ra ý tưởng nhanh, tôi coi trọng việc chọn đúng vấn đề mà chúng ta sẽ giải.
+0119	WHY trước HOW
+0120	Khi nhận đề bài, phần lớn mọi người nghĩ ngay tới cách giải.
+0121	“Xây gì trên khu đất căn cứ được hoàn trả?” “Trường nên tổ chức chương trình gì?” “Làm sản phẩm du lịch nào bằng drone?”
+0122	Nhưng trước đó, tôi hỏi một câu.
+0123	“Vậy vì sao thành phố này lại nhờ chúng ta giải quyết đúng vấn đề này?”
+0124	Từ quan trọng ở đây không phải “thế nào”, mà là “vì sao”.
+0125	Hãy nghi ngờ chính câu đề bài
+0126	Ví dụ nếu đề bài nói phải tận dụng khu đất căn cứ được hoàn trả, thì trước khi hỏi “tận dụng thế nào?”, có thể hỏi “có nhất thiết phải tận dụng khu đất đó không?”
+0127	Nếu đề bài nói hãy duy trì bền vững một ngôi trường nhỏ: “Học sinh giảm dần, liệu duy trì trường có thật sự là phương án tốt nhất?”
+0128	Nếu đề bài nói hãy thúc đẩy du lịch drone: “Không có drone thì không thể phát triển ngành du lịch sao?”
+0129	Chỉ khi đặt cả câu hỏi ngược với đề bài, lý do thật sự khiến đề bài tồn tại mới bắt đầu hiện ra.
+0130	Tách phương tiện khỏi mục tiêu
+0131	Điều ghi trong đề bài có thể không phải mục tiêu cuối cùng mà thành phố muốn.
+0132	Tận dụng khu đất căn cứ hoàn trả
+0133	Bản thân khu đất không phải mục tiêu; mục tiêu có thể là phục hồi kinh tế địa phương, mở rộng hạ tầng đô thị, thay đổi hình ảnh vùng.
+0134	Vận hành trường học nhỏ
+0135	Hơn là giữ ngôi trường, mục đích có thể là giữ cộng đồng địa phương, thu hút dân cư sinh hoạt, và giữ nơi này là chỗ có thể nuôi con.
+0136	Du lịch drone
+0137	Hơn là thả drone, mục tiêu có thể là thu hút khách, tăng tiêu dùng địa phương, hình thành ngành nghề và việc làm mới.
+0138	Nên tôi luôn hỏi.
+0139	“Điều ghi trong đề bài là phương tiện hay mục tiêu?”
+0140	“Qua phương tiện đó, vùng này thật sự muốn có thay đổi gì?”
+0141	Hãy thử đổi tên địa phương
+0142	Đây là cách kiểm chứng tôi hay dùng ở các cuộc thi địa phương. Trong ý tưởng, hãy thay tên Yeoncheon bằng một địa phương khác.
+0143	Đổi Yeoncheon thành Pocheon, đổi Pocheon thành Dongducheon.
+0144	Nếu chỉ đổi tên địa phương mà ý tưởng vẫn đứng vững y nguyên, nhiều khả năng bạn chưa suy nghĩ đủ về chính vùng đất đó.
+0145	“Hãy thu hút người trẻ.” “Hãy tăng khách du lịch.” “Hãy quảng bá địa phương.” “Hãy làm chương trình giáo dục.”
+0146	Những giải pháp như vậy áp dụng cho vùng nào cũng được. Từ ghế giám khảo, rốt cuộc chỉ còn một câu hỏi.
+0147	“Nhưng vì sao nhất thiết phải làm ở vùng này?”
+0148	Một ý tưởng thi địa phương tốt phải xử lý vấn đề tồn tại trên cả nước, nhưng có lời giải chỉ nơi đó mới làm được.
+0149	Liệu ta biết nhiều hơn công chức?
+0150	Công chức và người phụ trách đã làm việc lâu năm ở địa phương nhiều khả năng có nhiều thông tin và kinh nghiệm hơn hẳn vài tháng khảo sát của chúng ta.
+0151	Họ có những chính sách đã thử, có dữ liệu tích lũy, và biết vì sao chính sách nào thành công hay thất bại.
+0152	Vậy sinh viên như chúng ta cạnh tranh bằng cách nào?
+0153	Tôi nghĩ ta không cạnh tranh bằng lượng thông tin, mà bằng cách định nghĩa vấn đề.
+0154	Chúng ta có thể nhìn lại vấn đề cũ từ vị trí người dân, người trẻ, khách du lịch, người tiêu dùng, người làm nội dung.
+0155	Ta có thể kết nối các nguồn lực sẵn có theo cách mới, và thay vì một chính sách đồ sộ, đề xuất một điểm thay đổi nhỏ có thể bắt đầu ngay.
+0156	Tình huống thật — Yeoncheon
+0157	Đề tài nhóm tôi chọn là giải pháp ứng phó với suy giảm dân số và già hóa ở Yeoncheon. Ban đầu nó trông như thế này.
+0158	Vấn đề
+0159	Dân số Yeoncheon đang giảm.
+0160	Nhưng khi liên tục đặt câu hỏi, chúng tôi đã định nghĩa lại vấn đề.
+0161	Dân số giảm thì người lao động sản xuất giảm. Người tiêu dùng tại địa phương cũng giảm. Người duy trì ngành nghề và thương mại cũng thiếu.
+0162	Nên chúng tôi đổi vấn đề thành thế này.
+0163	“Yeoncheon thiếu người tiếp tục kiếm tiền, tiêu tiền và duy trì ngành nghề tại đó.”
+0164	Vấn đề đổi thì câu hỏi cũng đổi.
+0165	“Vậy trước khi bằng mọi giá kéo người về Yeoncheon, chẳng phải nên tạo lý do để có thể kiếm tiền ở Yeoncheon trước sao?”
+0166	Từ câu hỏi đó chúng tôi bắt đầu xem xét du lịch và nông nghiệp, và cuối cùng thu hẹp vấn đề về hướng nông nghiệp Yeoncheon và niềm tin của người tiêu dùng.
+0167	Topic Check
+0168	Khi chọn đề tài, hãy thử đặt những câu hỏi sau.
+0169	Vì sao vấn đề này cần được giải quyết?
+0170	Điều ghi trong đề bài là mục tiêu hay phương tiện?
+0171	Đổi tên địa phương rồi ý tưởng vẫn đứng vững chứ?
+0172	Vì sao chính sách hiện có chưa giải quyết được vấn đề?
+0173	Nguồn lực và điều kiện nào chỉ vùng này mới có?
+0174	Nhóm mình có làm tốt đề tài này không?
+0175	Bạn giải thích được vấn đề định giải trong một câu chứ?
+0176	Có thay đổi nhỏ nào có thể bắt đầu ngay bây giờ không?
+0177	Tóm lại một câu
+0178	Chọn đề tài tốt không phải chọn đề tài dễ nhất. Đó là quá trình tìm ra nỗi trăn trở thật sự ẩn sau câu đề bài và định nghĩa lại nó bằng góc nhìn riêng của nhóm.
+0179	Hãy hỏi trước.
+0180	“Vì sao thành phố này muốn giải quyết vấn đề này?”
+0181	“Qua đề bài này, rốt cuộc họ muốn thay đổi điều gì?”
+0182	“Vì thay đổi đó, chúng ta có thể đề xuất điểm khởi đầu mới nào?”
+0183	Ý tưởng — mở rộng suy nghĩ bằng cách nào
+0184	Ý tưởng bắt đầu từ đâu · Cách đào sâu thêm một tầng · Tính khả thi và khác biệt
+0185	Khi có ý tưởng, hãy hỏi đầu tiên: “Nhưng, có đáng để làm không?”
+0186	Nhiều bạn khi chuẩn bị thi thường trăn trở thế này.
+0187	“Làm sao để nghĩ ra ý tưởng sáng tạo?” “Làm sao tạo ra ý tưởng độc đáo mà nhóm khác chưa nghĩ tới?”
+0188	Nhưng tôi không cho rằng mình đặc biệt sáng tạo. Tôi cũng không phải người bỗng lóe lên ý tưởng chưa ai nghĩ tới.
+0189	Thay vào đó, khi tạo ý tưởng tôi lặp đi lặp lại một câu hỏi rất đơn giản.
+0190	“Có đáng không?”
+0191	Hãy gắn “có đáng không?” vào ý tưởng liên tục
+0192	Nếu định xây một cơ sở mới: “Có nhất thiết phải xây cơ sở đó không?”
+0193	Nếu định làm ứng dụng: “Người ta có bỏ công dùng ứng dụng này không?”
+0194	Nếu định kéo khách du lịch: “Giữa vô số vùng, khách có chọn đúng vùng này không?”
+0195	Nếu định tuyển nông dân trẻ: “Giữa vô số vùng, người trẻ có chọn làm nông ở đây không?”
+0196	Lặp lại câu hỏi này, những yếu tố ban đầu trông có vẻ hay sẽ lần lượt biến mất.
+0197	Nhưng ý tưởng teo lại không phải điều xấu. Càng gạt bỏ những phần thừa, vấn đề thật sự cần giải càng hiện ra rõ.
+0198	Khách du lịch có bỏ công tới Yeoncheon không?
+0199	Nhóm tôi ban đầu cũng nghĩ tới du lịch. Khách tới thì dùng quán ăn, quán cà phê, lưu trú, mua đặc sản.
+0200	Nhưng chúng tôi hỏi: “Khách có bỏ công tới Yeoncheon không?”
+0201	Rồi hỏi sâu thêm một bậc: “Lý do gì khiến người ta phải tới Yeoncheon tới hai lần?”
+0202	Một lần ghé có thể tạo ra bằng sự kiện, nhưng ghé lại nhiều lần thì phải có lý do rõ ràng.
+0203	Lặp lại câu hỏi này, chúng tôi nhận định rằng chỉ dựa vào du lịch để tạo ngành nghề bền vững có thể có giới hạn.
+0204	Người trẻ có bỏ công làm nông ở Yeoncheon không?
+0205	Tiếp theo chúng tôi xem xét nông nghiệp. Yeoncheon có nền tảng nông nghiệp và đặc sản, nên có thể nghĩ rằng thu hút nông dân trẻ sẽ tạo việc làm mới.
+0206	Nhưng chúng tôi lại hỏi: “Người trẻ có nhất thiết phải làm nông ở Yeoncheon không?”
+0207	Hỗ trợ nhà ở, trợ cấp, chương trình đào tạo — nhiều địa phương khác cũng có. Vậy nên chỉ hỗ trợ thôi thì chưa đủ lý do để chọn Yeoncheon.
+0208	Thứ cần có, rốt cuộc, là một lý do mang tính ngành nghề khiến người trẻ buộc phải chọn Yeoncheon.
+0209	Người tiêu dùng có bỏ tiền mua nông sản Yeoncheon không?
+0210	Nông nghiệp muốn tiếp tục thì nông sản phải bán được. Nên lần này chúng tôi hỏi từ phía người tiêu dùng.
+0211	“Người tiêu dùng có nhất thiết phải mua nông sản Yeoncheon không?”
+0212	Chỉ vì “trồng ở Yeoncheon” hay “đặc sản Yeoncheon” mà họ trả giá cao hơn sao? Chúng tôi cho rằng khó.
+0213	Nên chúng tôi đổi câu hỏi. “Khi mua nông sản, người tiêu dùng coi trọng điều gì?”
+0214	Có thể là giá, có thể là chất lượng, cũng có thể là độ an toàn và niềm tin vào quá trình sản xuất.
+0215	Từ đó chúng tôi chuyển ý tưởng từ chỗ chỉ quảng bá nông sản Yeoncheon sang hướng “hãy tạo ra lý do rõ ràng để người tiêu dùng chọn nông sản Yeoncheon”.
+0216	Và đó trở thành điểm khởi đầu của ý tưởng nâng cao độ tin cậy cho nông sản Yeoncheon.
+0217	“Tôi có làm không?”
+0218	Ngoài “có đáng không?”, tôi còn hay dùng một câu hỏi nữa: “Tôi có làm không?”
+0219	Trước khi bảo khách du lịch hãy tới: “Nếu tôi là khách, tôi có đi không?”
+0220	Trước khi bảo người trẻ hãy định cư: “Nếu tôi là người trẻ, tôi có sống và làm việc ở đây không?”
+0221	Trước khi bảo người tiêu dùng hãy mua: “Nếu tôi là người tiêu dùng, tôi có mua sản phẩm này không?”
+0222	Người tạo ra ý tưởng rất dễ đánh giá ý tưởng của mình cao hơn thực tế. Nên tôi rời khỏi ghế người đề xuất và nhìn lại từ vị trí người thật sự phải trả tiền, bỏ thời gian và hành động.
+0223	Người ta không hành động chỉ vì ta đã làm rất chăm chỉ
+0224	Muốn người ta hành động thì phải có lý do. Lý do đó có thể là sự thú vị, sự tiện lợi, lợi ích kinh tế, hoặc niềm tin.
+0225	Nên khi tạo ý tưởng, trước câu “chúng ta sẽ làm gì?”, phải nghĩ tới “vì sao người ta sẽ chọn cái này?”
+0226	Bây giờ hãy nhìn từ ghế giám khảo
+0227	Không dừng ở chỗ “có vẻ người dùng sẽ dùng”. Nếu là cuộc thi giải quyết vấn đề địa phương, khả năng cao chính công chức hoặc người phụ trách sẽ chấm ý tưởng.
+0228	Nên tôi lại hỏi.
+0229	“Nếu tôi là công chức phụ trách việc này, tôi có muốn triển khai ý tưởng này không?”
+0230	Có thể bắt đầu bằng ngân sách hiện có không?
+0231	Có thể thử nghiệm trong khuôn khổ thủ tục hành chính không?
+0232	Nếu thất bại thì có gánh được rủi ro không?
+0233	Có đo được hiệu quả không?
+0234	Có giải thích được kết quả cho người dân không?
+0235	Ý tưởng dù hay tới đâu, nếu người phụ trách không dám triển khai thì sức thuyết phục sẽ giảm.
+0236	Sáng tạo hay khả thi?
+0237	Không cần chọn một trong hai. Ý tưởng tốt phải vừa sáng tạo vừa khả thi.
+0238	Và sáng tạo không nhất thiết là tạo ra một hệ thống khổng lồ chưa từng có.
+0239	Kết nối vấn đề và nguồn lực sẵn có theo cách mới, nhìn một vấn đề vốn được coi là hiển nhiên bằng câu hỏi khác, giải quyết một bất tiện nhỏ trong hệ thống hiện tại — tất cả đều có thể là ý tưởng sáng tạo.
+0240	Hãy bắt đầu nhỏ thay vì thay đổi lớn
+0241	Tôi coi trọng việc tìm điểm thay đổi nhỏ hơn là một biến đổi khổng lồ.
+0242	Thay vì “hãy thay đổi mọi thứ từ đầu”, tôi tìm “cái này vẫn đang chạy được, chỉ cần đổi mỗi chỗ này thì chẳng phải sẽ tốt hơn sao?”
+0243	Một ý tưởng tốt cần hai thứ.
+0244	1. Bước đầu tiên có thể bắt đầu ngay
+0245	2. Bước tiếp theo có thể mở rộng khi thành công
+0246	Khởi đầu nhỏ cũng không sao. Nhưng sau khi kiểm chứng hiệu quả thì phải mở rộng được.
+0247	Idea Check
+0248	Khi đã có ý tưởng, hãy tự hỏi.
+0249	Người ta có bỏ công dùng ý tưởng này không?
+0250	Nếu tôi là đối tượng thật, tôi có hành động như vậy không?
+0251	Nó có giải quyết đúng vấn đề hiện tại không?
+0252	Nó khác gì so với chính sách hay hệ thống hiện có?
+0253	Vì sao phải triển khai ở vùng này, vào lúc này?
+0254	Người phụ trách có thật sự triển khai được không?
+0255	Có thể bắt đầu nhỏ không?
+0256	Nếu thành công thì có mở rộng được không?
+0257	Nó có thật sự thay đổi được hành vi của con người không?
+0258	Bạn có nói được trong một câu vì sao ban giám khảo nên chọn ý tưởng này không?
+0259	Tóm lại một câu
+0260	Nếu ý tưởng hay là ý tưởng khiến người ta trầm trồ, thì ý tưởng đoạt Giải Nhất là ý tưởng khiến người ta lựa chọn, hành động và triển khai.
+0261	Khi có ý tưởng, đừng vội giải thích ưu điểm. Hãy hỏi trước.
+0262	“Nhưng liệu người ta có bỏ công làm việc này không?”
+0263	Tôi tin ý tưởng thật sự có thể bắt đầu từ câu hỏi đó.
+0264	Thuyết trình — truyền đạt bằng cách nào
+0265	Làm cho kế hoạch tốt trông đúng như một kế hoạch tốt · Vì sao thuyết trình đổi được kết quả
+0266	Thuyết trình không phải bước cuối để gói ghém ý tưởng. Đó là quá trình biến ý tưởng thành “lựa chọn” của ban giám khảo.
+0267	Khi nhóm tôi đoạt giải, có một câu chúng tôi hay nghe.
+0268	“Nhóm đó được Giải Nhất là nhờ thuyết trình.”
+0269	Lúc đầu tôi thấy hơi ấm ức, vì chúng tôi cũng đã dành rất nhiều thời gian cho phân tích bối cảnh, ý tưởng, đề án và slide.
+0270	Nhưng theo thời gian, suy nghĩ tôi thay đổi. Nếu ai đó nói nhóm tôi được Giải Nhất nhờ thuyết trình, điều đó cũng có nghĩa là chúng tôi đã truyền đạt đủ giá trị của ý tưởng qua phần thuyết trình.
+0271	Hai tháng trăn trở phải gói trong 10 phút
+0272	Ban giám khảo không thể biết chúng ta họp bao nhiêu lần, khảo sát bao nhiêu tài liệu, thức trắng bao nhiêu đêm.
+0273	Thứ họ thấy được chỉ là phần thuyết trình và sản phẩm ta trình bày trong thời gian hạn chế.
+0274	Nếu không làm cho họ hiểu được hai tháng trăn trở trong 10 phút, thì từ ghế giám khảo, giá trị ấy coi như không tồn tại.
+0275	Nên thuyết trình không phải kỹ thuật đánh bóng hay che giấu một ý tưởng yếu.
+0276	Đó là quá trình giúp ban giám khảo hiểu chính xác giá trị của ý tưởng ta tạo ra.
+0277	Thuyết trình không bắt đầu ở phút chót
+0278	Tôi không bắt đầu thuyết trình sau khi slide xong. Ngược lại, tôi nghĩ tới thuyết trình ngay từ đầu quá trình chuẩn bị.
+0279	Khi phân tích bối cảnh: “Phải trình bày tài liệu này theo thứ tự nào thì người nghe mới hiểu mức độ nghiêm trọng của vấn đề?”
+0280	Khi tạo ý tưởng: “Ý tưởng này có giải thích được trong một câu không?”
+0281	Khi làm slide: “Màn hình này có đang hỗ trợ câu chuyện của người thuyết trình không?”
+0282	Khi làm video: “Nếu không có video này thì ý tưởng có khó hiểu không?”
+0283	Phân tích bối cảnh, ý tưởng, sáng tạo, slide và video không phải những việc rời rạc.
+0284	Tất cả phải nối lại để hoàn thành một buổi thuyết trình.
+0285	Cách chắc chắn nhất để thuyết trình tốt
+0286	Đáp án rất đơn giản. Luyện tập.
+0287	Nói mà không nhìn kịch bản, giao tiếp bằng mắt với khán giả, điều chỉnh tốc độ và nhấn nhá giọng nói, nối lại tự nhiên khi lỡ sai — tất cả đều là kết quả của luyện tập.
+0288	Người thuyết trình giỏi không phải người không run. Mà là người dù run vẫn quay lại được mạch đã luyện.
+0289	Cơ hội thuyết trình đến bất chợt, nhưng không thể bất chợt giỏi
+0290	Tôi cũng không giỏi thuyết trình từ đầu. Năm nhất, vì cách phát âm và hình ảnh của tôi, đồng đội đôi khi không giao phần thuyết trình cho tôi.
+0291	Nhưng dù không được giao, tôi vẫn đọc đề án liên tục và tự luyện xem nếu là mình thì sẽ nói theo thứ tự nào.
+0292	Rồi khoảng 20 phút trước giờ trình bày, người thuyết trình quá run nên nhờ tôi trình bày thay.
+0293	Người thuyết trình đổi đột ngột, nhưng tôi đã luyện sẵn từ trước. Nhờ vậy tôi bước lên được sân khấu.
+0294	Cơ hội thuyết trình có thể đến bất chợt, nhưng không thể bất chợt làm tốt.
+0295	Chỉ người đã luyện trước khi cơ hội tới mới nắm được cơ hội ấy.
+0296	Thứ bảo vệ bạn ngay trước giờ trình bày không phải sự tự tin
+0297	Khi đứng trên sân khấu lớn hơn, tôi cũng từng gần như hoảng loạn ngay trước giờ trình bày. Kịch bản không vào mắt và đầu óc trắng xóa.
+0298	Nhưng khi lên sân khấu, mạch trình bày đã lặp đi lặp lại tự nhiên bật ra.
+0299	Thứ bảo vệ bạn ngay trước giờ trình bày không phải sự tự tin, mà là luyện tập lặp lại.
+0300	Sự tự tin có thể lung lay theo phần trình bày của nhóm khác hay theo nét mặt giám khảo. Nhưng mạch trình bày đã thấm vào người thì không dễ biến mất.
+0301	Luyện thuyết trình phải nằm trong lịch trình
+0302	Khi chuẩn bị cuộc thi, ta lên kế hoạch thời gian phân tích bối cảnh, thời gian tạo ý tưởng, thời gian làm slide.
+0303	Nhưng lạ thay, thời gian luyện thuyết trình lại thường không được lên kế hoạch.
+0304	Ta định luyện bằng thời gian còn dư sau khi slide xong. Rốt cuộc việc luyện thật sự bắt đầu vào đêm hôm trước hoặc sáng hôm đó.
+0305	Nhóm tôi luyện được nhiều không phải vì làm xong mọi việc nhanh. Mà vì ngay từ đầu chúng tôi đã xếp toàn bộ lịch trình để giữ được thời gian luyện thuyết trình.
+0306	Không có slide vẫn bắt đầu luyện được
+0307	Bạn có thể nghĩ “slide chưa xong thì luyện kiểu gì?”. Nhưng không có slide vẫn nói được mạch.
+0308	“Chúng tôi phát hiện hiện tượng này.”
+0309	“Các giải pháp hiện có có những giới hạn này.”
+0310	“Nên chúng tôi xem lại vấn đề.”
+0311	“Vấn đề thật sự cần giải là đây.”
+0312	“Vì vậy chúng tôi đề xuất giải pháp này.”
+0313	Chỉ cần nói ra mạch này thôi đã là luyện tập đủ.
+0314	Thậm chí khi nói ra miệng, bạn sẽ phát hiện những chỗ mà logic vốn thấy trơn tru trong đầu lại không nối được trên thực tế.
+0315	Nên tôi cho rằng chính việc luyện thuyết trình là một cách kiểm chứng kế hoạch.
+0316	Không được để slide dẫn dắt buổi thuyết trình
+0317	Người thuyết trình không phải người đọc chữ trên slide. Slide là phương tiện hiển thị thông tin cần thiết để hiểu câu chuyện của người nói.
+0318	Người thuyết trình phải giải thích được ý tưởng ngay cả khi không có slide đẹp. Dù mỗi trang chỉ có tiêu đề và một câu cốt lõi, họ vẫn phải kể được toàn bộ câu chuyện.
+0319	Buổi thuyết trình tốt không phải là màn hình dẫn dắt, mà là người nói sử dụng màn hình.
+0320	Hãy nghĩ tới thứ tự ưu tiên trước khi nghĩ tới thiết kế
+0321	Nhiều người tới sát giờ vẫn đổi màu, chỉnh vị trí ảnh và băn khoăn về phông chữ.
+0322	Dĩ nhiên thiết kế cũng quan trọng. Nhưng nếu còn thêm được một ngày, hãy thử hỏi.
+0323	Việc căn chỉnh slide hoàn hảo hơn một chút có quan trọng không?
+0324	Hay việc giúp người thuyết trình thuyết phục được mà không cần nhìn slide mới quan trọng?
+0325	Tôi cho rằng vế sau phải đi trước.
+0326	Đừng chìm đắm vào phương tiện
+0327	Video, sản phẩm mẫu, đạo cụ, hoạt hình, phần trình diễn. Dùng tốt thì làm buổi thuyết trình mạnh hơn nhiều.
+0328	Nhưng nhóm khác làm video không có nghĩa là ta cũng phải làm. Luôn phải hỏi.
+0329	“Video này có thật sự cần để hiểu ý tưởng không?”
+0330	“Sản phẩm này có thể hiện được cốt lõi của ý tưởng không?”
+0331	“Hay ta làm chỉ vì nhóm khác cũng làm?”
+0332	Phương tiện không dùng để trông cho oách. Nó phải được dùng để truyền cốt lõi của ý tưởng dễ hiểu và rõ ràng hơn.
+0333	Chuẩn bị sẵn cả phần hỏi đáp
+0334	Tôi tự tin với phần đã chuẩn bị, nhưng thấy trả lời ứng khẩu những câu hỏi bất ngờ là tương đối khó. Nên tôi thừa nhận điểm yếu đó và thiết kế tài liệu quanh nó.
+0335	Tôi liệt kê trước các câu hỏi dự kiến.
+0336	Dự án này cần bao nhiêu ngân sách?
+0337	Ai là đơn vị vận hành?
+0338	Khác gì so với chính sách hiện có?
+0339	Có người thật sự tham gia không?
+0340	Hiệu quả sẽ đo bằng cách nào?
+0341	Chẳng phải ý tưởng này ở vùng khác cũng làm được sao?
+0342	Rồi tôi làm thêm các slide trả lời những câu hỏi ấy và đặt ở cuối tài liệu.
+0343	Khi nhận câu hỏi, bạn có thể cho thấy “phần đó chúng tôi cũng đã nghĩ tới rồi”.
+0344	Presentation Practice
+0345	BƯỚC 1. Nói mạch
+0346	Không dùng kịch bản, hãy giải thích bằng lời của mình sẽ nói gì ở từng slide.
+0347	BƯỚC 2. Đo thời gian
+0348	Đo toàn bộ thời gian trình bày và cắt bớt phần không quan trọng.
+0349	BƯỚC 3. Ghi âm và quay lại
+0350	Kiểm tra tốc độ nói, những cách diễn đạt lặp lại, ánh mắt và tư thế.
+0351	BƯỚC 4. Trình bày trước người thật
+0352	Hãy trình bày như thật trước đồng đội, bạn bè, gia đình.
+0353	BƯỚC 5. Câu hỏi dự kiến
+0354	Cố tình trao đổi những câu hỏi sắc bén, tập trung vào phần yếu nhất của ý tưởng.
+0355	Hãy học thuộc logic, đừng học thuộc câu chữ
+0356	Mục tiêu không phải thuộc lòng từng câu từng chữ. Chỉ cần quên một từ là câu tiếp theo cũng có thể biến mất.
+0357	Thay vào đó, bạn phải hiểu mạch sau.
+0358	Vấn đề chúng ta phát hiện là gì?
+0359	Vì sao cách làm hiện có không giải quyết được?
+0360	Giải pháp của chúng ta là gì?
+0361	Vì sao phải chọn giải pháp này?
+0362	Điều tôi coi trọng là thuộc logic hơn là thuộc câu chữ.
+0363	Tóm lại một câu
+0364	Thuyết trình không phải việc làm bằng thời gian còn dư sau khi mọi thứ đã xong.
+0365	Thuyết trình phải bắt đầu ngay từ khoảnh khắc ta tạo ra ý tưởng.
+0366	Nếu ai đó nói với bạn “nhóm kia được Giải Nhất là nhờ thuyết trình”, bạn không nhất thiết phải coi đó là lời chê.
+0367	Nó cũng có nghĩa là trong khi có nhóm có ý tưởng tốt mà không truyền đạt được, chúng ta đã thuyết phục được giá trị của ý tưởng mình tới cùng.
+0368	Trong một cuộc thi, thuyết trình không phải lớp gói cuối cùng cho ý tưởng. Đó là quá trình biến ý tưởng ta tạo ra thành lựa chọn của ban giám khảo.
+0369	Điều cuối cùng tôi muốn nói
+0370	Tích lũy quan trọng hơn giải thưởng · Thất bại để lại gì cho lần sau — video thuyết trình thật tại các cuộc thi
+0371	CUIF 2022
+0372	Cuộc thi Ý tưởng thiết bị XR 2022
+0373	CUIF+ 2025
+0374	Tôi tin vào sức mạnh của sự tích lũy.
+0375	Chuẩn bị một cuộc thi không tự nhiên khiến bạn giỏi lập kế hoạch. Bạn trượt một lần, chọn nhầm đề tài, bí ý tưởng, thuyết trình hỏng — rồi từng chút một, tiêu chuẩn riêng của bạn hình thành.
+0376	Với tôi cũng vậy: những thất bại trước đó định hình lối tư duy hiện tại của tôi nhiều hơn hẳn hai lần đoạt giải CUIF. Nên thay vì nói mong bạn xem bài giảng này rồi giành Giải Nhất ngay, **tôi mong lần thử sức này đọng lại trong bạn như thêm một lớp ‘tích lũy’.** Sự tích lũy ấy chắc chắn sẽ thành kinh nghiệm bạn lấy ra dùng trong kế hoạch kế tiếp.
+0377	Vậy thì, ta bắt đầu nhé.
+0378	Trang này chuyển thể kho tư liệu gốc do anh Choi Junhyeok công khai, dành cho người tham gia 2026 CUIF+. Bản gốc còn có thêm tài liệu và thông tin liên hệ.

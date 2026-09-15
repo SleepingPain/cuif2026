@@ -1,0 +1,1415 @@
+{
+ "lang": "en",
+ "ui": {
+  "home": "Home",
+  "kicker": "ALUMNI PLAYBOOK",
+  "guideTitle": "How to use this page",
+  "otherTitle": "Another alumni lecture",
+  "otherCta": "Open it",
+  "langLabel": "Language",
+  "mtNotice": "Anything other than Korean is machine-translated. If a sentence looks off, please trust the Korean original.",
+  "videoNote": "The videos are in Korean. You can turn on auto-translated subtitles from the YouTube CC button.",
+  "sourceOpen": "Open the original Notion page"
+ },
+ "slug": "osihye",
+ "navTitle": "2026 CUIF Alumni Lecture",
+ "hero": {
+  "title": "2026 CUIF Alumni Lecture",
+  "sub": [
+   "Read first the direction the local government wants,",
+   "then add on top of it the new perspective we have."
+  ]
+ },
+ "speaker": {
+  "name": "Oh Sihye",
+  "meta": "CHA University, class of ’21",
+  "badges": [
+   "CUIF Grand Prize winner",
+   "Entered every year, from first to fourth year",
+   "Excellence Award → Grand Prize → back again with juniors"
+  ],
+  "intro": "I have organised this around the key insight of each section. Please check the details in the videos, and use this page as your all-purpose notebook instead of taking separate notes. For anything else you are curious about, contact me any time at the address below. I wish you every success 🍀"
+ },
+ "contact": {
+  "label": "CONTACT",
+  "value": "ojm910@naver.com"
+ },
+ "guide": [
+  {
+   "when": "If CUIF is new to you",
+   "go": "I recommend watching in order, from 00 Introduction."
+  },
+  {
+   "when": "If you are still deciding whether to enter",
+   "go": "Watch 01 Why do CUIF? first."
+  },
+  {
+   "when": "If you don’t know where to start researching a local government",
+   "go": "02 How to research a local government has the actual procedure."
+  },
+  {
+   "when": "If your idea feels ordinary",
+   "go": "See the Yangju and Pocheon cases in 03 Logic vs. Creative."
+  },
+  {
+   "when": "If managing the schedule feels overwhelming",
+   "go": "04 How to write the plan has recommended durations for each stage."
+  },
+  {
+   "when": "If you are worn out because results aren’t coming",
+   "go": "Please do watch 05 Closing."
+  }
+ ],
+ "guideQuote": {
+  "title": "The one sentence running through this lecture",
+  "body": "Doing a lot of research is not the point. The point is finding the one line of evidence that will support our planning logic."
+ },
+ "chapters": [
+  {
+   "no": "00",
+   "title": "Introduction — why I did CUIF four times",
+   "lead": "Four straight years of CUIF · What lasts longer than a prize",
+   "video": "VQxoLJNsESY",
+   "blocks": [
+    {
+     "t": "h3",
+     "c": "🎯 01. CUIF is not a single prize but a steady accumulation of experience"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "Not being good from the start, but **the experience of simply trying**",
+      "**Planning experience that accumulates** by entering every year from first to fourth year",
+      "**A growth process** running from Excellence Award → Grand Prize → coming back with juniors",
+      "**Planning ability built through repeated attempts**, more than through the results"
+     ]
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "02. CUIF experience becomes an asset that carries into work and employment"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "Using CUIF not as just a competition but as **a chance for real planning experience**",
+      "Connecting the advertising and PR experience built at university to a portfolio and to a job",
+      "**An extension of experience** — using the planning process learned in a competition later in advertising and PR work"
+     ]
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "03. Showing ‘what you did’ matters more than the prize itself"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "Rather than highlighting only the result — **CUIF Grand Prize** — explain the nature of the project concretely enough to be understood",
+      "**Spell out the competition name and what the project was**, so that someone who doesn’t know CUIF can follow it",
+      "More than the contest name, **convey the process: what problem you found and what you planned**"
+     ]
+    },
+    {
+     "t": "quote",
+     "c": "**What matters is not the award record but what I experienced and made inside it**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "04. The attitude of trying again even after a good result"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "**Trying again** even after the Excellence Award",
+      "**Extending the experience** by coming back with juniors even after the Grand Prize",
+      "**Continuing to challenge yourself**, setting a new goal rather than stopping at one success"
+     ]
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "05. CUIF is a project that needs real time and immersion"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "**An intensive preparation period** of roughly 2–3 months every year",
+      "**Long-term immersion** — about a year in total across four years",
+      "**Consistency** — never letting go of CUIF even while running other activities"
+     ]
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "💡 In one sentence"
+    },
+    {
+     "t": "quote",
+     "c": "**CUIF is not a one-off competition for a prize; it is a process of building practical ability and a portfolio through repeated attempts and planning experience**"
+    },
+    {
+     "t": "h3",
+     "c": "Keywords"
+    },
+    {
+     "t": "p",
+     "c": "**Try → repeat → planning experience → prize → portfolio → professional work**"
+    }
+   ]
+  },
+  {
+   "no": "01",
+   "title": "Why do CUIF?",
+   "lead": "Plan → execute → results → report: living the whole professional process early",
+   "video": "LJJUz5aeb_M",
+   "blocks": [
+    {
+     "t": "h3",
+     "c": "🚀 01. The biggest advantage of CUIF = experiencing the whole professional process"
+    },
+    {
+     "t": "p",
+     "c": "CUIF is not merely **a competition where you submit an idea and win a prize**; it is a project where, while still a student, you get to live the professional workflow in advance"
+    },
+    {
+     "t": "p",
+     "c": "The core is that you can experience the whole of **plan → execute → results → report**"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "Proposing and planning the project",
+      "Running a real campaign, e.g. on social media",
+      "Producing physical goods and kits",
+      "Compiling the operating results",
+      "Presenting on the basis of the intent and the outcome"
+     ]
+    },
+    {
+     "t": "p",
+     "c": "→ **A chance to live, in advance, the work structure a professional AE goes through**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "💡 02. In a competition, ‘what you have done’ matters more than ‘winning’"
+    },
+    {
+     "t": "p",
+     "c": "More important than whether you won is **the experience of being able to explain what process produced the result**"
+    },
+    {
+     "t": "quote",
+     "c": "🏆 Not ending at “we won the Grand Prize”"
+    },
+    {
+     "t": "p",
+     "c": "but experience you can explain all the way through: **why we chose this direction → what we executed → what result we produced**"
+    },
+    {
+     "t": "p",
+     "c": "Especially if you ran the project yourself, it extends beyond proposing an idea into **experience that shows you can execute**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "💼 03. CUIF experience works as distinctive practical experience in the job market"
+    },
+    {
+     "t": "p",
+     "c": "**Planning and executing for an actual local government** outside the university is itself rare for a student"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "Practical experience beyond coursework",
+      "A chance to test for yourself whether the AE role suits you",
+      "Experience that sets you apart from other applicants",
+      "Experience that can catch a practitioner’s interest in a real interview"
+     ]
+    },
+    {
+     "t": "p",
+     "c": "In particular, **“as a student I even did a project like this for a local government”** is a powerful differentiator"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "📂 04. How to turn an award into a portfolio"
+    },
+    {
+     "t": "p",
+     "c": "Rather than simply listing awards, **structure it so the planner’s thinking is visible**"
+    },
+    {
+     "t": "h3",
+     "c": "🔎 Portfolio structure"
+    },
+    {
+     "t": "p",
+     "c": "**Situation analysis → problem definition → solution → execution → result → my role**"
+    },
+    {
+     "t": "p",
+     "c": "What matters most is **clearly separating ‘what the team did’ from ‘what I did’**"
+    },
+    {
+     "t": "p",
+     "c": "→ More than the award itself, **a structure that shows what problem I found and how I solved it**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "🧩 05. The value of taking one project deep"
+    },
+    {
+     "t": "p",
+     "c": "When job hunting, out of about 15 portfolio pages **3 were the CUIF project alone** — that is how much value there is in experiencing and explaining one project deeply"
+    },
+    {
+     "t": "p",
+     "c": "Rather than listing many experiences shallowly, **a strategy of taking one project deep, from planning to execution and results**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "⭐ POINT"
+    },
+    {
+     "t": "h3",
+     "c": "CUIF = 🏆 award record + 💼 practical experience + 📂 portfolio + 🧭 a test of fit for the role"
+    },
+    {
+     "t": "p",
+     "c": "What matters in the end is"
+    },
+    {
+     "t": "p",
+     "c": "**“I won a prize at CUIF” ❌**"
+    },
+    {
+     "t": "p",
+     "c": "**“What I actually planned and executed at CUIF” ⭕**"
+    },
+    {
+     "t": "p",
+     "c": "A structure running prize → experience → execution → explanation → portfolio → **employability**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "🔑 Key words"
+    },
+    {
+     "t": "p",
+     "c": "professional process → planning → execution → results → pitch → portfolio → employability"
+    }
+   ]
+  },
+  {
+   "no": "02",
+   "title": "How to research a local government",
+   "lead": "Finding one line of evidence in the city website and its long-term development plan",
+   "video": "kIO9dKSiayA",
+   "blocks": [
+    {
+     "t": "h3",
+     "c": "🎯 01. Conquer the local government website ‘completely’ first"
+    },
+    {
+     "t": "p",
+     "c": "Don’t finish your research with AI, news and portal searches. The core is **going deep into the chosen city or county’s own website first**"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "🏛️ Public data",
+      "📂 Information-disclosure material",
+      "📊 Administrative and statistical material",
+      "🗂️ Open-administration material"
+     ]
+    },
+    {
+     "t": "p",
+     "c": "→ **Securing primary sources the local government itself produces and maintains**"
+    },
+    {
+     "t": "p",
+     "c": "Local government material contains not just information but **hints about what problems the region currently has and which direction it intends to move in**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "📚 02. The document you must find = the ‘long-term comprehensive development plan’"
+    },
+    {
+     "t": "p",
+     "c": "Use the **long-term comprehensive development plan** that most local governments hold as your most important research source"
+    },
+    {
+     "t": "p",
+     "c": "Example: **“Yeoncheon County 2030 Long-Term Comprehensive Development Plan”**"
+    },
+    {
+     "t": "h3",
+     "c": "🔍 What you can find in the document"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "📌 Regional overview and current status",
+      "📊 Analysis of regional conditions",
+      "🧭 Long-term development vision",
+      "🏙️ Sector-by-sector development plans",
+      "⚙️ Implementation and management plans"
+     ]
+    },
+    {
+     "t": "p",
+     "c": "→ It runs to hundreds of pages, but **it is worth reading before you even choose your detailed topic or your local government**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "🧠 03. The long-term plan = the document that tells you what the local government wants"
+    },
+    {
+     "t": "p",
+     "c": "Administrative material written by civil servants is not just paperwork; it is **material accumulated on the basis of a clear purpose and evidence**"
+    },
+    {
+     "t": "p",
+     "c": "So reading the development plan lets you grasp"
+    },
+    {
+     "t": "quote",
+     "c": "🏛️ **“What kind of city does this local government want to become?”**"
+    },
+    {
+     "t": "p",
+     "c": "which you can then work out"
+    },
+    {
+     "t": "p",
+     "c": "In other words, **a process of grasping in advance the direction your client — the local government — wants**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "📊 04. One development plan connects ‘situation analysis → evidence → idea’"
+    },
+    {
+     "t": "p",
+     "c": "The long-term development plan is not mere reference material; it can serve as **the evidence base for the whole proposal**"
+    },
+    {
+     "t": "p",
+     "c": "**① 📊 Situation-analysis material**"
+    },
+    {
+     "t": "p",
+     "c": "Regional status, population, local characteristics and so on"
+    },
+    {
+     "t": "p",
+     "c": "→ **Use as the evidence for the proposal’s situation analysis**"
+    },
+    {
+     "t": "p",
+     "c": "**② 🗣️ Resident opinion material**"
+    },
+    {
+     "t": "p",
+     "c": "Resident surveys, interviews and so on"
+    },
+    {
+     "t": "p",
+     "c": "→ **Use as qualitative evidence supporting the logic**"
+    },
+    {
+     "t": "p",
+     "c": "→ Where needed, **usable much like FGI material**"
+    },
+    {
+     "t": "p",
+     "c": "**③ 🧭 The values the city pursues**"
+    },
+    {
+     "t": "p",
+     "c": "The goals and core values the local government has set for the city"
+    },
+    {
+     "t": "p",
+     "c": "→ **A source for setting the direction of the idea**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "💡 05. Combining ‘what the local government wants’ with ‘our new perspective’"
+    },
+    {
+     "t": "p",
+     "c": "The core is **not simply following the direction the local government set, but adding a perspective only students have**"
+    },
+    {
+     "t": "p",
+     "c": "**The local government’s values**"
+    },
+    {
+     "t": "quote",
+     "c": "🌿 A peace city of coexistence and prosperity"
+    },
+    {
+     "t": "p",
+     "c": "🏕️ An attractive city of ease and rest"
+    },
+    {
+     "t": "p",
+     "c": "⬇️"
+    },
+    {
+     "t": "p",
+     "c": "**Combined with a new student idea**"
+    },
+    {
+     "t": "p",
+     "c": "→ Existing policy and direction + a new viewpoint"
+    },
+    {
+     "t": "p",
+     "c": "→ **Developed into logic and ideas that are only ours**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "🎯 06. Why a ‘tailored proposal’ is persuasive"
+    },
+    {
+     "t": "p",
+     "c": "Once you understand the local government’s direction"
+    },
+    {
+     "t": "p",
+     "c": "**Grasp what the local government wants → set a proposal direction to its taste**"
+    },
+    {
+     "t": "p",
+     "c": "**→ Add a new perspective to existing material → build our team’s own logic**"
+    },
+    {
+     "t": "p",
+     "c": "**⇒ A proposal that stands apart**"
+    },
+    {
+     "t": "p",
+     "c": "That is, not simply presenting a good idea but"
+    },
+    {
+     "t": "quote",
+     "c": "🎯 **“why our idea is needed by this particular local government”**"
+    },
+    {
+     "t": "p",
+     "c": "a structure that can explain exactly that"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "🔑 07. The final goal of research = securing evidence that supports the logic"
+    },
+    {
+     "t": "p",
+     "c": "Doing a lot of research is not the point; the core is **finding the one line of evidence that will support our planning logic**"
+    },
+    {
+     "t": "p",
+     "c": "If you study the local government’s material together with your teammates early on"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "🔎 Finding evidence that fits the logic",
+      "📌 Securing data with a clear source",
+      "🧠 Drawing new insight out of existing administrative material",
+      "💡 Finding a new viewpoint the civil servants had not considered"
+     ]
+    },
+    {
+     "t": "p",
+     "c": "all become possible"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "🚀 The CUIF local-government research formula"
+    },
+    {
+     "t": "p",
+     "c": "🏛️ Explore the local government website → 📚 Find the long-term comprehensive development plan"
+    },
+    {
+     "t": "p",
+     "c": "→ 📊 Analyse status and conditions → secure situation-analysis evidence → 🗣️ Resident surveys and interviews → secure evidence for the logic"
+    },
+    {
+     "t": "p",
+     "c": "→ 🧭 Set the idea direction around the local government’s goals and values → 💡 Add the student’s new perspective"
+    },
+    {
+     "t": "p",
+     "c": "⇒ 🎯 A proposal tailored to the local government"
+    },
+    {
+     "t": "h3",
+     "c": "⭐ The one-line core"
+    },
+    {
+     "t": "quote",
+     "c": "**“Read first the direction the local government wants, then add on top of it the new perspective we have”**"
+    },
+    {
+     "t": "h3",
+     "c": "🔑 Key words"
+    },
+    {
+     "t": "p",
+     "c": "local government website → long-term development plan → status analysis → resident opinion → the government’s direction → new perspective → tailored logic"
+    }
+   ]
+  },
+  {
+   "no": "03",
+   "title": "Logic vs. Creative",
+   "lead": "Redefining the problem, seen through the real Yangju and Pocheon cases",
+   "video": "PHgeJsEhZLQ",
+   "blocks": [
+    {
+     "t": "h3",
+     "c": "🎯 Planning that connects logic and creative"
+    },
+    {
+     "t": "h3",
+     "c": "🧠 01. The essence of planning = a way to solve a problem"
+    },
+    {
+     "t": "p",
+     "c": "Planning is not simply **producing a good idea**"
+    },
+    {
+     "t": "p",
+     "c": "it is **the process of finding a problem and proposing a way to solve it**"
+    },
+    {
+     "t": "quote",
+     "c": "🔑 **A logical approach → finding the problem → the method (How) → creative**"
+    },
+    {
+     "t": "p",
+     "c": "That is, creative is not a separate realm from logic; it is **the concrete method for solving the problem**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "🔗 02. Don’t think of logic and creative separately"
+    },
+    {
+     "t": "p",
+     "c": "The dilemma people often fall into in competition planning"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "📊 Focus only on logic → the idea risks being ordinary",
+      "🎨 Focus only on creative → the idea lacks justification and persuasive power"
+     ]
+    },
+    {
+     "t": "p",
+     "c": "But it is not a choice between the two:"
+    },
+    {
+     "t": "p",
+     "c": "**once you pin down a clear problem → the method for solving it becomes the creative**"
+    },
+    {
+     "t": "quote",
+     "c": "💡 **“Finding the way to solve the logic” matters more than “forcing an original idea”**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "🏙️ 03. Case ① Yangju｜Showing ‘all of Yangju’ rather than promoting attractions"
+    },
+    {
+     "t": "p",
+     "c": "**The brief**"
+    },
+    {
+     "t": "p",
+     "c": "→ Yangju, wanting to become a day-trip destination for the capital region"
+    },
+    {
+     "t": "p",
+     "c": "At first we approached it as"
+    },
+    {
+     "t": "p",
+     "c": "**listing the attractions → and promoting each one**"
+    },
+    {
+     "t": "p",
+     "c": "But in the research we found **falling visitor numbers by living zone, and a gap in how the area was perceived**"
+    },
+    {
+     "t": "h4",
+     "c": "🔎 Redefining the problem"
+    },
+    {
+     "t": "p",
+     "c": "Not simple attraction promotion, but"
+    },
+    {
+     "t": "quote",
+     "c": "**“the problem that people perceive Yangju as split into east and west”**"
+    },
+    {
+     "t": "p",
+     "c": "was, we judged, the core problem"
+    },
+    {
+     "t": "h4",
+     "c": "💡 The creative"
+    },
+    {
+     "t": "p",
+     "c": "**Developing a new tourist route that connects the living zones**"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "A tourist path linking east ↔ west",
+      "Connecting several living zones into one experience",
+      "Leading people to perceive all of Yangju as a single destination"
+     ]
+    },
+    {
+     "t": "p",
+     "c": "→ **Grew into the message “Connecting Yangju”**"
+    },
+    {
+     "t": "p",
+     "c": "📌 **The core:**"
+    },
+    {
+     "t": "p",
+     "c": "**How you define the problem determines the direction of the creative**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "🌊 04. Case ② Pocheon｜Not ‘promotion’ but creating a reason to stay"
+    },
+    {
+     "t": "p",
+     "c": "**The brief**"
+    },
+    {
+     "t": "p",
+     "c": "→ Develop Pocheon, already known as a day-trip destination, into **a one- or two-night stay destination**"
+    },
+    {
+     "t": "p",
+     "c": "At first we considered promoting the existing tourism business more aggressively"
+    },
+    {
+     "t": "p",
+     "c": "But the research showed"
+    },
+    {
+     "t": "quote",
+     "c": "people still perceived Pocheon as **a day-trip destination**"
+    },
+    {
+     "t": "p",
+     "c": "— that was the problem we found"
+    },
+    {
+     "t": "h4",
+     "c": "🔎 Redefining the problem"
+    },
+    {
+     "t": "p",
+     "c": "Simply **“promoting it as a stay destination”** would not change perception"
+    },
+    {
+     "t": "p",
+     "c": "→ **We needed a new tourist experience that actually makes people stay**"
+    },
+    {
+     "t": "h4",
+     "c": "💡 The creative"
+    },
+    {
+     "t": "p",
+     "c": "Rather than changing the physical environment of the Hantan River"
+    },
+    {
+     "t": "p",
+     "c": "**we combined it with ‘learncation’ (learning + vacation), a new tourism trend at the time**"
+    },
+    {
+     "t": "p",
+     "c": "Drawing on the Hantan River’s geological and historical character"
+    },
+    {
+     "t": "p",
+     "c": "→ Developed into **stay-type tourism content where learning and travel coexist**"
+    },
+    {
+     "t": "p",
+     "c": "Realised as concrete tourism programmes, including ones for students"
+    },
+    {
+     "t": "p",
+     "c": "📌 **The core:**"
+    },
+    {
+     "t": "p",
+     "c": "**Interpreting existing resources through a new lens can lead to new creative**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "🎯 05. There is no ‘right formula’ in competitions"
+    },
+    {
+     "t": "p",
+     "c": "CUIF winners are decided in directions that are hard to predict each year"
+    },
+    {
+     "t": "p",
+     "c": "In some years"
+    },
+    {
+     "t": "p",
+     "c": "→ **a logically solid team** is rated highly"
+    },
+    {
+     "t": "p",
+     "c": "In other years"
+    },
+    {
+     "t": "p",
+     "c": "→ **a team with overwhelming creative** is rated highly"
+    },
+    {
+     "t": "p",
+     "c": "So there is no single right answer or standard winning formula"
+    },
+    {
+     "t": "p",
+     "c": "What matters instead is"
+    },
+    {
+     "t": "p",
+     "c": "**logic + creative + a persuasive pitch**"
+    },
+    {
+     "t": "p",
+     "c": "holding all three together"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "🏆 06. The structure of planning that gets close to the Grand Prize"
+    },
+    {
+     "t": "p",
+     "c": "**① Logic**"
+    },
+    {
+     "t": "p",
+     "c": "→ Find the local government’s problem clearly"
+    },
+    {
+     "t": "p",
+     "c": "**② Problem definition**"
+    },
+    {
+     "t": "p",
+     "c": "→ Draw out the core problem to be solved, not a mere symptom"
+    },
+    {
+     "t": "p",
+     "c": "**③ Creative**"
+    },
+    {
+     "t": "p",
+     "c": "→ Present a concrete method for solving the problem"
+    },
+    {
+     "t": "p",
+     "c": "**④ Persuasion**"
+    },
+    {
+     "t": "p",
+     "c": "→ Present why this idea is right for solving the problem"
+    },
+    {
+     "t": "quote",
+     "c": "⭐ **Good creative = not an original idea in itself, but an idea that solves a clearly defined problem**"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "🔑 The core"
+    },
+    {
+     "t": "p",
+     "c": "**❌ “How do we make a more original idea?”**"
+    },
+    {
+     "t": "p",
+     "c": "**⭕ “How do we solve the problem we found?”**"
+    },
+    {
+     "t": "p",
+     "c": "In the end,"
+    },
+    {
+     "t": "p",
+     "c": "research → finding the problem → defining the problem → direction of the solution → creative → a persuasive pitch"
+    },
+    {
+     "t": "p",
+     "c": "keeping that flow unbroken is the core"
+    },
+    {
+     "t": "h3",
+     "c": "💬 In one line"
+    },
+    {
+     "t": "quote",
+     "c": "**Logic gives birth to creative, and when creative solves the problem, a persuasive plan is complete**"
+    }
+   ]
+  },
+  {
+   "no": "04",
+   "title": "How to write the plan",
+   "lead": "Designing a 1–3 month schedule counted backwards from pitch preparation",
+   "video": "mLID3X412jw",
+   "blocks": [
+    {
+     "t": "h3",
+     "c": "⏱️ 01. The core of a plan = design the schedule around the speaker"
+    },
+    {
+     "t": "p",
+     "c": "In a competition that runs 1–3 months, like CUIF, **systematic schedule management and a team process** matter"
+    },
+    {
+     "t": "p",
+     "c": "The speaker is not there only to present; they have to understand the whole plan and the output well enough to deliver it in their own words"
+    },
+    {
+     "t": "p",
+     "c": "So design the whole schedule on the premise of **securing at least 3–5 days for pitch preparation**"
+    },
+    {
+     "t": "quote",
+     "c": "🔑 Fit the schedule around the speaker, but do not simply follow whatever the speaker says"
+    },
+    {
+     "t": "h3",
+     "c": "🔎 02. Planning and research｜up to 7–10 days"
+    },
+    {
+     "t": "p",
+     "c": "The stage running status analysis → finding the problem → drawing insight → setting the direction of the solution"
+    },
+    {
+     "t": "p",
+     "c": "**Recommended: about one week, at most 10 days**"
+    },
+    {
+     "t": "p",
+     "c": "⚠️ Avoid getting buried in one plan for too long"
+    },
+    {
+     "t": "p",
+     "c": "If no direction emerges within a week, you need **the flexibility to drop it and switch to plan B**"
+    },
+    {
+     "t": "p",
+     "c": "What to check at the end of the planning stage"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "Is this a story only our team can follow?",
+      "Is the logic graspable in one go at the pitch?",
+      "Is it too complicated?",
+      "Or conversely, is the logic too thin?"
+     ]
+    },
+    {
+     "t": "h3",
+     "c": "💡 03. The idea｜up to 10 days"
+    },
+    {
+     "t": "p",
+     "c": "The stage of **making the ideas needed for the situation analysis and the solution concrete, through a student’s own lens**"
+    },
+    {
+     "t": "p",
+     "c": "A structure running insight → concept → execution plan"
+    },
+    {
+     "t": "p",
+     "c": "**Make about 3–4 idea plans, compare and select**, then move to producing the material"
+    },
+    {
+     "t": "quote",
+     "c": "✨ You don’t have to find ideas only in the meeting room"
+    },
+    {
+     "t": "p",
+     "c": "Actively collect the ideas that come to you while travelling or in everyday life"
+    },
+    {
+     "t": "h3",
+     "c": "🎨 04. Producing the material｜up to 14 days"
+    },
+    {
+     "t": "p",
+     "c": "The stage of **completing the visual output of the proposal** — deck, images, video"
+    },
+    {
+     "t": "p",
+     "c": "Allow **about two weeks of production**, allowing for collaboration and individual working time"
+    },
+    {
+     "t": "p",
+     "c": "⚠️ Don’t obsess over the polish of the output"
+    },
+    {
+     "t": "p",
+     "c": "The more time you spend the better it looks, but **eating into pitch preparation time hurts the overall result**"
+    },
+    {
+     "t": "quote",
+     "c": "🎯 What matters is not ‘the prettiest output’ but **the ability to visualise effectively within the time you have**"
+    },
+    {
+     "t": "h3",
+     "c": "🗣️ 05. Pitch preparation｜the flower of CUIF"
+    },
+    {
+     "t": "p",
+     "c": "The stage of learning the plan well enough to **explain it fluently and convincingly**"
+    },
+    {
+     "t": "p",
+     "c": "The speaker’s job is not to memorise a script but **to understand the whole material and explain it in their own words**"
+    },
+    {
+     "t": "p",
+     "c": "If the speaker takes part in making the deck as well"
+    },
+    {
+     "t": "p",
+     "c": "→ They understand why each page is laid out as it is"
+    },
+    {
+     "t": "p",
+     "c": "→ They grasp the key message"
+    },
+    {
+     "t": "p",
+     "c": "→ They know what to emphasise on each page"
+    },
+    {
+     "t": "p",
+     "c": "→ They can present naturally without a script"
+    },
+    {
+     "t": "quote",
+     "c": "🏆 Pitching is **experience that carries beyond a winning strategy into communication and interview skills**"
+    },
+    {
+     "t": "h3",
+     "c": "🤝 06. The speaker is not ‘the person who only presents’"
+    },
+    {
+     "t": "p",
+     "c": "The speaker is the core communicator, who must understand the material from A to Z"
+    },
+    {
+     "t": "p",
+     "c": "So it matters that they **take an active part in making the deck and in the planning**"
+    },
+    {
+     "t": "p",
+     "c": "Especially for anyone who wants to build presentation skills, the speaker role is itself good training"
+    },
+    {
+     "t": "h3",
+     "c": "🛍️ 07. If you are ambitious, ‘make it for real’"
+    },
+    {
+     "t": "p",
+     "c": "If you can realise the idea as an actual output — merchandise, running a social account — **leave room in the schedule and go for it**"
+    },
+    {
+     "t": "p",
+     "c": "If the university provides team activity funds or a subsidy, I recommend taking it all the way to production"
+    },
+    {
+     "t": "p",
+     "c": "Real executed output is"
+    },
+    {
+     "t": "p",
+     "c": "→ **a portfolio asset**"
+    },
+    {
+     "t": "p",
+     "c": "→ **an added strength that raises your chance of winning**"
+    },
+    {
+     "t": "h3",
+     "c": "🗓️ The recommended plan at a glance"
+    },
+    {
+     "t": "table",
+     "head": [
+      "Stage",
+      "Recommended duration",
+      "Core goal"
+     ],
+     "rows": [
+      [
+       "🔎 Planning and research",
+       "7–10 days",
+       "Status → problem → insight"
+      ],
+      [
+       "💡 The idea",
+       "up to 10 days",
+       "Insight → concept → execution"
+      ],
+      [
+       "🎨 Producing the material",
+       "up to 14 days",
+       "Finish the deck, images, video"
+      ],
+      [
+       "🗣️ Pitch preparation",
+       "at least 3–5 days",
+       "Learn the material → pitch training"
+      ]
+     ]
+    },
+    {
+     "t": "h3",
+     "c": "🔑 Key points"
+    },
+    {
+     "t": "p",
+     "c": "**① Secure pitch preparation time first, then count the schedule backwards**"
+    },
+    {
+     "t": "p",
+     "c": "**② Flexibility not to get buried in a single plan**"
+    },
+    {
+     "t": "p",
+     "c": "**③ Stage-by-stage time management: planning → idea → production → pitch**"
+    },
+    {
+     "t": "p",
+     "c": "**④ The speaker is not someone who only presents but someone who understands the whole plan**"
+    },
+    {
+     "t": "p",
+     "c": "**⑤ If possible, take it through to real execution and make it a portfolio piece**"
+    },
+    {
+     "t": "quote",
+     "c": "⭐ What matters at CUIF is not ‘making it perfect’ but **completing the team’s thinking within the time given and delivering it convincingly**"
+    }
+   ]
+  },
+  {
+   "no": "05",
+   "title": "Closing",
+   "lead": "The ground you wander becomes your own · A last message for juniors",
+   "video": "WcMqf3-xHgE",
+   "blocks": [
+    {
+     "t": "h3",
+     "c": "🧭 01. The ground you wander becomes your own"
+    },
+    {
+     "t": "p",
+     "c": "The trial and error and the worrying at CUIF are, in the end, **a process of accumulating your own experience and ability**"
+    },
+    {
+     "t": "p",
+     "c": "Even with no prize right now"
+    },
+    {
+     "t": "p",
+     "c": "→ the thinking you did"
+    },
+    {
+     "t": "p",
+     "c": "→ the various attempts"
+    },
+    {
+     "t": "p",
+     "c": "→ the failures and changes of direction"
+    },
+    {
+     "t": "p",
+     "c": "→ what you looked up yourself"
+    },
+    {
+     "t": "p",
+     "c": "all become assets you can use in the next competition and at work"
+    },
+    {
+     "t": "quote",
+     "c": "💡 **Even the wandering you are doing now becomes, someday, yours**"
+    },
+    {
+     "t": "h3",
+     "c": "🤝 02. See your competitors as ‘future teammates’"
+    },
+    {
+     "t": "p",
+     "c": "A great advantage of an in-house competition is that **today’s competitor can become tomorrow’s collaborator**"
+    },
+    {
+     "t": "p",
+     "c": "While watching other teams’ pitches and output"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "Observe what they did well",
+      "Spot people with skills you envy",
+      "Analyse why they are good",
+      "Remember them as teammates you want for the next competition"
+     ]
+    },
+    {
+     "t": "quote",
+     "c": "🔗 Extends into **competition → observation → relationship → future collaboration**"
+    },
+    {
+     "t": "h3",
+     "c": "📁 03. Winning is not everything"
+    },
+    {
+     "t": "p",
+     "c": "**The proposals, decks, videos and ideas produced in the course of CUIF are themselves portfolio assets**"
+    },
+    {
+     "t": "p",
+     "c": "Regardless of whether you win,"
+    },
+    {
+     "t": "p",
+     "c": "it matters to leave behind **“what I made, and with what thinking”**"
+    },
+    {
+     "t": "quote",
+     "c": "🏆 A prize is only one of the outcomes; what remains from taking part is asset enough"
+    },
+    {
+     "t": "h3",
+     "c": "🏫 04. Use the university’s resources to the full"
+    },
+    {
+     "t": "p",
+     "c": "While preparing CUIF, make active use of what the university provides"
+    },
+    {
+     "t": "p",
+     "c": "**Physical resources**"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "Meeting rooms",
+      "Studio and lab space",
+      "Team working space"
+     ]
+    },
+    {
+     "t": "p",
+     "c": "**People**"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "Professors",
+      "Seniors",
+      "Classmates and peers",
+      "People who have done CUIF"
+     ]
+    },
+    {
+     "t": "p",
+     "c": "Rather than trying to solve everything alone, **actively connect the resources around you**"
+    },
+    {
+     "t": "h3",
+     "c": "🎤 05. If you can, try being the speaker"
+    },
+    {
+     "t": "p",
+     "c": "The speaker gets to **produce polished output within a fixed deadline and persuade people face to face**"
+    },
+    {
+     "t": "p",
+     "c": "Through the process you get"
+    },
+    {
+     "t": "p",
+     "c": "→ an understanding of the whole material"
+    },
+    {
+     "t": "p",
+     "c": "→ a clear key message"
+    },
+    {
+     "t": "p",
+     "c": "→ delivery in your own words"
+    },
+    {
+     "t": "p",
+     "c": "→ handling of likely questions"
+    },
+    {
+     "t": "p",
+     "c": "→ stronger communication skills"
+    },
+    {
+     "t": "p",
+     "c": "This is **experience that carries into professional communication and interviews**, not just CUIF"
+    },
+    {
+     "t": "quote",
+     "c": "🔥 If you feel “I want to be good at presenting,” use CUIF as a chance to train it"
+    },
+    {
+     "t": "h3",
+     "c": "🚀 06. Use CUIF as more than ‘a competition you win’"
+    },
+    {
+     "t": "p",
+     "c": "The value of CUIF lies **not only in whether you win**"
+    },
+    {
+     "t": "p",
+     "c": "planning experience + execution experience + pitching experience + collaboration + output + people"
+    },
+    {
+     "t": "p",
+     "c": "As all of it accumulates, it **connects to practical ability and career assets beyond university**"
+    },
+    {
+     "t": "h3",
+     "c": "🔑 The last message for juniors"
+    },
+    {
+     "t": "p",
+     "c": "**① Don’t fear the process of wandering**"
+    },
+    {
+     "t": "p",
+     "c": "**② Learn from your competitors and find future teammates**"
+    },
+    {
+     "t": "p",
+     "c": "**③ Leave output behind, whether or not you win**"
+    },
+    {
+     "t": "p",
+     "c": "**④ Actively use the university and the people around you**"
+    },
+    {
+     "t": "p",
+     "c": "**⑤ If you can, take on the speaker role**"
+    },
+    {
+     "t": "quote",
+     "c": "🌟 **Every worry and misstep you go through at CUIF becomes ‘your own ground’ in the end, and someday becomes experience you use again in another competition and at work**"
+    }
+   ]
+  }
+ ],
+ "closing": {
+  "quote": "The ground you wander becomes your own.",
+  "paras": [
+   "Even with no prize right now, the thinking you did, the various attempts, the failures and changes of direction, and what you looked up yourself all become assets you can use in the next competition and at work.",
+   "Every worry and misstep you go through at CUIF becomes ‘your own ground’ in the end, and **someday becomes experience you use again in another competition and at work**."
+  ],
+  "sign": "I wish you every success 🍀",
+  "note": "This page carries over the lecture Notion that Oh Sihye sent for 2026 CUIF+ participants. The six videos and the original text can also be seen on the original Notion page."
+ },
+ "sourceUrl": "https://app.notion.com/p/2026-CUIF-28656c3cc6fd8030afa5d8f8627eb8f4"
+}

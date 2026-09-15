@@ -173,9 +173,9 @@ export function HeroSection() {
           </div>
         )}
 
-        {/* 선배 노하우 아카이브(/tips) 진입 — 2026 신설 */}
+        {/* 선배 특강 아카이브 진입 — 2026 신설, 9/15 두 편으로 늘어 홈의 목록(#tips)으로 보낸다 */}
         <a
-          href="/tips"
+          href="#tips"
           className="inline-flex items-center gap-2"
           style={{
             marginTop: '12px',
@@ -189,8 +189,8 @@ export function HeroSection() {
         >
           <Trophy className="w-4 h-4" />
           {t(
-            'NEW · 대상 수상 선배가 공개한 「공모전 TIP」 보기',
-            'NEW · Tips from a Grand Prize winner',
+            'NEW · 대상 수상 선배 2인의 「공모전 TIP」 · 7개 언어',
+            'NEW · Tips from two Grand Prize winners · 7 languages',
           )}
         </a>
       </div>

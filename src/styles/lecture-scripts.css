@@ -1,0 +1,51 @@
+/*
+ * 선배 특강 다국어 — 문자별 글꼴 폴백
+ *
+ * Pretendard 는 라틴·한글·키릴까지만 덮는다. 태국 문자·미얀마 문자·데바나가리(네팔어)는
+ * 글리프가 «없다» → 브라우저가 아무 폰트나 골라 잡거나 두부(□)가 뜬다.
+ * 그래서 해당 언어일 때만 그 문자에 맞는 시스템 폰트를 앞에 세운다.
+ * (윈도우 Leelawadee UI / Myanmar Text / Nirmala UI, 맥·iOS Thonburi·Myanmar Sangam MN·Kohinoor,
+ *  안드로이드 Noto Sans … — 셋 중 하나는 거의 모든 기기에 이미 깔려 있다)
+ *
+ * 구글 폰트 Noto Sans 계열은 «고른 언어일 때만» LectureLangSelect 가 <link> 를 꽂아
+ * 추가로 내려받는다. 없어도 위 시스템 폰트로 읽히므로, 강의실 오프라인에서도 깨지지 않는다.
+ */
+
+[data-lecture-lang='th'] {
+  font-family: 'Noto Sans Thai', 'Leelawadee UI', 'Thonburi', 'Tahoma', 'Pretendard', sans-serif;
+}
+
+[data-lecture-lang='my'] {
+  font-family: 'Noto Sans Myanmar', 'Myanmar Text', 'Myanmar Sangam MN', 'Padauk', 'Pretendard',
+    sans-serif;
+  /* 미얀마 문자는 결합 기호가 위아래로 쌓인다 — 줄간격을 조금 더 준다 */
+  line-height: 1.95;
+}
+
+[data-lecture-lang='ne'] {
+  font-family: 'Noto Sans Devanagari', 'Nirmala UI', 'Kohinoor Devanagari', 'Mangal', 'Pretendard',
+    sans-serif;
+}
+
+[data-lecture-lang='mn'] {
+  /* 키릴 몽골 — Pretendard 에 키릴이 있어 그대로 두되 폴백만 넓힌다 */
+  font-family: 'Pretendard', 'Noto Sans', 'Segoe UI', sans-serif;
+}
+
+/* 라틴 표기 언어는 단어 단위로 끊긴다 — 한국어 기준 줄바꿈 규칙을 풀어 준다 */
+[data-lecture-lang='en'],
+[data-lecture-lang='vi'],
+[data-lecture-lang='mn'] {
+  word-break: normal;
+  overflow-wrap: anywhere;
+}
+
+/* 드롭다운 자체는 어떤 언어를 고르든 각 언어 이름이 제 문자로 보여야 한다.
+   ⚠ 원어 표기를 «작은 글씨로 한 줄에 여러 문자» 늘어놓으면 미얀마 문자의 결합 기호가
+   겹쳐 뭉개진다(14px 에서 육안 확인). 원어 표기는 이 드롭다운처럼 글자가 충분히 큰
+   자리에만 두고, 본문 밖 안내 문구에는 화면 언어로 된 «언어 이름»을 쓴다. */
+.cuif-lang-select {
+  font-family: 'Pretendard', 'Noto Sans Thai', 'Noto Sans Myanmar', 'Noto Sans Devanagari',
+    'Leelawadee UI', 'Myanmar Text', 'Nirmala UI', sans-serif;
+  line-height: 1.9;
+}
