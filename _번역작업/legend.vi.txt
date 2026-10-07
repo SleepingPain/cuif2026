@@ -1,0 +1,103 @@
+0000	Trang chủ
+0001	ALUMNI PLAYBOOK
+0002	Hướng dẫn sử dụng
+0003	Bài giảng khác của cựu sinh viên
+0004	Xem ngay
+0005	Ngôn ngữ
+0006	Các ngôn ngữ ngoài tiếng Hàn đều do máy dịch. Nếu thấy nghĩa có vẻ lệch, xin lấy bản tiếng Hàn làm chuẩn.
+0007	Video được trình bày bằng tiếng Hàn. Bạn có thể bật phụ đề dịch tự động từ nút CC của YouTube.
+0008	Xem video trên YouTube
+0009	Tổng hợp mẹo CUIF.zip
+0010	Tổng hợp mẹo CUIF.zip
+0011	Đừng bó mình trong chủ đề được giao,
+0012	hãy lên ý tưởng thật sắc và gọn đến mức cán bộ địa phương phải nói “Cái này dùng được”.
+0013	Yun Hyeyoung · Kim Gaeun
+0014	Khoa Truyền thông Quảng bá Y tế, khóa ’23 · Đội đoạt Giải Đặc biệt CUIF+ 2025 「Jeonseol Iljido」 (Truyền thuyết địa đồ)
+0015	Giải Đặc biệt CUIF+ 2025
+0016	Đội 「Jeonseol Iljido」 · 5 người, gồm anh khóa trên Choi Junhyeok
+0017	Nếm vị đắng ở lần đầu → năm sau đoạt Giải Đặc biệt
+0018	Hai anh chị khóa trên thuộc đội 「Jeonseol Iljido」, đội đoạt Giải Đặc biệt CUIF+ năm ngoái, kể lại quá trình chuẩn bị qua buổi phỏng vấn. Video dài 12 phút được chia và tóm tắt theo từng chủ đề; video gắn ở mỗi phần sẽ phát từ đúng chỗ câu chuyện đó bắt đầu. Phần tóm tắt dưới đây chỉ ghi lại ý chính, nên giọng điệu và không khí thực tế xin xem trong video.
+0019	Nếu CUIF còn mới với bạn
+0020	Nên xem theo thứ tự, bắt đầu từ 00 Giới thiệu đội.
+0021	Nếu bạn chưa chọn được chủ đề
+0022	Hãy xem trước 01 Chọn chủ đề — tìm “bên ngoài” 9 chủ đề.
+0023	Nếu ý tưởng của bạn có vẻ quá quen thuộc
+0024	Phần 02 Lên ý tưởng — sắc và gọn có câu hỏi tự kiểm tra và nơi tìm tài liệu tham khảo.
+0025	Nếu họp nhóm cứ liên tục va chạm
+0026	Hãy xem 03 Họp nhóm — cách tranh luận đúng cách.
+0027	Nếu bạn tò mò ban giám khảo nhìn vào điều gì
+0028	Hãy xem 04 Con mắt giám khảo — từ góc nhìn của cán bộ.
+0029	Nếu bạn lo sẽ không đoạt giải
+0030	Nhất định hãy xem 05 Gửi những bạn tham gia lần đầu.
+0031	Một câu xuyên suốt video này
+0032	Đừng bó mình trong chủ đề được giao, hãy lên ý tưởng thật sắc và gọn đến mức cán bộ địa phương phải nói “Cái này dùng được”.
+0033	Giới thiệu đội — cùng nhau lên ý tưởng, chia việc sản xuất và thuyết trình
+0034	Phân công vai trò của đội 「Jeonseol Iljido」, đội đoạt Giải Đặc biệt CUIF+ 2025
+0035	Đội 「Jeonseol Iljido」 **Giải Đặc biệt** CUIF+ 2025 — đội 5 người, có anh khóa trên Choi Junhyeok
+0036	**Ý tưởng và mạch nội dung làm cùng nhau** — trao đổi ý tưởng và cùng dựng mạch tổng thể
+0037	**Sản xuất do một người làm chính** — một bạn phụ trách thiết kế đảm nhận phần lớn
+0038	**Thuyết trình do anh Choi Junhyeok** — chính là người đã viết bài «TIP cho cuộc thi đoạt (Đặc biệt) giải» trên trang này
+0039	**Lên ý tưởng là việc của tất cả, còn tay chân thì chia ra** — cùng suy nghĩ, nhưng phải định sẵn ai làm và ai nói.
+0040	Chọn chủ đề — tìm “bên ngoài” 9 chủ đề
+0041	Chọn thành phố, nhưng tự mình phát hiện vấn đề
+0042	Vì là cuộc thi, nên đội nghĩ trước tới **chủ đề mà các đội khác sẽ không đụng tới**
+0043	Nếu chỉ chọn trong 9 chủ đề thì suy nghĩ sẽ bị giới hạn → **tìm hiểu tài liệu thật sâu** để tìm ý tưởng mà người khác không làm
+0044	Chỉ chọn một thành phố là **Yeoncheon**, còn chủ đề chi tiết thì **tự mình phát hiện**
+0045	**Trực tiếp đến** Yeoncheon, đi nhiều nơi rồi kết luận “Các chủ đề được giao không có cái nào giải được bằng ý tưởng của sinh viên”, và đặt ra chủ đề mới
+0046	**Ý tưởng của sinh viên có giải quyết được việc này không?** — Nếu hỏi vậy mà không có câu trả lời, hãy tìm chủ đề mới.
+0047	Chọn chủ đề mất nhiều thời gian, nhưng **khi đã chốt được một ý tưởng và concept duy nhất** thì các bước sau không còn khó nữa.
+0048	Lên ý tưởng — sắc và gọn
+0049	Phân bổ thời gian · Câu hỏi tự kiểm tra · Nơi tìm tài liệu tham khảo
+0050	Thời gian được dùng vào đâu
+0051	CUIF cần tính khả thi, nhưng cốt lõi là **sức thuyết phục** → xoay quanh câu hỏi “Kể câu chuyện của mình cho ai thì thuyết phục nhất”, đội **mất rất lâu để xác định đối tượng mục tiêu** và đã làm lại nhiều lần
+0052	Đến tận khoảng hackathon giữa kỳ vẫn **chưa chốt được gì** — liên tục bỏ chủ đề làm lại
+0053	Dành **hơn một nửa tổng thời gian cho việc chọn chủ đề**
+0054	Một người làm thiết kế nhiều trang sẽ mất nhiều thời gian → **phân bổ trước thời gian sản xuất**
+0055	Những điều chú ý khi lên ý tưởng
+0056	Liên tục tự hỏi “Đây có phải **ý tưởng quen thuộc mà đội khác cũng nghĩ ra không?**” để làm cho nó sắc nhất có thể
+0057	Vì không phải chủ đề được giao, nên phải thuyết phục bằng lập luận **tại sao chủ đề này cần thiết và nó khác ở điểm nào** → dồn công vào mạch của bản kế hoạch
+0058	Nhưng nếu cố thể hiện lập luận mà bản kế hoạch **dài ra thì không phải là kế hoạch tốt** → cắt bỏ lời thừa, dùng **câu chữ ngắn gọn**
+0059	Bạn phụ trách thiết kế trăn trở nhất về “Làm sao thể hiện ý tưởng của mình **ấn tượng nhất**”
+0060	Tìm hiểu tài liệu và tham khảo
+0061	Ở giai đoạn lên ý tưởng, **tìm hiểu tài liệu là quan trọng nhất**
+0062	Xem nhiều **tác phẩm đoạt giải** của các cuộc thi lớn do công ty quảng cáo lớn tổ chức và **bài báo liên quan** → ý tưởng kiểu “Dùng cái này để thay đổi thế này thử xem” sẽ xuất hiện
+0063	Về thiết kế, đội tham khảo tác phẩm đoạt giải của các cuộc thi lớn và các trang portfolio như **Pinterest·Behance**
+0064	✅ Câu hỏi tự kiểm tra ý tưởng
+0065	Đội khác có thể nghĩ ra ý tưởng này không?
+0066	Có giải thích được trong một mạch vì sao chủ đề này cần thiết “ngay bây giờ, ở chính địa phương này” không?
+0067	Còn câu nào bỏ đi mà ý vẫn hiểu được không?
+0068	Họp nhóm — cách tranh luận đúng cách
+0069	Có thể tranh luận, nhưng phê bình thì kèm phương án · Họp thì gặp mặt trực tiếp
+0070	**Đừng ngại bất đồng** — “Mình thấy cái này hay hơn”, “Hình như bản trước tốt hơn”, “Đổi thế này thì sao?” Gọt, gọt, rồi gọt nữa thì mới ra ý tưởng tốt hơn
+0071	Có một hai người chính kiến mạnh thì va chạm là chuyện bình thường → cần **một người đứng giữa điều phối**
+0072	Khi có phương án mình không thích, đừng dừng ở câu “Không ổn”, mà hãy đưa ra **lý do không ổn kèm phương án khác** — không được phê bình thiếu căn cứ
+0073	Thay vì lo “Mình có đang giúp ích cho nhóm không”, hãy **cố hết sức để sau này không hối tiếc** — CUIF là cuộc thi mà từng thành viên đều quý giá
+0074	Làm ơn, họp trực tiếp chứ đừng họp online
+0075	Họp mặt trực tiếp thì chuyện riêng cũng xen vào, giúp **tập trung hơn**, và mọi người **nói chuyện thoải mái** mà không bị rụt rè. Đây là điểm hai anh chị nhấn mạnh là “thật sự cực kỳ quan trọng”.
+0076	**Phê bình thì kèm phương án.** Bất đồng là công cụ để gọt ý tưởng, không phải để gọt con người.
+0077	Con mắt giám khảo — từ góc nhìn của cán bộ
+0078	“Cộng thêm” vào chính sách hiện có · Concept xuyên suốt một dòng đến cuối
+0079	Xây dựng ý tưởng **không phải từ góc nhìn sinh viên mà từ góc nhìn cán bộ địa phương** — trong ban giám khảo cũng có cán bộ
+0080	“Nếu mình là cán bộ, mình **có thật sự dùng** ý tưởng này không?”
+0081	Nghĩ xa thêm một bước, như một **phần cộng thêm cho chính sách đang triển khai**
+0082	Đối tượng không phải quảng cáo mà là **địa phương**, nên concept phải liền mạch đến cuối — nếu không, ý tưởng sẽ trông **rời rạc**
+0083	Đừng nghĩ như một cuộc thi nhỏ trong trường
+0084	CUIF có nhiều **giám khảo bên ngoài** đến chấm, và đánh giá **chi tiết theo phiếu chấm điểm**. Vì vậy phải chuẩn bị nghiêm túc hơn, cùng nhau tụ họp thì mới đạt kết quả tốt.
+0085	**“Ý tưởng này, thành phố mình có thể dùng ngay ngày mai không?”** — Nếu trả lời được “Có” thì bạn đã đi được nửa đường.
+0086	Gửi những bạn tham gia lần đầu
+0087	Học hỏi hơn giải thưởng · Lúc bản kế hoạch hỏng · CUIF trong một câu
+0088	Đừng chạy theo giải thưởng
+0089	Lần đầu tham gia, mình nghĩ “Ít nhất cũng được giải khuyến khích…”, nhưng hôm đó nhìn lại thì bản kế hoạch của mình quá tệ — giờ là bản kế hoạch mình tuyệt đối không mở ra xem
+0090	Nếu là lần đầu, hãy coi đây là thời gian học **cách viết bản kế hoạch, quy trình thuyết trình (PT) diễn ra thế nào, và bản kế hoạch của mình sai ở đâu**
+0091	Sau thất bại đó, năm sau đội **nghiến răng** chuẩn bị và đoạt **Giải Đặc biệt** — “Sẽ không lặp lại những gì năm ngoái”
+0092	Lúc bản kế hoạch hỏng
+0093	Khi quá chìm đắm vào bản kế hoạch, sẽ có lúc mọi điều mình nói **đều có vẻ đúng và hợp lý**. Chính lúc đó là lúc nó hỏng. Thỉnh thoảng hãy hỏi **giáo sư**, hoặc nếu ngại thì hỏi **các anh chị khóa trên**: “Thế này ổn không?”
+0094	CUIF trong một câu
+0095	“Nền tảng giúp mình trưởng thành nhiều nhất” — ở CUIF mình đã học cách lên ý tưởng thế nào, sản xuất thế nào, và **làm cho IMC gắn với concept**
+0096	Dù có nhiều lúc mệt mỏi và nản lòng, đừng bỏ cuộc cho đến cuối
+0097	Nếu quá mệt, thỉnh thoảng hãy cùng các thành viên **làm mới tinh thần** — như vậy mới ra ý tưởng tốt hơn
+0098	Sau này nhìn lại, bạn sẽ nói “Nhờ CUIF mà mình đi được đến đây”.
+0099	Lúc đầu có thể bạn sẽ nghĩ “Làm sao đây, mờ mịt quá”. Nhưng khi thật sự bước vào và làm, cách lên ý tưởng, cách sản xuất, cách xâu ý tưởng thành concept sẽ dần dần thấm vào bạn.
+0100	Giống như anh chị khóa trên nếm vị đắng ở lần đầu rồi năm sau đoạt Giải Đặc biệt, **lần chuẩn bị này sẽ là bàn đạp cho thử thách tiếp theo**. Đừng quá lo lắng, hãy cùng các thành viên đi đến cuối nhé.
+0101	Chúc các bạn đạt kết quả tốt. Cố lên! 🏆
+0102	Trang này tóm tắt theo từng chủ đề video phỏng vấn «Những ai lần đầu tham gia CUIF chú ý 👀 Mẹo chuẩn bị từ người đoạt giải.zip» (7/10/2026) đăng trên YouTube của Khoa Truyền thông Quảng bá Y tế. Phần tóm tắt là ý chính dựa trên phụ đề tự động, nội dung gốc xin xem trong video.

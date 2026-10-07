@@ -189,8 +189,8 @@ export function HeroSection() {
         >
           <Trophy className="w-4 h-4" />
           {t(
-            'NEW · 대상 수상 선배 2인의 「공모전 TIP」 · 7개 언어',
-            'NEW · Tips from two Grand Prize winners · 7 languages',
+            'NEW · 대상 수상 선배들의 「공모전 TIP」 3편 · 7개 언어',
+            'NEW · 3 tip sets from Grand Prize winners · 7 languages',
           )}
         </a>
       </div>

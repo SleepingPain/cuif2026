@@ -85,6 +85,12 @@ export const LECTURES = [
     ko: { name: '오시혜', title: '2026 CUIF 선배 특강', meta: '차의과학대학교 21학번' },
     en: { name: 'Oh Sihye', title: '2026 CUIF Alumni Lecture', meta: "CHA University, class of '21" },
   },
+  {
+    slug: 'legend',
+    path: '/tips/legend',
+    ko: { name: '전설일지도 팀', title: 'CUIF 꿀팁 모음.zip', meta: '2025 CUIF+ 대상 · 윤혜영·김가은 23학번' },
+    en: { name: 'Team Jeonseol Iljido', title: 'CUIF Tips.zip', meta: "2025 CUIF+ Grand Prize · Class of '23" },
+  },
 ] as const;
 
 const FILES = import.meta.glob('./*/*.json');

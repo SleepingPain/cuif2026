@@ -30,7 +30,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LECT = os.path.join(ROOT, "src", "content", "lectures")
 WORK = os.path.join(ROOT, "_번역작업")
 LANGS = ["en", "my", "mn", "vi", "th", "ne"]
-SLUGS = ["choijunhyeok", "osihye"]
+SLUGS = ["choijunhyeok", "osihye", "legend"]
 
 # 번역하지 않는 자리 — 기계 식별자·주소·번호·블록 타입('t': p/h3/quote/ul/…)
 SKIP_KEYS = {"lang", "slug", "sourceUrl", "video", "no", "id", "t"}
