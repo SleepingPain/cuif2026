@@ -8,6 +8,7 @@ import { VideoPage } from './pages/VideoPage';
 import { GalleryPage } from './pages/GalleryPage';
 import { TipsPage } from './pages/TipsPage';
 import { TipsOhPage } from './pages/TipsOhPage';
+import { TipsLegendPage } from './pages/TipsLegendPage';
 import { Analytics } from '@vercel/analytics/react';
 
 export default function App() {
@@ -30,6 +31,7 @@ export default function App() {
         <Route path="/gallery" element={<GalleryPage />} />
         <Route path="/tips" element={<TipsPage />} />
         <Route path="/tips/osihye" element={<TipsOhPage />} />
+        <Route path="/tips/legend" element={<TipsLegendPage />} />
         {/* 404 처리: 모든 다른 경로는 홈페이지로 리다이렉트 */}
         <Route path="*" element={<HomePage />} />
       </Routes>

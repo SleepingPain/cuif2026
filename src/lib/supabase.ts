@@ -165,6 +165,31 @@ export interface GalleryImage {
 // ⚠ 배열 순서 = 노출 순서. 메인 화면에는 앞에서 3개만 보인다(NoticeSection).
 const dummyNotices: Notice[] = [
   {
+    id: 7,
+    title: '[선배의 노하우] 2025 대상팀 「전설일지도」 인터뷰 — CUIF 꿀팁 모음.zip',
+    content: `지난해 CUIF+ 대상을 받은 팀 「전설일지도」의 윤혜영·김가은 선배(23학번)가 준비 과정을 인터뷰로 들려줍니다. 학과 유튜브에 올라온 12분 영상을 주제별로 정리해 홈페이지에 올렸습니다.
+
+🎓 00 팀 소개 — 기획은 다 같이, 제작과 발표는 나눠서
+🎓 01 주제 선정 — 9개 주제 «밖»에서 찾기
+🎓 02 기획 — 뾰족하게, 간결하게
+🎓 03 팀 회의 — 제대로 부딪히는 법
+🎓 04 심사위원의 눈 — 공무원 입장에서
+🎓 05 처음 나가는 사람에게
+
+📍 주소: cuif2026.vercel.app/tips/legend
+▶ 영상: https://www.youtube.com/watch?v=eGOHtI8PUSY
+
+🌐 앞의 두 특강처럼 페이지 오른쪽 위 드롭다운에서 7개 언어로 바꿔 볼 수 있습니다(한국어 외는 기계 번역).
+
+"내가 공무원이라면 이 아이디어를 과연 쓸까?"
+
+예선 제안서 제출(10/22) 전에 팀원들과 함께 보시기를 권합니다.`,
+    author: 'CUIF+ 운영진',
+    is_important: true,
+    created_at: '2026-10-07T09:00:00Z',
+    updated_at: '2026-10-07T09:00:00Z'
+  },
+  {
     id: 5,
     title: '[9/18] 2026 CUIF+ 미니해커톤 참가자 모집 (신청 ~9/15)',
     content: `여러분의 신선한 아이디어에 「+」를 더해 줄 미니해커톤 참가자를 모집합니다. 팀이 없어도, 기획을 몰라도 참여할 수 있습니다.
@@ -408,11 +433,14 @@ const dummyVideos: Video[] = [
     updated_at: '2025-09-15T10:00:00Z'
   },
   {
+    // 2026.10.7 학과 유튜브 업로드 — 2025 CUIF+ 대상팀 「전설일지도」 인터뷰. 주제별 정리 = /tips/legend
+    // (옛 2번 「사전설명회 영상」은 youtube 주소가 example2 자리표시라 재생되지 않아 이 영상으로 바꿨다)
+    // ⚠ 홈 소개 영상은 getLatestVideo() = 배열 «첫 칸»이다. 새 영상을 맨 앞에 넣으면 홈 대표 영상이 바뀐다.
     id: 2,
-    title: '사전설명회 영상',
-    youtube_url: 'https://www.youtube.com/embed/example2',
-    created_at: '2025-09-10T14:30:00Z',
-    updated_at: '2025-09-10T14:30:00Z'
+    title: 'CUIF 처음 하는 사람들 주목 👀 수상자가 알려주는 준비 꿀팁.zip',
+    youtube_url: 'https://www.youtube.com/embed/eGOHtI8PUSY',
+    created_at: '2026-10-07T09:00:00Z',
+    updated_at: '2026-10-07T09:00:00Z'
   }
 ];
 

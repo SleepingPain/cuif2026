@@ -1,6 +1,6 @@
 /**
  * 선배 특강 한 편을 그리는 공용 화면.
- * 최준혁(/tips)·오시혜(/tips/osihye) 두 편이 이 컴포넌트 하나를 같이 쓴다.
+ * 최준혁(/tips)·오시혜(/tips/osihye)·전설일지도 팀(/tips/legend) 세 편이 이 컴포넌트 하나를 같이 쓴다.
  *
  * 본문·UI 문구는 전부 src/content/lectures/<slug>/<언어>.json 에서 온다.
  * → 문구를 고칠 때 이 파일을 열 일이 없고, 새 언어를 붙일 때도 JSON 한 장만 더 놓으면 된다.
@@ -265,7 +265,11 @@ export function LectureView({ slug }: { slug: string }) {
     if (el) window.requestAnimationFrame(() => el.scrollIntoView({ block: 'start' }));
   }, [data]);
 
-  const other = useMemo(() => LECTURES.find((l) => l.slug !== slug), [slug]);
+  // 「다른 선배 특강」은 목차 순서의 «다음 편»(끝이면 처음으로) — 세 편이 고리처럼 이어진다
+  const other = useMemo(() => {
+    const i = LECTURES.findIndex((l) => l.slug === slug);
+    return LECTURES[(i + 1) % LECTURES.length];
+  }, [slug]);
   const langMeta = LECTURE_LANGS.find((l) => l.code === lang);
   const isKo = lang === 'ko';
 

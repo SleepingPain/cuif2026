@@ -14,7 +14,8 @@ const BODY = '#3d3d3a';
  * 선배 특강 아카이브 진입점 — 2026 신설.
  *  · 최준혁(2022 CUIF 대상 / 2025 CUIF+ 대상·경기도의회 의장상) → /tips
  *  · 오시혜(21학번 · CUIF 대상, 1~4학년 매년 참여)             → /tips/osihye   (2026.9.15 추가)
- * 두 편 모두 페이지 안에서 7개 언어로 바꿔 볼 수 있다.
+ *  · 전설일지도 팀(2025 CUIF+ 대상 · 윤혜영·김가은 인터뷰 영상)   → /tips/legend   (2026.10.7 추가)
+ * 세 편 모두 페이지 안에서 7개 언어로 바꿔 볼 수 있다.
  *
  * ⚠ 이 칩에 「မြန်မာ · ไทย · नेपाली」처럼 원어 표기를 한 줄에 늘어놓았더니, 14px 에서
  *   미얀마 문자의 결합 기호가 겹쳐 뭉개졌다(육안 확인). 원어 표기는 글자가 충분히 큰
@@ -54,6 +55,21 @@ export function TipsTeaserSection() {
         t('04 플랜 작성법 — 발표 준비부터 거꾸로 세는 일정', '04 Planning — counting back from the pitch'),
       ],
     },
+    {
+      path: '/tips/legend',
+      who: t('전설일지도 팀 · 윤혜영·김가은 23학번', 'Team Jeonseol Iljido · Class of ’23'),
+      title: t('CUIF 꿀팁 모음.zip', 'CUIF Tips.zip'),
+      desc: t(
+        '2025 CUIF+ 대상팀의 인터뷰 영상. 주제를 9개 밖에서 찾은 이유, 팀 회의에서 제대로 부딪히는 법, 공무원의 눈으로 기획하기까지.',
+        'An interview with the 2025 CUIF+ Grand Prize team — finding a topic outside the brief, arguing well as a team, and planning through a civil servant’s eyes.',
+      ),
+      chapters: [
+        t('01 주제 선정 — 9개 주제 «밖»에서 찾기', '01 Topic — look outside the nine briefs'),
+        t('02 기획 — 뾰족하게, 간결하게', '02 Planning — sharp and concise'),
+        t('03 팀 회의 — 비판에는 대안을, 회의는 대면으로', '03 Meetings — criticism with an alternative, face to face'),
+        t('04 심사위원의 눈 — 지금 정책에 «플러스 알파»', '04 The judges’ eye — a plus-alpha on current policy'),
+      ],
+    },
   ];
 
   return (
@@ -68,8 +84,8 @@ export function TipsTeaserSection() {
           </h2>
           <p className="text-lg max-w-2xl mx-auto" style={{ color: BODY, lineHeight: 1.8 }}>
             {t(
-              'CUIF 대상을 받은 두 선배가 팀 구성부터 지자체 리서치, 아이디어, 발표, 일정 설계까지 실제로 썼던 방법을 공개했습니다.',
-              'Two CUIF Grand Prize winners opened up the methods they actually used — team, research, ideas, the pitch, and the schedule.',
+              'CUIF 대상을 받은 선배들이 팀 구성부터 지자체 리서치, 아이디어, 발표, 일정 설계까지 실제로 썼던 방법을 공개했습니다.',
+              'CUIF Grand Prize winners opened up the methods they actually used — team, research, ideas, the pitch, and the schedule.',
             )}
           </p>
           <p
@@ -91,7 +107,7 @@ export function TipsTeaserSection() {
           </p>
         </div>
 
-        <div className="grid md:grid-cols-2 gap-6 max-w-4xl mx-auto">
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto">
           {lectures.map((l) => (
             <div
               key={l.path}

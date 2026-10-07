@@ -1,0 +1,103 @@
+0000	Home
+0001	ALUMNI PLAYBOOK
+0002	How to use this page
+0003	Another alumni lecture
+0004	Open it
+0005	Language
+0006	Anything other than Korean is machine-translated. If a sentence looks off, please trust the Korean original.
+0007	The video is in Korean. You can turn on auto-translated subtitles from the YouTube CC button.
+0008	Watch the video on YouTube
+0009	CUIF Tips Collection.zip
+0010	CUIF Tips Collection.zip
+0011	Don’t get trapped inside the given topics,
+0012	make it sharp and concise enough that a public official says “We’d use this.”
+0013	Yun Hyeyoung · Kim Gaeun
+0014	Dept. of Medical PR & Media, class of ’23 · 2025 CUIF+ Grand Prize team “Jeonseol Iljido (“Maybe a Legend”)”
+0015	2025 CUIF+ Grand Prize
+0016	Team “Jeonseol Iljido” · five members including Choi Junhyeok
+0017	A bitter first try → Grand Prize the next year
+0018	Two members of “Jeonseol Iljido”, the team that won the Grand Prize at last year’s CUIF+, share how they prepared in an interview. We split one 12-minute video by topic, and the video attached to each section starts playing right where that story begins. The summary below gives the main points of the video, so please watch the video for their exact words and mood.
+0019	If CUIF is new to you
+0020	We recommend going in order, starting from 00 Team introduction.
+0021	If you can’t decide on a topic
+0022	Watch 01 Choosing a topic — look “outside” the 9 topics first.
+0023	If your idea feels too ordinary
+0024	02 Planning — sharp and concise has check questions and places to find references.
+0025	If your team meetings keep clashing
+0026	Watch 03 Team meetings — how to clash the right way.
+0027	If you wonder what the judges look at
+0028	Watch 04 Through the judges’ eyes — think like a public official.
+0029	If you’re worried you won’t win a prize
+0030	Please be sure to watch 05 For first-timers.
+0031	The one sentence running through this video
+0032	Don’t get trapped inside the given topics — plan something sharp and concise enough that a local public official says “We’d use this.”
+0033	Team introduction — plan together, split making and presenting
+0034	How the 2025 CUIF+ Grand Prize team “Jeonseol Iljido” divided its roles
+0035	2025 CUIF+ **Grand Prize** team “Jeonseol Iljido” — a five-person team including Choi Junhyeok
+0036	**Planning and flow, all together** — they traded ideas and set the overall flow as a team
+0037	**Making centred on one person** — one design member did most of the production
+0038	**Presenting by Choi Junhyeok** — the very alumnus who wrote “TIPS for winning (grand) prizes in competitions” on this site
+0039	**Planning is everyone’s job, but split the hands** — think together, but decide in advance who makes and who speaks.
+0040	Choosing a topic — look “outside” the 9 topics
+0041	Pick the city, but dig up the problem yourselves
+0042	Since it’s a competition, they started from **topics other teams wouldn’t touch**
+0043	If you only choose within the 9 topics, your thinking gets limited → they **researched deeply** to find ideas others wouldn’t come up with
+0044	They picked just one city, **Yeoncheon**, and **found the detailed topic themselves**
+0045	They **visited Yeoncheon in person** and went around many places, then decided “none of the given topics can be solved with a student idea” and set a new topic
+0046	**Can a student’s idea actually solve this?** — if there’s no answer when you ask that, find a new topic.
+0047	Choosing the topic took a long time, but they say **once they locked in one idea and concept**, the rest wasn’t hard.
+0048	Planning — sharp and concise
+0049	Time allocation · Check questions · Where to find references
+0050	Where did the time go?
+0051	CUIF needs feasibility too, but **persuasiveness** is the key → centred on “who can we show our story to most persuasively,” they spent **a long time on setting the target** and scrapped a lot
+0052	Even around the mid-point hackathon, **nothing was decided** — they kept scrapping topics
+0053	They spent **more than half of all their time on choosing the topic**
+0054	Design also takes long when one person makes many pages → they **allocated production time in advance**
+0055	What they cared about in planning
+0056	They kept asking “Isn’t this **an obvious idea other teams could also think of?**” and made it as sharp as possible
+0057	Because it wasn’t a given topic, they had to persuade with logic **why this topic is needed and what makes it different** → they put effort into the flow of the plan
+0058	But if the plan **gets long** while trying to show logic, **it’s not a good plan** → cut unnecessary words and use **concise wording**
+0059	The design member thought most about “how can we show our idea **in the coolest way**”
+0060	Research and references
+0061	In the planning stage, **research was the most important**
+0062	Look at lots of **winning entries** from big competitions run by major ad agencies and **related news articles** → ideas like “what if we use this and change it like this?” come out
+0063	For design, they referred to winners of big competitions and portfolio sites like **Pinterest·Behance**
+0064	✅ Planning check questions
+0065	Could other teams also come up with this idea?
+0066	Can you explain in one flow why this topic is needed “in this region, now”?
+0067	Are there any sentences left that still make sense if you remove them?
+0068	Team meetings — how to clash the right way
+0069	Clash, but bring an alternative with criticism · Meet face to face
+0070	**Don’t hesitate to disagree** — “I think this is better,” “the earlier one seemed better,” “what if we change it like this?” You have to cut and cut and cut to get a better idea
+0071	If there are one or two people with strong opinions, clashes are bound to happen → you need **someone to mediate in the middle**
+0072	If an option you don’t like comes up, don’t end with “not great” — bring **why it’s not great together with another option** — criticism without reasons is not okay
+0073	Instead of worrying “Am I helping the team?”, **do your best so you won’t regret it later** — CUIF is a competition where every single team member matters
+0074	Please, meet in person, not online
+0075	They say when you meet face to face, personal chat mixes in, **your focus goes up**, and you can **speak freely** without feeling small. This is the part both alumni stressed as “really, really important.”
+0076	**When you criticise, bring an alternative.** Disagreement is a tool for sharpening ideas, not for cutting down people.
+0077	Through the judges’ eyes — think like a public official
+0078	A “plus alpha” on current policy · Keep the concept to one line to the end
+0079	Build your idea **from the local public official’s point of view, not the student’s** — some of the judges are public officials too
+0080	“If I were a public official, **would I really use** this idea?”
+0081	Think one step further, as a **plus alpha on a policy already in place**
+0082	The target is **a region**, not an ad, so the concept must carry through to the end — if it doesn’t, the idea looks **scattered**
+0083	Don’t treat it like a light on-campus contest
+0084	Many **outside judges** come to CUIF, and they evaluate **precisely with score sheets**. So they say you need to prepare more seriously, gathering together as a team, to get good results.
+0085	**“Could our city use this idea starting tomorrow?”** — if you can answer “yes” to this, you’re halfway there.
+0086	For first-timers
+0087	Learning over prizes · When a plan falls apart · CUIF in one word
+0088	Don’t enter just to win a prize
+0089	The first time, they thought “maybe at least an Encouragement Award…”, but on the day they saw their plan was really not good — a plan they never open again now
+0090	If it’s your first time, think of it as time to learn **how to write a plan, how the PT (presentation) goes, and where your plan went wrong**
+0091	After that failure, they prepared **with gritted teeth** the next year and won the **Grand Prize** — “we won’t repeat what we did last year”
+0092	When a plan falls apart
+0093	When you’re deep into your plan, there comes a time when everything you say **seems right and perfectly logical**. That is exactly when it falls apart. Check in with your **professor**, or with **seniors** if that feels like too much, from time to time: “Is this okay?”
+0094	CUIF in one word
+0095	“The foundation where I could grow the most” — at CUIF they learned how to plan, how to make, and how to **connect IMC to the concept**
+0096	Even with many hard and discouraging moments, don’t give up until the end
+0097	When you’re too tired, **refresh** with your teammates now and then — that’s how better ideas come
+0098	Looking back later, you’ll say “I got this far thanks to CUIF.”
+0099	At first you may think “What do I do? I have no idea where to start.” But once you get in and actually try, how to plan, how to make, and how to tie an idea into a concept stay with you, one by one.
+0100	Just as the alumni who tasted a bitter first try won the Grand Prize the next year, **this preparation becomes the stepping stone for your next challenge**. Don’t worry too much, and go all the way with your team.
+0101	We wish you good results. Fighting! 🏆
+0102	This page summarises by topic the interview video “Attention, CUIF first-timers 👀 Prep tips from the winners.zip” (2026.10.7) posted on the Dept. of Medical PR & Media YouTube channel. The summary gives the main points based on auto-generated subtitles; please check the video for the original.

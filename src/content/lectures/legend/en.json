@@ -1,0 +1,292 @@
+{
+ "lang": "en",
+ "ui": {
+  "home": "Home",
+  "kicker": "ALUMNI PLAYBOOK",
+  "guideTitle": "How to use this page",
+  "otherTitle": "Another alumni lecture",
+  "otherCta": "Open it",
+  "langLabel": "Language",
+  "mtNotice": "Anything other than Korean is machine-translated. If a sentence looks off, please trust the Korean original.",
+  "videoNote": "The video is in Korean. You can turn on auto-translated subtitles from the YouTube CC button.",
+  "sourceOpen": "Watch the video on YouTube"
+ },
+ "slug": "legend",
+ "navTitle": "CUIF Tips Collection.zip",
+ "hero": {
+  "title": "CUIF Tips Collection.zip",
+  "sub": [
+   "Don’t get trapped inside the given topics,",
+   "make it sharp and concise enough that a public official says “We’d use this.”"
+  ]
+ },
+ "speaker": {
+  "name": "Yun Hyeyoung · Kim Gaeun",
+  "meta": "Dept. of Medical PR & Media, class of ’23 · 2025 CUIF+ Grand Prize team “Jeonseol Iljido (“Maybe a Legend”)”",
+  "badges": [
+   "2025 CUIF+ Grand Prize",
+   "Team “Jeonseol Iljido” · five members including Choi Junhyeok",
+   "A bitter first try → Grand Prize the next year"
+  ],
+  "intro": "Two members of “Jeonseol Iljido”, the team that won the Grand Prize at last year’s CUIF+, share how they prepared in an interview. We split one 12-minute video by topic, and the video attached to each section starts playing right where that story begins. The summary below gives the main points of the video, so please watch the video for their exact words and mood."
+ },
+ "guide": [
+  {
+   "when": "If CUIF is new to you",
+   "go": "We recommend going in order, starting from 00 Team introduction."
+  },
+  {
+   "when": "If you can’t decide on a topic",
+   "go": "Watch 01 Choosing a topic — look “outside” the 9 topics first."
+  },
+  {
+   "when": "If your idea feels too ordinary",
+   "go": "02 Planning — sharp and concise has check questions and places to find references."
+  },
+  {
+   "when": "If your team meetings keep clashing",
+   "go": "Watch 03 Team meetings — how to clash the right way."
+  },
+  {
+   "when": "If you wonder what the judges look at",
+   "go": "Watch 04 Through the judges’ eyes — think like a public official."
+  },
+  {
+   "when": "If you’re worried you won’t win a prize",
+   "go": "Please be sure to watch 05 For first-timers."
+  }
+ ],
+ "guideQuote": {
+  "title": "The one sentence running through this video",
+  "body": "Don’t get trapped inside the given topics — plan something sharp and concise enough that a local public official says “We’d use this.”"
+ },
+ "chapters": [
+  {
+   "no": "00",
+   "title": "Team introduction — plan together, split making and presenting",
+   "lead": "How the 2025 CUIF+ Grand Prize team “Jeonseol Iljido” divided its roles",
+   "video": "eGOHtI8PUSY?start=43",
+   "blocks": [
+    {
+     "t": "ul",
+     "c": [
+      "2025 CUIF+ **Grand Prize** team “Jeonseol Iljido” — a five-person team including Choi Junhyeok",
+      "**Planning and flow, all together** — they traded ideas and set the overall flow as a team",
+      "**Making centred on one person** — one design member did most of the production",
+      "**Presenting by Choi Junhyeok** — the very alumnus who wrote “TIPS for winning (grand) prizes in competitions” on this site"
+     ]
+    },
+    {
+     "t": "quote",
+     "c": "**Planning is everyone’s job, but split the hands** — think together, but decide in advance who makes and who speaks."
+    }
+   ]
+  },
+  {
+   "no": "01",
+   "title": "Choosing a topic — look “outside” the 9 topics",
+   "lead": "Pick the city, but dig up the problem yourselves",
+   "video": "eGOHtI8PUSY?start=91",
+   "blocks": [
+    {
+     "t": "ul",
+     "c": [
+      "Since it’s a competition, they started from **topics other teams wouldn’t touch**",
+      "If you only choose within the 9 topics, your thinking gets limited → they **researched deeply** to find ideas others wouldn’t come up with",
+      "They picked just one city, **Yeoncheon**, and **found the detailed topic themselves**",
+      "They **visited Yeoncheon in person** and went around many places, then decided “none of the given topics can be solved with a student idea” and set a new topic"
+     ]
+    },
+    {
+     "t": "quote",
+     "c": "**Can a student’s idea actually solve this?** — if there’s no answer when you ask that, find a new topic."
+    },
+    {
+     "t": "p",
+     "c": "Choosing the topic took a long time, but they say **once they locked in one idea and concept**, the rest wasn’t hard."
+    }
+   ]
+  },
+  {
+   "no": "02",
+   "title": "Planning — sharp and concise",
+   "lead": "Time allocation · Check questions · Where to find references",
+   "video": "eGOHtI8PUSY?start=172",
+   "blocks": [
+    {
+     "t": "h3",
+     "c": "Where did the time go?"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "CUIF needs feasibility too, but **persuasiveness** is the key → centred on “who can we show our story to most persuasively,” they spent **a long time on setting the target** and scrapped a lot",
+      "Even around the mid-point hackathon, **nothing was decided** — they kept scrapping topics",
+      "They spent **more than half of all their time on choosing the topic**",
+      "Design also takes long when one person makes many pages → they **allocated production time in advance**"
+     ]
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "What they cared about in planning"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "They kept asking “Isn’t this **an obvious idea other teams could also think of?**” and made it as sharp as possible",
+      "Because it wasn’t a given topic, they had to persuade with logic **why this topic is needed and what makes it different** → they put effort into the flow of the plan",
+      "But if the plan **gets long** while trying to show logic, **it’s not a good plan** → cut unnecessary words and use **concise wording**",
+      "The design member thought most about “how can we show our idea **in the coolest way**”"
+     ]
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "Research and references"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "In the planning stage, **research was the most important**",
+      "Look at lots of **winning entries** from big competitions run by major ad agencies and **related news articles** → ideas like “what if we use this and change it like this?” come out",
+      "For design, they referred to winners of big competitions and portfolio sites like **Pinterest·Behance**"
+     ]
+    },
+    {
+     "t": "callout",
+     "c": [
+      "✅ Planning check questions",
+      "Could other teams also come up with this idea?",
+      "Can you explain in one flow why this topic is needed “in this region, now”?",
+      "Are there any sentences left that still make sense if you remove them?"
+     ]
+    }
+   ]
+  },
+  {
+   "no": "03",
+   "title": "Team meetings — how to clash the right way",
+   "lead": "Clash, but bring an alternative with criticism · Meet face to face",
+   "video": "eGOHtI8PUSY?start=297",
+   "blocks": [
+    {
+     "t": "ul",
+     "c": [
+      "**Don’t hesitate to disagree** — “I think this is better,” “the earlier one seemed better,” “what if we change it like this?” You have to cut and cut and cut to get a better idea",
+      "If there are one or two people with strong opinions, clashes are bound to happen → you need **someone to mediate in the middle**",
+      "If an option you don’t like comes up, don’t end with “not great” — bring **why it’s not great together with another option** — criticism without reasons is not okay",
+      "Instead of worrying “Am I helping the team?”, **do your best so you won’t regret it later** — CUIF is a competition where every single team member matters"
+     ]
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "Please, meet in person, not online"
+    },
+    {
+     "t": "p",
+     "c": "They say when you meet face to face, personal chat mixes in, **your focus goes up**, and you can **speak freely** without feeling small. This is the part both alumni stressed as “really, really important.”"
+    },
+    {
+     "t": "quote",
+     "c": "**When you criticise, bring an alternative.** Disagreement is a tool for sharpening ideas, not for cutting down people."
+    }
+   ]
+  },
+  {
+   "no": "04",
+   "title": "Through the judges’ eyes — think like a public official",
+   "lead": "A “plus alpha” on current policy · Keep the concept to one line to the end",
+   "video": "eGOHtI8PUSY?start=498",
+   "blocks": [
+    {
+     "t": "ul",
+     "c": [
+      "Build your idea **from the local public official’s point of view, not the student’s** — some of the judges are public officials too",
+      "“If I were a public official, **would I really use** this idea?”",
+      "Think one step further, as a **plus alpha on a policy already in place**",
+      "The target is **a region**, not an ad, so the concept must carry through to the end — if it doesn’t, the idea looks **scattered**"
+     ]
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "Don’t treat it like a light on-campus contest"
+    },
+    {
+     "t": "p",
+     "c": "Many **outside judges** come to CUIF, and they evaluate **precisely with score sheets**. So they say you need to prepare more seriously, gathering together as a team, to get good results."
+    },
+    {
+     "t": "quote",
+     "c": "**“Could our city use this idea starting tomorrow?”** — if you can answer “yes” to this, you’re halfway there."
+    }
+   ]
+  },
+  {
+   "no": "05",
+   "title": "For first-timers",
+   "lead": "Learning over prizes · When a plan falls apart · CUIF in one word",
+   "video": "eGOHtI8PUSY?start=378",
+   "blocks": [
+    {
+     "t": "h3",
+     "c": "Don’t enter just to win a prize"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "The first time, they thought “maybe at least an Encouragement Award…”, but on the day they saw their plan was really not good — a plan they never open again now",
+      "If it’s your first time, think of it as time to learn **how to write a plan, how the PT (presentation) goes, and where your plan went wrong**",
+      "After that failure, they prepared **with gritted teeth** the next year and won the **Grand Prize** — “we won’t repeat what we did last year”"
+     ]
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "When a plan falls apart"
+    },
+    {
+     "t": "p",
+     "c": "When you’re deep into your plan, there comes a time when everything you say **seems right and perfectly logical**. That is exactly when it falls apart. Check in with your **professor**, or with **seniors** if that feels like too much, from time to time: “Is this okay?”"
+    },
+    {
+     "t": "hr"
+    },
+    {
+     "t": "h3",
+     "c": "CUIF in one word"
+    },
+    {
+     "t": "ul",
+     "c": [
+      "“The foundation where I could grow the most” — at CUIF they learned how to plan, how to make, and how to **connect IMC to the concept**",
+      "Even with many hard and discouraging moments, don’t give up until the end",
+      "When you’re too tired, **refresh** with your teammates now and then — that’s how better ideas come"
+     ]
+    }
+   ]
+  }
+ ],
+ "closing": {
+  "quote": "Looking back later, you’ll say “I got this far thanks to CUIF.”",
+  "paras": [
+   "At first you may think “What do I do? I have no idea where to start.” But once you get in and actually try, how to plan, how to make, and how to tie an idea into a concept stay with you, one by one.",
+   "Just as the alumni who tasted a bitter first try won the Grand Prize the next year, **this preparation becomes the stepping stone for your next challenge**. Don’t worry too much, and go all the way with your team."
+  ],
+  "sign": "We wish you good results. Fighting! 🏆",
+  "note": "This page summarises by topic the interview video “Attention, CUIF first-timers 👀 Prep tips from the winners.zip” (2026.10.7) posted on the Dept. of Medical PR & Media YouTube channel. The summary gives the main points based on auto-generated subtitles; please check the video for the original."
+ },
+ "sourceUrl": "https://www.youtube.com/watch?v=eGOHtI8PUSY"
+}
